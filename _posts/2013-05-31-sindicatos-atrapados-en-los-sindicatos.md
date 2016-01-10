@@ -31,4 +31,4 @@ Para las subespecies humanas conocidas como "autónomos" y "[falsos autónomos](
 
 En definitiva: necesitamos un sindicato que salga del sindicato.
 
-<iframe width="420" src="https://www.youtube.com/watch?v=Q07l_svOkXQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="420" src="https://www.youtube.com/embed/Q07l_svOkXQ" frameborder="0" allowfullscreen></iframe>
