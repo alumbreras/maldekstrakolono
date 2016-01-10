@@ -30,7 +30,7 @@ Lo que hace el Cesicat vive más bien en el mundo del Excel.
 
 Si el Cesicat vive en el mundo del Excel no es porque estén en la edad de piedra y funcionen con MS-DOS; es que la función del Cesicat, parece ser, es simplemente esa. Por otro lado, las agencias de inteligencia _sí_ tiran de artillería pesada para analizar los millones de datos que recogen. De hecho, hay todo un sector de investigadores haciendo minería de datos para estos objetivos. En algunos congresos sobre minería de datos se ven sesiones dedicadas al "terrorismo" donde investigadores, a menudo financiados por agencias o gobiernos, presentan algunos de sus avances. Si a alguien le interesa esa madriguera puede empezar por [aquí](http://dblp.org/search/#query=terrorism&qp=H1.205:W1.4:F1.4:F2.4:F3.4:F4.4).
 
-[![CIA data mining]({{ site.baseurl }}/assets/CIA-data-mining.png)]
+![CIA data mining]({{ site.baseurl }}/assets/CIA-data-mining.png)
 [![Evolución Palestina-Israel]({{ site.baseurl }}/images/palestina-israel.jpg)]
 La minería de datos para los servicios de inteligencia es un poco como la máquina de la verdad: no te da pruebas pero te indica por donde seguir buscando. Por ejemplo, si somos un gobierno interesado por todos los medios en tumbar a los grupos fascistas, cogería esta red de seguidores de PxC y monitorizaría -online y offline- a los usuarios mejor conectados (en este caso, algunos son concejales):
 
