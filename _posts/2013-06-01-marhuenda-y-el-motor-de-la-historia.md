@@ -16,4 +16,5 @@ La segunda, la contradicción in situ sobre el término "clase media-baja", cans
 Una propuesta de definición: en el vídeo, los que silvan al Borbón.
 
 [youtube]https://www.youtube.com/watch?v=hNlCr_fZ8dI[/youtube]
+{% youtube hNlCr_fZ8dI %}
 <iframe width="420" src="https://www.youtube.com/watch?v=hNlCr_fZ8dI" frameborder="0" allowfullscreen></iframe>
