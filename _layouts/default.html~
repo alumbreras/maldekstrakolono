@@ -30,13 +30,14 @@ var WRInitTime=(new Date()).getTime();
 
 <!-- Page Header -->
 <header>
-   <img src="{{ site.baseurl }}/images/maldekstra_banner.jpg"/> </h1>
+   <img src="{{ site.baseurl }}/images/maldekstra_banner_cut.png"/> </h1>
 <header>
 
 <div class="site">
   <div class="title">
     <a href="{{ site.baseurl }}">La Maldekstra Kolono</a>
-    <a class="extra" href="{{ site.baseurl }}">home</a>
+    <a class="extra" href="{{ site.baseurl }}">inicio</a>
+    <a class="extra" href="{{ site.baseurl }}">archivo</a>
   </div>
 
   {{ content }}
