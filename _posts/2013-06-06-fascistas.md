@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Fascistas
-categories:
-- política
 tags:
 - Clément Méric
 - fascismo
@@ -23,9 +21,8 @@ Es urgente la confluencia y la coordinación de luchas --que es la misma en dife
 
 Al fin y al cabo, cuando aquí en Francia hablan de lucha antifascista [evocan siempre una frase familiar](http://www.alexis-corbiere.com/index.php/post/2013/06/05/L%E2%80%99horreur-fasciste-vient-de-tuer-en-plein-Paris?utm_source=twitterfeed&utm_medium=twitter) : "No pasarán".
 
-[youtube]http://www.youtube.com/watch?v=CuZB9hOQ0DQ[/youtube]
 <iframe width="560" height="420" src="http://www.youtube.com/embed/CuZB9hOQ0DQ?color=white&theme=light"></iframe>
 
-[youtube]http://www.youtube.com/watch?v=ct4-q1f3TOo[/youtube]
+<iframe width="560" height="420" src="http://www.youtube.com/embed/ct4-q1f3TOo?color=white&theme=light"></iframe>
 
-[youtube]http://www.youtube.com/watch?v=M65MKVmIJbw[/youtube]
+<iframe width="560" height="420" src="http://www.youtube.com/embed/M65MKVmIJbw?color=white&theme=light"></iframe>
