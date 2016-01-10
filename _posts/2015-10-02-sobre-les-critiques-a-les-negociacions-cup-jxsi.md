@@ -5,6 +5,9 @@ title: Sobre les crítiques a les negociacions CUP - JxSí
 
 {{ page.title }}
 ================
+
+<p class="meta">19 Jun 2015 - San Francisco</p>
+
 Robo del muro de Joan Tafalla:
 
 > (aquest avis no va adreçat a tots els membres o votants d'EUiA, d'ICV o de PODEM: només afecta a la part desmemoriada o sectària d'aquest conjunt de gent estimable).
