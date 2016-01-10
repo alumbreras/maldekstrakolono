@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Israel-Palestina para no iniciados
-date: 2014-08-02 09:06:25.000000000 +02:00
-type: post
-published: true
-status: publish
 categories:
 - política
 tags:
@@ -18,10 +14,9 @@ Dado que aún quedan reductos de gente algo confundida con el tema de Palestina 
 
 ### **1. Un gráfico.**
 
-[![Evolución Palestina-Israel]({{ site.baseurl }}/images/palestina-israel.jpg)](http://maldekstrakolono.net/wp-content/uploads/2014/08/palestina-israel.jpg)
+[![Evolución Palestina-Israel]({{ site.baseurl }}/images/palestina-israel.jpg)]
 
   
-
 ### **2. Un texto.**
 
 Viene una gente a tu casa -[casa meva és casa vostra si es que hi ha cases d'algú la lala...](https://www.youtube.com/watch?v=9C-SjuP0wZo)- y después de unas broncas iniciales dice mira, que me quedo esta habitación, el comedor, y el armario de tu dormitorio.
@@ -38,13 +33,13 @@ Y luego, hay vecinos y vecinas que escuchan unos ruidos y dicen que la solución
 
 Pero tú ya no tienes donde dormir, a la nevera no te dejan llegar, y esos cabronazos te apalizan cada mes.  
 
-### **3\. Un** **vídeo.**
+### **3. Un vídeo.**
 
-<span style="color: #37404e;">Una breve entrevista a un miembro de Al-Fatah (el principal partido de Palestina, laico y progresista, fundado por Yaser Arafat), vídeo que muestra el nivel de cinismo, de analfabetismo o de obediencia al amo de algunos periodistas... y el ridículo al que se exponen cuando se encuentran delante a dos dedos de frente (subtítulos en castellano disponibles abajo a la derecha).</span>
+Una breve entrevista a un miembro de Al-Fatah (el principal partido de Palestina, laico y progresista, fundado por Yaser Arafat), vídeo que muestra el nivel de cinismo, de analfabetismo o de obediencia al amo de algunos periodistas... y el ridículo al que se exponen cuando se encuentran delante a dos dedos de frente (subtítulos en castellano disponibles abajo a la derecha).
 
 [youtube]https://www.youtube.com/watch?v=m3nLZfm9f0Q[/youtube]  
 
-### **4\. Dos libros.**
+### **4. Dos libros.**
 
 Y para quien quiera rascar más, dos libros cortos, claros y rigurosos:
 
