@@ -1,6 +1,4 @@
-# General Jekyll Config
+markdown: rdiscount
 highlighter: pygments
 baseurl: "/maldekstrakolono" # the subpath of your site, e.g. /blog
-url: "http://alumbreras.github.io" 
-lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+url: "http://alumbreras.github.io"  # the base hostname & protocol for your site
