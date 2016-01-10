@@ -28,6 +28,10 @@ var WRInitTime=(new Date()).getTime();
 </script>
 <!-- ClickTale end of Top part -->
 
+    <header>
+      <h1> <img src="{ site.baseurl }}/images/maldekstra_banner.jpg"/> </h1>
+    <header>
+
 <div class="site">
   <div class="title">
     <a href="{{ site.baseurl }}">La Maldekstra Kolono</a>
