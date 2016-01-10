@@ -15,7 +15,7 @@ Lo sabemos siempre a priori. Ellos también. Toda manifestación que ponga en cu
 
 Y como en toda manifestación, en la de ayer  hubo personas que siguieron sus propias consignas. Quemaron containers y rompieron vidrieras de sucursales bancarias. Muchos medios, como esperábamos, pusieron el acento en esa parte. Consideraron que eso era noticia, pero que no era noticia, por ejemplo, cómo una furgoneta de Mossos d'Esquadra casi atropella a unos estudiantes.
 
-<iframe width="620" height="465" src="http://www.youtube.com/embed/v=L30-5kg_YCk?color=white&theme=light"></iframe>
+<iframe width="620" height="465" src="http://www.youtube.com/embed/L30-5kg_YCk?color=white&theme=light"></iframe>
 
 Ante el salvajismo de la huelga de estudiantes, cerca de allí, se celebra esta semana el Mobile World Congress. 60.000 personas, un número parecido al de los estudiantes en huelga, asisten civilizadamente al evento. ¿Civilizadamente? No todos. Una minoría descontrolada también sigue sus propias consignas. No rompen escaparates; se van de putas. Pero a diferencia de lo que ocurrió con la manifestación de estudiantes, los telediaros no abren la noticia mostrando como grupos de violentos machistas cogen un taxi para irse a los prostíbulos, aún cuando su número es claramente superior a la minoría de "estudiantes" violentos.
 
