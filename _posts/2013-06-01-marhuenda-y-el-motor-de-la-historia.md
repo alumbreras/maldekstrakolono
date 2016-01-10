@@ -5,6 +5,10 @@ tags:
 - Borbones
 - clases
 ---
+
+{{ page.title }}
+================
+
 Dice Marhuenda que los silbidos y abucheos a los otrora decapitados Felipe&Letizia [se deben a la infestación del Liceo por parte de clases medias-bajas](http://www.vilaweb.cat/noticia/4120660/20130531/marhuenda-lesbroncada-princeps-liceu-gent-classe-mitjana-baixa.html).
 
 Dos constataciones:

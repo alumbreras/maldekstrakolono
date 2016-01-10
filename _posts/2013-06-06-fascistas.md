@@ -8,6 +8,10 @@ tags:
 - Front National
 - Le Pen
 ---
+
+{{ page.title }}
+================
+
 El asesinato de Clément Méric [no es un hecho aislado](http://www.humanite.fr/politique/lagression-de-clement-meric-nest-pas-un-acte-pas-i-543212). Los grupos fascistas y de extrema derecha llevan meses sacando pecho. Y el debate sobre la ley del matrimonio homosexual, aprobada hace unas semanas, ha sido el escenario perfecto para darse a conocer con palizas a homosexuales o ataques a bares y locales "de ambiente".
 
 <img src="{{ site.baseurl }}/assets/EXTREMEDROITE2013-2.png" width="600" />

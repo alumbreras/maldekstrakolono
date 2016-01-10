@@ -5,6 +5,10 @@ categories:
 - política
 tags: []
 ---
+
+{{ page.title }}
+================
+
 El sábado pasado, en el programa "La Sexta Noche", tuvo lugar un debate sobre la denostada Ley Wert. Los participantes eran, a la derecha, Alfonso Rojo, periodista y opinólogo profesional en programas como La Noria, El gato al agua, o El Programa de Ana Rosa (su ex-mujer) y, a la izquierda, Pablo Iglesias, profesor de políticas y presentador de los programas de debate [La Tuerka](http://www.latuerka.net/) y [Fort Apache](http://www.fortapache.es/).
 
 Lo más ilustrativo del debate son sus minutos finales (a partir del minuto 25:00). Pablo Iglesias, sospechando la burbuja en la que vive su interlocutor que debe cobrar unas diez veces más que él, le pregunta: ¿cuánto crees que cuesta una matrícula?.

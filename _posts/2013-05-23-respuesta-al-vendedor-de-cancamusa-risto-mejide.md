@@ -7,6 +7,10 @@ tags:
 - cancamusa
 - Risto Mejide
 ---
+
+{{ page.title }}
+================
+
 Dado que el [escrito de Risto Mejide](http://agenciaeternity.wordpress.com/2013/05/19/no-busques-trabajo-4/) "No busques trabajo" se está convirtiendo en meme, copio, a modo de vacuna, un comentario del periodista [Luis Benvenuty](http://www.lavanguardia.com/20101203/54080290402/benvenuty-luis.html):
 
 > El otro día estaba leyendo una columna de Risto Mejide sobre la necesidad de replanteárselo todo, de dejar de buscar trabajo para crearlo, de escarbar dentro de uno mismo para encontrar lo que nos hace diferentes y ofrecerlo a los demás, de la necesidad de reinventarse...

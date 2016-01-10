@@ -3,6 +3,9 @@ layout: post
 title: El 9N o los demonios
 ---
 
+{{ page.title }}
+================
+
 _(**Aviso**: lo que sigue es un intento de sistematizar riesgos y oportunidades de los escenarios que se presentan tras el 9N tras la autolesión a la consulta por parte de CiU. Muchos factores han quedado fuera de consideración, algunos por irrelevantes y otros por negligencia propia.)_
 
 Después de que CiU haya propuesto un Arenys II como táctica para salvar el culo; después de que haya reventando sus compromisos de dos semanas atrás y ante el chantaje que nos insinúa el President de Front Patriòtic o el Caos se vuelven a abrir varios escenarios. Descartando los improbables, nos quedan escenarios que nos llevan a las calderas de Pere Botero o al limbo, y solo unos pocos nos dejan aún en situación de deshacer el nudo y garantizar que en Iberia haya, al menos, un proceso constituyente. A saber:

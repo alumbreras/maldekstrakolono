@@ -9,6 +9,10 @@ tags:
 - universidad
 - violencia
 ---
+
+{{ page.title }}
+================
+
 Barcelona se  llenó ayer de 70.000 estudiantes, profesores y PAS en un clamor que no se veía desde las protestas contra la LOU. La gente salió a la calle porque los recortes en educación precarizan las condiciones, los contratos, los salarios, y nos empujan un paso atrás, más cerca de tiempos donde [la educación se reservaba para las clases altas](http://www.aporrea.org/educacion/a112586.html).
 
 Lo sabemos siempre a priori. Ellos también. Toda manifestación que ponga en cuestión los parámetros establecidos por el poder político será condenada públicamente a través de los medios de desinformación. Da igual que sea para pedir escuelas, da igual que sea para pedir médicos, da igual que sea para pedir paz, [trabajo](http://www.lasmalaslenguas.es/2010/09/26/mineros-terroristas-por-pedir-que-les-paguen-el-sueldo/) o democracia. Ellos lo saben hacer bien y [tienen práctica](http://elblogdemoedetriana.blogspot.com/2012/03/portadasabc.html).
