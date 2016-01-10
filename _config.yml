@@ -1,5 +1,6 @@
 # General Jekyll Config
 highlighter: pygments
-url: http://example.com
+baseurl: "/maldekstrakolono" # the subpath of your site, e.g. /blog
+url: "http://alumbreras.github.io"  # the base hostname & protocol for your site
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
