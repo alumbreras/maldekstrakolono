@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Replicated - An Easier Path from SaaS to Enterprise
+title: Mutando - An Easier Path from SaaS to Enterprise
 ---
 
 {{ page.title }}
@@ -8,56 +8,28 @@ title: Replicated - An Easier Path from SaaS to Enterprise
 
 <p class="meta">19 Jun 2015 - San Francisco</p>
 
-Over the last year I've had a chance to learn a lot more about early stage
-funding and made angel investments in a handful of startups. So far I've
-restricted my involvement to companies with ideas in which I have significant
-domain knowledge. I also insist on founders with relentless product focus, a
-fierce desire to help their customers be more awesome, and excellent
-communication skills. I recently met just such a company, with just such
-founders, tackling a problem that has personally caused me much pain.
+Robo del muro de Joan Tafalla:
 
-The company is [Replicated](http://replicated.com), and founders Grant Miller
-and Marc Campbell are making it easier to roll out an on-prem Enterprise
-offering based on an existing cloud-based SaaS product.
-
-At GitHub, we burned through **a lot** of developer cycles building our own
-installer (several times), securing the installation environment, coding an
-automated licensing management system, integrating single sign-on services
-(LDAP, Active Directory, CAS, etc, etc), building out a searchable audit system,
-supporting customer-reviewable support bundles (logs and other diagnostic
-output), allowing numerous backup strategies, and countless other
-Enterprise-specific features that were killing our Enterprise deals. All of this
-on top of hiring and building out the necessary sales, support, and accounting
-teams to create a smooth Enterprise experience for our customers.
-
-Replicated provides common Enterprise functionality (much of what I mentioned
-above, and all of it eventually) that you can wrap around your SaaS product,
-resulting in a first-class on-prem product in a fraction of the time. Beyond
-just technology, Replicated will help you understand your Enterprise customers
-through documentation on best practices and insight into the requirements and
-reasons that large companies desire the features they do. Until you can
-empathise with your customer (which is very hard to do as a fast-moving SaaS
-startup), you'll never build the best product possible.
-
-Getting into the Enterprise market will always be hard. But by reducing the
-technology burden, Replicated plans to erase much of the pain so you can focus
-on the other human-centric tasks. Not only am I an investor in Replicated, I
-believe in their mission and their founders so much that I've joined as an
-advisor. I understand what the uphill slog of the SaaS to Enterprise climb feels
-like, and I'm going to do my best to ensure you don't have to suffer it as much
-as I did.
-
-I'm also pleased to announce that Travis CI is now shipping their Enterprise
-product using Replicated. To see what the installation process is like, [watch
-Grant install Travis CI
-Enterprise](https://www.youtube.com/watch?v=ViN-qkcovL0&feature=youtu.be) on a
-fresh server in about seven minutes. For a deeper dive, Travis CI has also
-published a blog post covering some of their process in [getting their
-Enterprise installer ready using
-Replicated](http://blog.travis-ci.com/2015-06-19-how-we-improved-travis-ci-installation/).
-
-In the coming weeks, you'll start to see other well-known startups launching (or
-re-launching) Enterprise versions of their SaaS software on top of Replicated.
-If you're looking to do the same, and want to save yourself a lot of heartache,
-email [contact@replicated.com](mailto:contact@replicated.com), and start
-focusing on what matters the most: your unique and kickass product.
+> (aquest avis no va adreçat a tots els membres o votants d'EUiA, d'ICV o de PODEM: només afecta a la part desmemoriada o sectària d'aquest conjunt de gent estimable).
+> 
+> A veure gent desmemoriada d'EUiA, d'ICV i de PODEM ( a aquests últims els perdono una mica: solen venir desmemoriats ja de fàbrica):
+> 
+> a.- No heu votat a la CUP. No li demaneu explicacions pel que han fet amb el vostre vot. Podeu criticar des de les vostres posicions, però no els hi demaneu explicacions. No en teniu dret. En primer lloc, per que encara no han fet res amb els vots d'aquells que els van votar. Estem a l'inici d'una negociació, no al final.
+> 
+> b.- Després de més vint-i-cinc anys de polítiques del mal menor; després de més de vint anys de polítiques TINA (There Is No Alternative, que deia la senyora Margarida); després de mil pactes sindicals venent treballadors; després de més de vint anys de viure a l'ombra del PSC-PSOE; pocs dies després d'aplaudir amb les orelles la traició de Tsipras i de Syriza no us podeu presentar com l'esquerra prístina i pura. O no tenim memòria o no tenim vergonya. No sé què és pitjor.
+> 
+> c.- Alguns encara en tenim de memòria. Alguna crítica de la vostra política en l'època del tripartit? No sento res ... Alguna auto-crítica al pacte Frutos - Almúnia després de que defenestressiu a Julio Anguita? No sento res... Alguna autocrítica de l'època Llamazares? No sento res... Alguna crítica de ls vostra submissió als dogmes europeistes i de la vostra defensa radical i cega de l'euro i de l'UE? No sento res de res...
+> 
+> d.- Vinc de passar llargs anys de crítica minoritària i marginal d' aquestes polítiques TINA (This not Alternative), d'aquestes polítiques del mal menor. Imagino que encara m'esperen molts anys de travessa del desert. Durant aquests anys cada cop que he parlat amb alguns de vosaltres m'heu dit: què vols que fem? no es pot fer altra cosa (TINA) ... Ara feu escarafalls, quan estem en els inicis de la negociació? Ara us poseu "estupendus"? No podeu esperar una mica, a veure què passa?
+> 
+> e.- A part de no tenir memòria no teniu imaginació: les vostres crítiques actuals es llençarien al damunt de vosaltres si el 20 de desembre hi hagués una majoria "d'esquerres" a les eleccions espanyoles i heu d'investir Pedro Sánchez com a president del govern del règim borbònic del 78\. Jo seria una mica més prudent, seriós i rigorós.
+> 
+> f.- La CUP està en aquests moments sotmesa a una ofensiva per terra mar i twitter per part de la dreta catalana. La CUP està aprenent en pròpia carn què és un aliat i què és un enemic que et vol o cooptar ( afalags, copets a l'esquena, bon tracte en el mitjans del sistema...) o destruir. Deixeu-los respirar, deixeu-los treballar, no us afegiu a la pressió. Sobretot no agafeu els titulars que fabrica la "caverneta mediàtica catalana" i no us llenceu a sobre sense reflexió, sense projecte, només per a treure-us la ràbia i la frustració que uns han produit els vostres BRILLANTS resultats electorals.
+> 
+> g.- Ja sé que us demano una tasca que potser us supera: no agafeu la part per el tot. No agafeu el titular de l'ara o de RAC1 com a mostra de la veritat. Això és fer-vos trampes al solitari. Si cal criticar fem-ho, pero llegint la declaració sencera, mirant el conjunt dels moviments de la CUP, la seva dinàmica global, criticar amb visió global, i sobretot, pensant en el futur i no en els vostres interessos estrets de grup o de lobby electoral-sindical. En els vostres llocs de treball perduts o en les vostres carreres polítiques acabades.
+> 
+> h.- La partida acaba de començar. Guardeu el ciri, que la processó és llarga. Observem, intentem entendre el que passa i no el títular fugísser que ens llencen per a intoxicar, informem-nos. Siguem crítics i autocrítics.
+> 
+> i.- Pensem que un cop l'ordre torni a regnar a Barcelona i la burgesia hagi aconseguit recomposar la seva representació política i pactar allò que ha de pactar, la CUP ( ho hagi fet bé o malament, hagi encertat o hagi errat) no serà un enemic, que la CUP serà un aliat, que la CUP i vosaltres estareu al mateix costat de la barricada. En el nou escenari caldrà fer l'unitat popular amb l'esquerra realment existent, la que quedi.
+> 
+> Si algú ha arribat fins aquí que perdoni la "plasta". Pero no sé fer twits ni en vull aprendre.
