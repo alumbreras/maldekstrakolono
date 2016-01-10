@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en_US">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>sudo</title>
+		<meta name="description" content="Very minimal theme for Jekyll aimed at personal blogging">
+		<link rel="stylesheet" href="http://alumbreras.github.io/style.css">
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Sanchez:400,400italic' rel='stylesheet' type='text/css'>
+		<link rel="canonical" href="http://alumbreras.github.io/">
+		<link rel="alternate" type="application/rss+xml" title="sudo" href="http://alumbreras.github.io/feed.xml">
+		<link rel="shortcut icon" href="http://alumbreras.github.io/maldekstrakolono//favicon.ico">
+		<link rel="apple-touch-icon" href="http://alumbreras.github.io/maldekstrakolono/apple-touch-icon.png">
+	</head>
+	<body>
+		<header class="site-header">
+		
+			<h1>
+				<a class="site-title" href="/maldekstrakolono/" title="sudo" rel="home">sudo</a>
+			</h1>
+		
+		</header>
+		<div class="content" role="main">
+			<ul class="entries">
+
+</ul>
+		</div>
+		
+		<footer class="site-footer">
+			<small class="copyright">Copyright &copy; oneohthree</small>
+		</footer>
+		<script>
+			document.body.onscroll = function() {
+				var e = document.getElementById('go-top');
+				if (document.body.scrollTop !=0 || document.documentElement.scrollTop != 0) {
+					e.style.right = '.5em';
+				}
+				else e.style.right = '-1em';
+			}
+			var timeOut;
+			function scrollToTop() {
+				if (document.body.scrollTop !=0 || document.documentElement.scrollTop != 0) {
+					window.scrollBy(0,-50);
+					timeOut=setTimeout('scrollToTop()',5);
+				}
+				else clearTimeout(timeOut);
+			}
+		</script>
+	</body>
+</html>
