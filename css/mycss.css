@@ -15,3 +15,7 @@ blockquote {
   padding-left: 15px;
   border-left: 3px solid #ccc;
 } 
+
+#ptitle {
+  font: 30px normal helvetica, sans-serif;
+}

@@ -1,3 +1,17 @@
 Videos:
-
 <iframe width="620" height="465" src="http://www.youtube.com/embed/REF?color=white&theme=light"></iframe>
+
+========================
+Fechas LOCALE:
+http://stackoverflow.com/questions/10714980/locale-specific-date-in-jekyll
+
+Fechas normal:
+{% assign months =  "en.|febr.|mzo.|abr.|my.|jun.|jul.|ag.|sept.|oct.|nov.|dic."| split: "|" %}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{% assign day = page.date | date: "%-d" %}
+{% assign month = months[m] %}
+{% assign year = page.date | date: "%Y" %}
+<p class="meta">{{ day }} {{ month }} {{ year }}</p>
+
+O bien
+<p class="meta">{{ page.date |  date: '%d.%m.%Y' }}</p>

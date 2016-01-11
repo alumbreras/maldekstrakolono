@@ -2,11 +2,7 @@
 layout: post
 title: Sobre les crítiques a les negociacions CUP - JxSí
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">19 Jun 2015 - San Francisco</p>
+<p class="meta">{{ page.date |  date: '%d.%m.%Y' }}</p>
 
 Robo del muro de Joan Tafalla:
 
