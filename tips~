@@ -14,4 +14,4 @@ Fechas normal:
 <p class="meta">{{ day }} {{ month }} {{ year }}</p>
 
 O bien
-<p class="meta">{{ page.date |  date: '%d/%m/%Y' }}</p>
+<p class="meta">{{ page.date |  date: '%d.%m.%Y' }}</p>
