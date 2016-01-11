@@ -2,7 +2,6 @@
 layout: post
 title: Sobre les crítiques a les negociacions CUP - JxSí
 ---
-<p class="meta">{{ page.date |  date: '%d.%m.%Y' }}</p>
 
 Robo del muro de Joan Tafalla:
 
