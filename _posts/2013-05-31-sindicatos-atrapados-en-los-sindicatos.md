@@ -6,9 +6,6 @@ categories:
 tags: []
 ---
 
-{{ page.title }}
-================
-
 **CCOO y UGT son sindicatos** [CT](http://www.kubidetik.com/ct-cultura-transicion/), organizaciones de trabajadores que aprendieron a moverse desde la Transición en un tablero que ellas mismas estrenaban. El tablero, definido por los Pactos de la Moncloa, y más tarde por la Constitución, consistía en algunos de los derechos sociales y laborales que el resto de países de Europa disfrutaba desde después de la Segunda Guerra Mundial: derecho a huelga, negociación colectiva, derecho a readmisión, limitación del despido libre, libertad de expresión, derecho de reunión, pensión de jubilación, educación pública... A cambio, claro, nos tragaríamos sapos como el de la banderita, el del bipartidismo, el de los cuatrocientos cerrojos a los independentismoso el de no tocar dos soberanías: la del Borbón y la del Mercado.
 
 Sobre este tablero, con sus más y sus menos, los sindicatos podían cumplir su función con cierto margen, aunque la llegada casi simultánea del neoliberalismo con Thatcher y Reagan, a finales de los 70 y principios de los 80, llevó a los sindicatos hacia posiciones más defensivas. Si la Historia hubiera tomado otro camino, quizás hoy estaríamos discutiendo si, gracias al aumento de la productividad, avanzamos la jubilación a los 60 o a los 62, y no si la subimos a los 67 o a los 70; o cuánto vale el voto de un trabajador en las elecciones a su junta directiva, y no cuánto se le indemniza por un ERE que permita a los accionistas cobrar más dividendos.

@@ -8,9 +8,6 @@ tags:
 - Palestina
 ---
 
-{{ page.title }}
-================
-
 Dado que aún quedan reductos de gente algo confundida con el tema de Palestina e Israel, aquí van algunos conceptos rápidos de entender.
 
 ### **1. Un gráfico.**

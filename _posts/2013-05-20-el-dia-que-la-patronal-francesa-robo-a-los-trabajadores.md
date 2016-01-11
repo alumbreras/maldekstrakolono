@@ -7,9 +7,6 @@ tags:
 - trabajo forzado
 ---
 
-{{ page.title }}
-================
-
 En el nombre del Padre, del Hijo y del Espíritu Santo.
 
 **Hoy es lunes; fiesta de Pentecostés;** cincuenta días tras la resurección del ciudadano Jesús de Natzaret, hijo de un humilde carpintero y una honrada prostituta.  En Pentecostés, los trabajadores de muchos países europeos celebramos el día en el que Espíritu Santo descendió de los cielos, se posó sobre las cabezas de los apóstoles y, tomando una forma de [lengua de fuego](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=r-08zTvVoKsJXM&tbnid=4VhdaOb0FUhOjM:&ved=0CAUQjRw&url=http%3A%2F%2Fwww.todanoticia.com%2F41900%2Feligen-logo-rolling-stones-como%2F&ei=yAaZUZbHHYbTtAakkICQDg&bvm=bv.46751780,d.Yms&psig=AFQjCNGhnQ-_KW-P1XAFAJzjl0HmQPCcTw&ust=1369069638566143), les otorgó el nivel C de todas las lenguas del mundo.

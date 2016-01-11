@@ -16,9 +16,6 @@ tags:
 - Robespierre
 ---
 
-{{ page.title }}
-================
-
 <p><i>(Publicació feta al número especial de la JCC al 11 de setembre de 2014, http://www.jcc.cat/#revista)</i></p>
 <p><em>Et comment ça marche cette... affaire… à la Catalogne ?</em> La pregunta és recurrent; la resposta, de corredissa. El resultat, nul. Explicar a un francès el procés sobiranista català és com explicar-li a un inuit com funciona un aire condicionat. <em>Compliqué</em>.</p>
 <p>La comunicació requereix d’una base cultural comuna que permeti que, en pronunciar una paraula, els interlocutors pensin en el mateix concepte. Federalisme, a França, no és el mateix que federalisme a Espanya. Al país gal, federalisme evoca el projecte de la burgesia girondina per evitar que la República, des de París, interferís en els seus interessos (esclavatge colonial, comerç...); <strong>Robespierre</strong>, en canvi, reivindicava la unitat de la nació. A Espanya, federalisme evoca Pi i Maragall i la unitat de la nació evoca <strong>Franco</strong>.</p>

@@ -11,9 +11,6 @@ tags:
 - Teoría del Equilibrio General
 ---
 
-{{ page.title }}
-================
-
 En lo que llevamos de siglo XXI el planeta ha experimentado nueve de los diez años más calientes desde que se tienen registros de temperatura. La temperatura media en 2011, por ejemplo, ha sido 0.51ºC superior a la que teníamos a mitad del siglo XX.
 
 Obsérvese que las temperaturas aumentan especialmente en los polos, lo que indica que no es fruto de una mayor temperatura solar sino del efecto invernadero.
