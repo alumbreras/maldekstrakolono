@@ -8,7 +8,6 @@ title: La Maldekstra Kolono
     {% for post in site.posts limit:10%}
 	<div id="post">
 		<div id="ptitle"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></div> <!-- note: instead of defining ptitle, we could use h1 and make h1 bigger in the css -->
-		
 		<p class="meta">{{ post.date |  date: '%d.%m.%Y' }}</p>
 		{{ post.excerpt | remove: '<blockquote>' | remove: '</blockquote>' | remove: '<p>' | remove: '</p>'}}
 		<p> <a href="{{site.baseurl}}{{ post.url }}">Leer más...</a></p>

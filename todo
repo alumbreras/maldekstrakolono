@@ -1,5 +1,4 @@
-Archivo en pagina archivo
-En principal, mostrar titulo y extractos
+* Adaptar post.excerpt (que no se rompa en blockquotes sino que vaya por palabras si es que es posible!) 
 
 Disqus
 
