@@ -19,3 +19,9 @@ blockquote {
 #ptitle {
   font: 30px normal helvetica, sans-serif;
 }
+
+#ptitle a {
+    text-decoration: none;
+    color: black;
+}
+

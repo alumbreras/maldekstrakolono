@@ -5,12 +5,13 @@ title: La Maldekstra Kolono
 
 <div id="home">
   <ul>
-    {% for post in site.posts limit:3%}
+    {% for post in site.posts limit:10%}
 	<div id="post">
-		<div id="ptitle">{{ post.title }}</div> <!-- note: instead of defining ptitle, we could use h1 and make h1 bigger in the css -->
+		<div id="ptitle"><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></div> <!-- note: instead of defining ptitle, we could use h1 and make h1 bigger in the css -->
+		
 		<p class="meta">{{ post.date |  date: '%d.%m.%Y' }}</p>
-		{{ post.excerpt | remove: '<blockquote>' | remove: '</blockquote>'}}
-		<a href="{{site.baseurl}}{{ post.url }}">Leer más...</a>
+		{{ post.excerpt | remove: '<blockquote>' | remove: '</blockquote>' | remove: '<p>' | remove: '</p>'}}
+		<p> <a href="{{site.baseurl}}{{ post.url }}">Leer más...</a></p>
 	</div>
 	<br>
 
