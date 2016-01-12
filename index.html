@@ -4,10 +4,18 @@ title: La Maldekstra Kolono
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+    {% for post in site.posts limit:3%}
+      <li>
+     </li>
+	<div id="post">
+		<div id="ptitle">{{ post.title }}</div> <!-- note: instead of defining ptitle, we could use h1 and make h1 bigger in the css -->
+		<p class="meta">{{ post.date |  date: '%d.%m.%Y' }}</p>
+		{{ post.excerpt | remove: '<blockquote>' | remove: '</blockquote>'}}
+		<a href="{{site.baseurl}}{{ post.url }}">Leer más...</a>
+	</div>
+	<br><br>
+
     {% endfor %}
   </ul>
 </div>
