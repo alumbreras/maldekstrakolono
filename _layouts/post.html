@@ -2,10 +2,11 @@
 layout: default
 ---
 <div id="post">
-	<div id="ptitle">{{ page.title }}</div> <!-- note: instead of defining ptitle, we could use h1 and make h1 bigger in the css -->
+	<div id="ptitle">{{ page.title }}</div> 
 	<p class="meta">{{ page.date |  date: '%d.%m.%Y' }}</p>
-{{ content }}
+    {{ content }}
 </div>
+
 
 <div id="disqus_thread"></div>
 <script>

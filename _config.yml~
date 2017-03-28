@@ -1,5 +1,21 @@
-header-img: images/maldekstra_banner.jpg
-markdown: rdiscount
+encoding: utf-8
+
+# Build settings
+markdown: kramdow
 highlighter: pygments
+
 baseurl: "/maldekstrakolono" # the subpath of your site, e.g. /blog
 url: "http://alumbreras.github.io"  # the base hostname & protocol for your site
+
+# Outputting
+exclude: [
+  'cibuild',
+  'Gemfile',
+  'Gemfile.lock',
+  'package.json',
+  'README.md',
+
+timezone: Europe/Berlin
+
+header-img: images/maldekstra_banner_cut.png
+
