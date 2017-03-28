@@ -1,20 +1,20 @@
 encoding: utf-8
 
 # Build settings
-markdown: kramdow
+markdown: kramdown
 highlighter: pygments
 
 timezone: Europe/Berlin
 baseurl: "/maldekstrakolono" # the subpath of your site, e.g. /blog
 url: "http://alumbreras.github.io"  # the base hostname & protocol for your site
 
-# Outputting
 exclude: [
   'cibuild',
   'Gemfile',
   'Gemfile.lock',
   'package.json',
   'README.md',
+  'vendor']
 
 
 
