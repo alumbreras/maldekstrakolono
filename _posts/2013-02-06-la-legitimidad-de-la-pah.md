@@ -1,6 +1,7 @@
 ---
 layout: post
 title: La legitimidad de la PAH
+type: articulo
 tags:
 - PAH
 ---

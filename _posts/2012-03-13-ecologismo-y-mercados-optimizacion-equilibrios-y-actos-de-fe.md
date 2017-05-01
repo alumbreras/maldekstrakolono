@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Ecologismo y mercados: optimización, equilibrios y actos de Fe'
+type: articulo
 categories:
 - política
 tags:

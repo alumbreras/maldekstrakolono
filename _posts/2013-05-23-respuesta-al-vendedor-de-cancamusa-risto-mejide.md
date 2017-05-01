@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Respuesta al vendedor de cancamusa Risto Mejide
+type: minor
 categories:
 - política
 tags:
-- cancamusa
 - Risto Mejide
 ---
 

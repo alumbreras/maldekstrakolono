@@ -1,6 +1,7 @@
 ---
 layout: post
 title: El día que la patronal francesa robó a los trabajadores
+type: articulo
 tags:
 - Francia
 - Pentecostés

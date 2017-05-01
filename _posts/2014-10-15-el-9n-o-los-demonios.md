@@ -1,6 +1,7 @@
 ---
 layout: post
 title: El 9N o los demonios
+type: articulo
 ---
 
 _(**Aviso**: lo que sigue es un intento de sistematizar riesgos y oportunidades de los escenarios que se presentan tras el 9N tras la autolesión a la consulta por parte de CiU. Muchos factores han quedado fuera de consideración, algunos por irrelevantes y otros por negligencia propia.)_

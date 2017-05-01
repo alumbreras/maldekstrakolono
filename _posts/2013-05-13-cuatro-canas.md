@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cuatro cañas
+type: minor
 categories:
 - política
-tags: []
 ---
 
 El sábado pasado, en el programa "La Sexta Noche", tuvo lugar un debate sobre la denostada Ley Wert. Los participantes eran, a la derecha, Alfonso Rojo, periodista y opinólogo profesional en programas como La Noria, El gato al agua, o El Programa de Ana Rosa (su ex-mujer) y, a la izquierda, Pablo Iglesias, profesor de políticas y presentador de los programas de debate [La Tuerka](http://www.latuerka.net/) y [Fort Apache](http://www.fortapache.es/).

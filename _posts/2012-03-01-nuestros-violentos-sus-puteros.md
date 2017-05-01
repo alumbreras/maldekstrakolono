@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nuestros violentos, sus puteros
+type: articulo
 tags:
 - "#vagaunivers"
 - huelga

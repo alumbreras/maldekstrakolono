@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Easyjet turcochipriota
-date: 2010-09-15 10:15:11.000000000 +02:00
-type: post
-published: true
-status: publish
+type: articulo
 categories:
 - política
 tags:
@@ -13,25 +10,11 @@ tags:
 - turcochipriotas
 - Turquía
 - UE
-meta:
-  _feedback_tweet: YToyOntzOjc6ImV4cGlyZWQiO2k6MTQ1MDcxMzQzMztzOjg6ImNvbW1lbnRzIjthOjI6e3M6MTE6IjI0NTUzNjg2MTQ2IjtPOjg6InN0ZENsYXNzIjoxNTp7czoxMDoiY29tbWVudF9JRCI7czoxNzoidHdlZXQtMjQ1NTM2ODYxNDYiO3M6MTU6ImNvbW1lbnRfcG9zdF9JRCI7czozOiI0MzIiO3M6MTQ6ImNvbW1lbnRfYXV0aG9yIjtzOjEwOiJyb2lnZXNmZXJhIjtzOjIwOiJjb21tZW50X2F1dGhvcl9lbWFpbCI7czo3OToiaHR0cDovL2EwLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy8xMjE2NTg2NzMvcm9pZ2VzZmVyYXByb21vMjAwYmxhbmNfbm9ybWFsLmpwZyI7czoxODoiY29tbWVudF9hdXRob3JfdXJsIjtzOjQ4OiJodHRwOi8vdHdpdHRlci5jb20vcm9pZ2VzZmVyYS9zdGF0dXMvMjQ1NTM2ODYxNDYiO3M6MTc6ImNvbW1lbnRfYXV0aG9yX0lQIjtzOjA6IiI7czoxMjoiY29tbWVudF9kYXRlIjtzOjE5OiIyMDEwLTA5LTE1IDA5OjUxOjI3IjtzOjE2OiJjb21tZW50X2RhdGVfZ210IjtzOjE5OiIyMDEwLTA5LTE1IDA4OjUxOjI3IjtzOjE1OiJjb21tZW50X2NvbnRlbnQiO3M6NDU6IkVhc3lqZXQgdHVyY29jaGlwcmlvdGEgaHR0cDovL2dvby5nbC9mYi9kd1FidSI7czoxMzoiY29tbWVudF9rYXJtYSI7czoxOiIwIjtzOjE2OiJjb21tZW50X2FwcHJvdmVkIjtzOjE6IjEiO3M6MTM6ImNvbW1lbnRfYWdlbnQiO3M6MToiMCI7czoxMjoiY29tbWVudF90eXBlIjtzOjA6IiI7czoxNDoiY29tbWVudF9wYXJlbnQiO3M6MToiMCI7czo3OiJ1c2VyX2lkIjtzOjE6IjAiO31zOjExOiIyNDU1MjkwODU5NCI7Tzo4OiJzdGRDbGFzcyI6MTU6e3M6MTA6ImNvbW1lbnRfSUQiO3M6MTc6InR3ZWV0LTI0NTUyOTA4NTk0IjtzOjE1OiJjb21tZW50X3Bvc3RfSUQiO3M6MzoiNDMyIjtzOjE0OiJjb21tZW50X2F1dGhvciI7czoxMDoiYWxiZXJ0b19sbSI7czoyMDoiY29tbWVudF9hdXRob3JfZW1haWwiO3M6ODk6Imh0dHA6Ly9hMC50d2ltZy5jb20vcHJvZmlsZV9pbWFnZXMvMjY1NTM2NTIxMC82NDRjNDJhNTVjMjRhNGYxOTQyZWFjMzFhNzZhZjk4ZF9ub3JtYWwucG5nIjtzOjE4OiJjb21tZW50X2F1dGhvcl91cmwiO3M6NDg6Imh0dHA6Ly90d2l0dGVyLmNvbS9hbGJlcnRvX2xtL3N0YXR1cy8yNDU1MjkwODU5NCI7czoxNzoiY29tbWVudF9hdXRob3JfSVAiO3M6MDoiIjtzOjEyOiJjb21tZW50X2RhdGUiO3M6MTk6IjIwMTAtMDktMTUgMDk6MzM6MTMiO3M6MTY6ImNvbW1lbnRfZGF0ZV9nbXQiO3M6MTk6IjIwMTAtMDktMTUgMDg6MzM6MTMiO3M6MTU6ImNvbW1lbnRfY29udGVudCI7czo1MToiW2Jsb2ddIEVhc3lKZXQgdHVyY29jaGlwcmlvdGE6IGh0dHA6Ly9iaXQubHkvZHNScUFJIjtzOjEzOiJjb21tZW50X2thcm1hIjtzOjE6IjAiO3M6MTY6ImNvbW1lbnRfYXBwcm92ZWQiO3M6MToiMSI7czoxMzoiY29tbWVudF9hZ2VudCI7czoxOiIwIjtzOjEyOiJjb21tZW50X3R5cGUiO3M6MDoiIjtzOjE0OiJjb21tZW50X3BhcmVudCI7czoxOiIwIjtzOjc6InVzZXJfaWQiO3M6MToiMCI7fX19
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
-  _feedback_hatena: YToyOntzOjc6ImV4cGlyZWQiO2k6MTQ1MDcxMzQzNDtzOjg6ImNvbW1lbnRzIjthOjA6e319
-  _feedback_delicious: YToyOntzOjc6ImV4cGlyZWQiO2k6MTQ1MDcxMzQzNDtzOjg6ImNvbW1lbnRzIjthOjA6e319
-  _edit_last: '1'
-  _feedback_akismet_result: a:11:{i:0;s:0:"";s:32:"5a62b488596e79225fdee1b8a9973857";s:0:"";s:32:"383f021ab4db1de660aa921aec7cdfc1";s:0:"";s:32:"6780982bba5ed0e37be9de0a4e5e6b40";s:0:"";s:32:"7c43a8d19b93f5f124edb278a775d837";s:0:"";s:32:"4ceeed2e8313d19e8ef88b559b6181be";s:0:"";s:32:"10d34b9708faab504664e90462265e0f";s:0:"";s:32:"9903b2cef13cddf59bdb8328f23707d0";s:0:"";s:32:"b5f9a6ca9d978ab6e5de1849c2b023aa";s:0:"";s:32:"98ee56d03194e08165460509a283a1c2";s:0:"";s:32:"27f81998e0522a9ae49b878ff7cd05ff";s:0:"";}
-author:
-  login: admin
-  email: alberto.lumbreras@gmail.com
-  display_name: Alberto
-  first_name: Alberto
-  last_name: Lumbreras
 ---
-<p>La lista de estados miembros de la Unión Europea es:</p>
-<p><span class="span_abstract"> </span></p>
-<ul style="width: 200px; float: left; margin-right: 5px;">
+
+La lista de estados miembros de la Unión Europea es:
+<div>
+<ul style="width: 100%; float: left; margin-right: 5px;">
 <li class="bordertop"> <a title="Austria" href="http://europa.eu/about-eu/member-countries/countries/member-states/austria/index_es.htm">Austria</a><br />
 <span class="span_abstract"> </span></li>
 <li class="bordertop"> <a title="Bélgica" href="http://europa.eu/about-eu/member-countries/countries/member-states/belgium/index_es.htm">Bélgica</a><br />
@@ -58,7 +41,8 @@ author:
 <li class="bordertop"> <a title="Irlanda" href="http://europa.eu/about-eu/member-countries/countries/member-states/ireland/index_es.htm">Irlanda</a></li>
 <li class="bordertop"> <a title="Italia" href="http://europa.eu/about-eu/member-countries/countries/member-states/italy/index_es.htm">Italia</a></li>
 </ul>
-<ul style="width: 200px; float: left; margin-right: 5px;">
+
+<ul style="width: 100%; float: left; margin-right: 5px;">
 <li class="bordertop"> <a title="Letonia" href="http://europa.eu/about-eu/member-countries/countries/member-states/latvia/index_es.htm">Letonia</a></li>
 <li class="bordertop"> <a title="Lituania" href="http://europa.eu/about-eu/member-countries/countries/member-states/lithuania/index_es.htm">Lituania</a></li>
 <li class="bordertop"> <a title="Luxemburgo" href="http://europa.eu/about-eu/member-countries/countries/member-states/luxembourg/index_es.htm">Luxemburgo</a></li>
@@ -73,7 +57,20 @@ author:
 <li class="bordertop"> <a title="Suecia" href="http://europa.eu/about-eu/member-countries/countries/member-states/sweden/index_es.htm">Suecia</a></li>
 <li class="bordertop"> <a title="Reino Unido" href="http://europa.eu/about-eu/member-countries/countries/member-states/unitedkingdom/index_es.htm">Reino Unido</a></li>
 </ul>
-<p>Apreciará el ojo atento que Turquía no es miembro y que Chipre sí. Turquía no es miembro, entre otras cosas, porque uno no puede entrar a formar parte de la Unión Europea mientras esté ocupando territorios ajenos, estatus en el que se reconoce a Turquía desde que en 1974, fieles a lo peor de la tradición otomana, decidieran matar, vejar, violar, y ya puestos acampar en la mitad norte de la isla. Era la <a href="http://es.wikipedia.org/wiki/Operaci%C3%B3n_Atila">Operación Atila</a> -cariño que tienen los militares a los nombres sanguinarios-, una invasión <span style="font-style: italic;">preventiva</span> ante el reciente golpe de estado en Chipre que, según Turquía, amenazaba a la minoría turcochipriota de la isla dado que los golpistas reclamaban una aceleración de la <a href="http://es.wikipedia.org/wiki/Enosis">enosis</a>.</p>
+</div>
+
+Apreciará el ojo atento que Turquía no es miembro y que Chipre sí. 
+Turquía no es miembro, entre otras cosas, porque uno no puede entrar a formar 
+parte de la Unión Europea mientras esté ocupando territorios ajenos, estatus 
+en el que se reconoce a Turquía desde que en 1974, fieles a lo peor de la 
+tradición otomana, decidieran matar, vejar, violar, y ya puestos acampar 
+en la mitad norte de la isla. 
+Era la <a href="http://es.wikipedia.org/wiki/Operaci%C3%B3n_Atila">Operación Atila</a> -cariño que tienen los militares a los nombres sanguinarios-, 
+una invasión <span style="font-style: italic;">preventiva</span> ante 
+el reciente golpe de estado en Chipre que, según Turquía, amenazaba a la 
+minoría turcochipriota de la isla dado que los golpistas reclamaban una 
+aceleración de la <a href="http://es.wikipedia.org/wiki/Enosis">enosis</a>.
+
 <p>Desde aquel día la UE sólo reconoce a un Chipre, la parte no invadida por los turcos que va desde la punta sur de la isla hasta <span style="font-style: italic;">el último muro de Europa</span>, la Línea Verde, vigilada por soldados de la ONU y que pasa por Nicosia, la capital, partiéndola en dos. La parte norte, según la misma UE, no es ni Turquía ni Turcochipriolandia, sino <span style="font-style: italic;">zona ocupada</span>. La Chipre <span style="font-style: italic;">libre</span> entró en la Unión Europea en 2004.</p>
 <p>Si Turquía entrara en la Unión Europea, el territorio <span style="font-style: italic;">ocupado</span> -autodenominado <a href="http://es.wikipedia.org/wiki/Rep%C3%BAblica_Turca_del_Norte_de_Chipre">República Turca del Norte de Chipre</a>, y solo reconocido por Turquía-  quedaría legitimado. Y aunque a la mayoría de los ciudadanos europeos les importe poco, para los 150.000 chipriotas que fueron sacados a patadas -en el mejor de los casos- de sus casas será como escupirles en la cara.</p>
 <p>Pero esta situación que para la UE está política y geográficamente clara es ignorada por EasyJet, compañía aérea de bajo coste y pequeño cerebro. Ayer acababa su semana de visita a Barcelona un amigo chipriota que vive en Canadá desde hace diez años. Cada año viaja a Chipre, con escala en Londres, para ver a su familia. Ayer volaba desde Barcelona a Londres para volver al trabajo en Vancouver. Pero por primera vez en su vida tuvo que pasar por la humillación de ser cuestionado su pasaporte, pidiéndole para ir a Londres un visado que como ciudadano europeo no necesita.</p>

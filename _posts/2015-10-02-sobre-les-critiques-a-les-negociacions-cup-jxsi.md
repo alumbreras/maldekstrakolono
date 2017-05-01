@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sobre les crítiques a les negociacions CUP - JxSí
+type: minor
 ---
 
 Robo del muro de Joan Tafalla:

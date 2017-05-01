@@ -16,11 +16,11 @@ blockquote {
   border-left: 3px solid #ccc;
 } 
 
-#ptitle {
+.posttitle {
   font: 30px normal helvetica, sans-serif;
 }
 
-#ptitle a {
+.posttitle a {
     text-decoration: none;
     color: black;
 }

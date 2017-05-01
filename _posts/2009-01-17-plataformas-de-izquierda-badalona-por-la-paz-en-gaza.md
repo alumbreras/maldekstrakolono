@@ -2,7 +2,7 @@
 layout: post
 title: 'Plataformas de izquierda: Badalona por la paz en Gaza'
 date: 2009-01-17 17:39:00.000000000 +01:00
-type: post
+type: minor
 published: true
 status: publish
 categories:
@@ -11,20 +11,6 @@ tags:
 - badalona
 - pacifismo
 - política
-meta:
-  blogger_blog: albertolumbreras.blogspot.com
-  blogger_author: Albertohttp://www.blogger.com/profile/01941574083785735559noreply@blogger.com
-  blogger_permalink: "/2009/01/plataformas-de-izquierda-badalona-por.html"
-  _edit_last: '1'
-  _feedback_tweet: YToyOntzOjc6ImV4cGlyZWQiO2k6MTQ1MTg0NzI1NDtzOjg6ImNvbW1lbnRzIjthOjA6e319
-  _feedback_hatena: YToyOntzOjc6ImV4cGlyZWQiO2k6MTQ1MTg0NzI1NTtzOjg6ImNvbW1lbnRzIjthOjA6e319
-  _feedback_delicious: YToyOntzOjc6ImV4cGlyZWQiO2k6MTQ1MTg0NzI1NTtzOjg6ImNvbW1lbnRzIjthOjA6e319
-author:
-  login: admin
-  email: alberto.lumbreras@gmail.com
-  display_name: Alberto
-  first_name: Alberto
-  last_name: Lumbreras
 ---
 <div style="text-align: justify;" xmlns="http://www.w3.org/1999/xhtml">CNT, EUiA, ICV, ERC, CUP, La Mussara, Rojas y Rojas, alguna asociacion de vecinos y alguna asociaciones y personas mas fueron los que ayer intentamos constituir, en Badalona, una <b>plataforma por la paz en Palestina</b>.</p>
 <p>La historia empieza cuando ICV-EUiA realiza una convocatoria por el fin del genocidio en Gaza en frente del Ayuntamiento de Badalona. Hara unas dos semanas. A la convocatoria se sumaron algunas asociaciones, y resulto en una concentracion de quizas unas 200 personas. Tras la concentracion, ser comenta si las organizaciones estarian dispuestas a formar, en Badalona, una plataforma por la paz en Gaza. Todos se apuntan, y se acuerda quedar el Jueves siguente para hablar de su constitucion y, si la cosa ve bien, constituirla.</p>
