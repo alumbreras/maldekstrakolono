@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Catalunya des de França
+summary: _Et comment ça marche cette... affaire… à la Catalogne ?_ La pregunta és recurrent; 
+   la resposta, de corredissa. El resultat, nul. Explicar a un francès el 
+   procés sobiranista català és com explicar-li a un inuit com funciona 
+   un aire condicionat. _Compliqué_.
+thumbnail: thumbnail-bonnet.jpg
 type: articulo
 categories:
 - política

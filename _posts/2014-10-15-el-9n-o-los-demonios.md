@@ -1,6 +1,9 @@
 ---
 layout: post
 title: El 9N o los demonios
+summary: Descartando los improbables, nos quedan escenarios que nos llevan 
+  a las calderas de Pere Botero o al limbo, y solo unos pocos nos dejan aún 
+  en situación de deshacer el nudo y garantizar que en Iberia haya, al menos, un proceso constituyente.
 type: articulo
 ---
 
