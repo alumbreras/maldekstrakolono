@@ -2,7 +2,7 @@ encoding: utf-8
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 timezone: Europe/Berlin
 baseurl: "/maldekstrakolono" # the subpath of your site, e.g. /blog
