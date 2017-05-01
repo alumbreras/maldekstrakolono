@@ -4,60 +4,31 @@ title: La Maldekstra Kolono
 ---
 
 <div class="container">
-<div class="row col-xs-12">
+<div class="row">
 
-<!------
-  <h1> Artículos </h1>
-		{% for post in site.posts %}
-		  {% assign currentdate = post.date | date: "%Y" %}
-		  {% if currentdate != date %}
-			{% unless forloop.first %}</ul>{% endunless %}
-			<h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
-			<ul class="posts">
-			{% assign date = currentdate %}
-		  {% endif %}
-			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-		  {% if forloop.last %}</ul>{% endif %}
-		{% endfor %}
---->
 
 <h1 id="articulos"> </h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:10 %}
     {% if post.type == "articulo" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+      <li>
+		  <div class="row" style = "margin-bottom:20px;">
+			<div class="col-xs-1">
+				{% if  post.thumbnail %}
+				<img src="{{ site.baseurl }}/assets/{{post.thumbnail}}" height="75px" width="75px" alt="thumbnail" title="thumbnail">
+				{% else %}
+				<img src="{{ site.baseurl }}/assets/thumbnail-9N.png" height="75px" width="75px" alt="thumbnail" title="thumbnail">
+				{% endif %}
+			</div>
+			<div class="col-xs-6" style="margin-left:20px;">
+				<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}"><b>{{ post.title }}</b></a>
+				<p>{{post.summary}}</p>
+		  </div>
+		 </div>
+	  </li>
      {% endif %}
     {% endfor %}
   </ul>
-
-
-<h1 id="recortes">Recortes</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-    {% if post.type == "recorte" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-     {% endif %}
-    {% endfor %}
-  </ul>
-
-<!--<h1>Manifiestos</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-    {% if post.type == "manifiesto" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-     {% endif %}
-    {% endfor %}
-  </ul>
--->
   
- <h1 id="otros">Otros</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-    {% if post.type == "minor" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-     {% endif %}
-    {% endfor %}
-  </ul> 
-  
-  </div>
-  </div>
+</div>
+</div>
