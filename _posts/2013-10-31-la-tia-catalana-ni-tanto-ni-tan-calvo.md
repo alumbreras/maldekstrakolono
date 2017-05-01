@@ -1,6 +1,13 @@
 ---
 layout: post
 title: 'La TIA catalana: ni tanto ni tan calvo'
+summary: La entrada de Anonymous en los servidores de del Cesicat 
+   nos ha permitido hacernos una idea del nivel de nuestros servicios de 
+   inteligencia, o más bien de sus sucedáneos. Lo rudimentario del asunto 
+   le (nos) ha subido el ego a muchos. Las reacciones han ido de la burla 
+   a la indignación. Pero pasados los chistes de unos y los sustos de otros, 
+   cuidado.
+thumbnail: PxCgrafo.png
 categories:
 - política
 type: articulo

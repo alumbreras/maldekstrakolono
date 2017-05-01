@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Sindicatos atrapados en los sindicatos
+summary: "En una charla hace dos años, Juan Carlos Gallego, secretario de CCOO de 
+   Catalunya, justificaba su última bajada de pantalones por la falta de 
+   movilización: 'Cuando estoy sentado en la mesa de negociación, tengo que 
+   sentir vuestro aliento en mi nuca', decía. Y tenía razón."
+thumbnail: thumbnail-precariado.gif
 type: articulo
 categories:
 - política

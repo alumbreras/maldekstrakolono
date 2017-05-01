@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Israel-Palestina para no iniciados.
+summary: Dado que aún quedan reductos de gente algo confundida con el tema de Palestina 
+   e Israel, aquí van algunos conceptos rápidos de entender.
+thumbnail: palestina-israel.jpg
 type: articulo
 categories:
 - política

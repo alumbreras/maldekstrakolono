@@ -2,6 +2,12 @@
 layout: post
 title: Fascistas
 type: articulo
+summary: El asesinato de Clément Méric no es un hecho aislado.
+   Los grupos fascistas y de extrema derecha llevan meses sacando pecho. 
+   Y el debate sobre la ley del matrimonio homosexual, aprobada hace unas semanas, 
+   ha sido el escenario perfecto para darse a conocer con palizas a 
+   homosexuales o ataques a bares y locales "de ambiente".
+thumbnail: encuestaFN.png
 tags:
 - Clément Méric
 - fascismo
