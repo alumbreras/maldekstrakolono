@@ -6,16 +6,37 @@ thumbnail: 2017_05_02-presidenciales-francesas-mapa1.jpeg
 type: articulo
 ---
 
+* Trauma segunda vuelta
+* Mi enemigo es la finanza
+* Frondeurs.
+* Pinchazo de Hamon 
+* 
+
 El día que ganó Macron me robaron la cartera en el mercado.
 
 ## Fase 1. El terreno. Cómo hemos llegado hasta aquí.
 
-La campaña de Sarkozy
-Mélenchon, subiendo en los sondeos.
-Mon enemi, c'est la finance. Hollande. Pinchazo a última hora de Mélenchon.
+Las elecciones presidenciales de 2002 acabaron en un inesperado pinchazo
+de Jospin, el presidente saliente (el de las 35 horas), y una segunda
+vuelta Chirac - Le Pen donde el primero se hizo con el 80% votos.
 
-Sin embargo Hollande no cumplió, y se ha convertido en el presidente peor valorado. 
-Pusilánime. Reirse de los sin dientes.
+Tras la etapa Sarkozy, el PS consigue ganar las presidenciales con Hollande.
+Quien recuerde la campaña de Melenchon y el Front de Gauche, también recordará 
+que las previsiones eran alentadoras. Sin embargo, en el contexto de crisis 
+financiera y refundaciones del capitalismo Hollande supo posicionarse y pinchar 
+la burbuja con una famosa frase: "mi enemigo es la finanza".
+
+No sabríamos decir si el enemigo de Hollande es la finanza, pero sí sabemos que 
+no es la patronal francesa. Una característica del gobierno Hollande han sido
+su "Pacto de Responsabilidad", un pacto trufado de ayudas a la MEDEF a costa 
+de reducción en ayudas sociales.
+
+Dejando de lado sus amores y sus guerras, Hollande ha quedado retratado como un
+inútil al frente de Merkel, de Europa que no ha sabido poner a Francia en el sitio
+que le corresponde.
+
+Para más inri, el presidente se ha cultivado también una imagen de cínico elistista
+con sus bromas (filtradas) hacia los pobres "sin dientes"
 
 <<La principal novedad reside en la implantación del FN en zonas rurales 
 con un discurso muy centrado en la denuncia de la pérdida de población y 
@@ -30,7 +51,24 @@ propuesta de orden y protección.>>
 
 ## Fase 2. Una primera vuelta imprevista por todos lados. La campaña de Mélenchon
 
+Ante la caída de Hollande, parecía que iban a ocurrir dos cosas. Primero, que
+Valls, último candidato en las primarias socialistas, luego ministro del interior,
+y luego primer ministro, iba a conseguir colocarse como el nuevo candidato del PS
+a las presidenciales. Segundo, que este perdería frente al candidato de la derecha,
+fuera un Sarkozy o fuera quien acabara saliendo victorioso de las luchas internas 
+de la UMP (ahora Les Republicains)
+
+Pero las primarias de ambos partidos trajeron sorpresas y ni Valls ni Sarkozy ganaron.
+Ganaron, en su lugar Hamon, un diputado contestatario, y Fillon, una versión de Sarkozy
+con pinta de ir más a misa.
+
+El hoy candidato Macron, estudiante del ENA, trabajador de Sarkozy, empleado de Rotshctild y
+finalmente ministro de Economía, se había largado del PS meses antes para montar
+En Marche, la típica plataforma para medir las posibilidades al Eliseo.
+
 ¿Quién es Macron? (entrevista a la del CNRS. Trabajando para Sarkozy...)
+
+
 
 Sarkozy pierde. Fillon escándalos. 
 Hamon gana (frondeur) y le dan la espalda las espadas del PS.
@@ -60,3 +98,5 @@ que siempre hemos llamado "revolucionarios de salón".
 La izquierda tiene, sin embargo, una última oportunidad para poner un contrapoder
 a Macron. Las legistalitivas, que comprondán el parlamento, están más abiertas que
 nunca.
+
+EL debqte entre FI y PCF es que Melenchon quiere que el PCF integre sus candidatos en FI,
