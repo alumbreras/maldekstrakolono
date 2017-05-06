@@ -12,8 +12,6 @@ type: articulo
 * Pinchazo de Hamon 
 * 
 
-El día que ganó Macron me robaron la cartera en el mercado.
-
 ## Fase 1. El terreno. Cómo hemos llegado hasta aquí.
 
 Las elecciones presidenciales de 2002 acabaron en un inesperado pinchazo
@@ -37,17 +35,6 @@ que le corresponde.
 
 Para más inri, el presidente se ha cultivado también una imagen de cínico elistista
 con sus bromas (filtradas) hacia los pobres "sin dientes"
-
-<<La principal novedad reside en la implantación del FN en zonas rurales 
-con un discurso muy centrado en la denuncia de la pérdida de población y 
-en la defensa de los servicios públicos locales (centros sanitarios, 
-oficinas de Correos, centros educativos, polideportivos, etc). La idea 
-que vehicula Marine Le Pen es que “el Estado ha desaparecido de estos 
-territorios”, y su propuesta, “un Estado que lo pueda todo”, es decir, 
-un Estado-paraguas. La fuerza de este mensaje está relacionada con agrupar 
-varias periferias (cultural, económica, territorial) en torno a una 
-propuesta de orden y protección.>>
-
 
 ## Fase 2. Una primera vuelta imprevista por todos lados. La campaña de Mélenchon
 
@@ -79,15 +66,12 @@ la finanza.
 
 ## El problema de la abstención
 
-Podéis hacer los análisis, las piruetas y las masturbaciones mentales que 
-queráis en contra del voto a Macron como cordón sanitario ante Le Pen.
+Ante un uberizador como Macron y una fascista como Le Pen, la abstención
+parece la opción más sensata. Sin embargo, podemos esperar que un FN a más de un 
+40% desatará una violencia fascista contra magrebies, ruman@s, portugues@s, español@s..., 
+y de salida sindicalistas, comunistas, judíos... el poema de Brecht, uno por uno.
 
-Pero la violencia fascista que se va a desatar con Le Pen a más del 40% 
-nos la vamos a comer, de entrada, los extranjeros que vivimos en Francia. 
-Primero contra los magrebies, ruman@s, pero luego contra portugues@s, español@s..., 
-y de salida sindicalistas, comunistas, judíos... como los del poema, vaya.
-
-Os recuerdo que en medio mundo se grita "NO PASARÁN" en el mismo idioma 
+En Francia se grita "NO PASARÁN" en el mismo idioma 
 en el que lo gritó Dolores Ibárruri. Que hijos de los del No Pasarán ahora 
 digan "pasad mejor ahora que de aquí 5 años"... es mearse en la tumba, 
 por ejemplo, de los republicanos de la Nueve. Y recordad que esto es lo 
@@ -100,3 +84,16 @@ a Macron. Las legistalitivas, que comprondán el parlamento, están más abierta
 nunca.
 
 EL debqte entre FI y PCF es que Melenchon quiere que el PCF integre sus candidatos en FI,
+
+
+========
+
+<<La principal novedad reside en la implantación del FN en zonas rurales 
+con un discurso muy centrado en la denuncia de la pérdida de población y 
+en la defensa de los servicios públicos locales (centros sanitarios, 
+oficinas de Correos, centros educativos, polideportivos, etc). La idea 
+que vehicula Marine Le Pen es que “el Estado ha desaparecido de estos 
+territorios”, y su propuesta, “un Estado que lo pueda todo”, es decir, 
+un Estado-paraguas. La fuerza de este mensaje está relacionada con agrupar 
+varias periferias (cultural, económica, territorial) en torno a una 
+propuesta de orden y protección.>>
