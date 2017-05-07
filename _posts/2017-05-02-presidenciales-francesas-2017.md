@@ -12,29 +12,54 @@ type: articulo
 * Pinchazo de Hamon 
 * 
 
+Le Pen, 5 525 032 votos en la segunda vuelta de 2002
+6 421 426 	en 2012 en la segunda vuelta
+7 678 491 en 2015 en la primera  vuelta.
+
+------
+
+Macron 60%, Le Pen 40%. El fascismo ha aporreado las puertas 
+del Eliseo por segunda vez desde la Liberación.
+
 ## Fase 1. El terreno. Cómo hemos llegado hasta aquí.
 
-Las elecciones presidenciales de 2002 acabaron en un inesperado pinchazo
-de Jospin, el presidente saliente (el de las 35 horas), y una segunda
-vuelta Chirac - Le Pen donde el primero se hizo con el 80% votos.
+La primera vuelta de las elecciones presidenciales de 2002 acabó en un pinchazo inesperado
+del hasta entonces primer ministro socialista Lionel Jospin, en favor del derechista
+Jacques Chirac, que repetiría como presidente de la república. Era un 21 abril, 
+y, desde entonces, los franceses utilizan la expresión "21 de abril" para referirse
+a aquellas elecciones donde el Front National consigue colarse entre las dos primeras opciones.
+El shock fue tan grande que en la segunda vuelta Chirac obtuvo un 82% de votos.
+En este 80% y en el abuso que Chirac hizo de él en su posterior mandato, se encuentra
+el trauma de muchos electores de izquierdas que, desde entonces, prometen que nunca más 
+votarán a la derecha para frenar al Front National.
 
-Tras la etapa Sarkozy, el PS consigue ganar las presidenciales con Hollande.
-Quien recuerde la campaña de Melenchon y el Front de Gauche, también recordará 
-que las previsiones eran alentadoras. Sin embargo, en el contexto de crisis 
-financiera y refundaciones del capitalismo Hollande supo posicionarse y pinchar 
-la burbuja con una famosa frase: "mi enemigo es la finanza".
+Un Chirac, un Sarkozy, una crisis del capitalismo financiero, una "refundación del capitalismo" (sic),
+y 10 años más tarde, llegan las presindenciales de 2012 en un contexto de movilizaciones sociales
+y de primaveras (árabes, 15-M, Wall Street...) Durantes unas semanas, parecía 
+que las presidenciales de 2012 podían abrir una etapa de cambio en uno de 
+los centros neurálgicos de Europa. Melenchon, ex-ministro del gobierno Jospin, 
+había creado su Parti de Gauche y formado una alianza con el PCF, entre otros, 
+para formar el Front de Gauche. Las encuestas auguraban unos excelentes 
+resultados a Mélenchon, que llenaba mítines como nadie lo hacía desde hacía mucho tiempo.
+El pinchazo de Mélenchon llegó una semana antes de las elecciones con el candidato socialista,
+Hollande, y su famosa proclamación mitinera de "mi enemigo es la finanza". En ese momento, 
+Mélenchon dejó de ser el único candidato crítico con el capitalismo financiero y acabó bajando a un 11%.
 
-No sabríamos decir si el enemigo de Hollande es la finanza, pero sí sabemos que 
-no es la patronal francesa. Una característica del gobierno Hollande han sido
-su "Pacto de Responsabilidad", un pacto trufado de ayudas a la MEDEF a costa 
-de reducción en ayudas sociales.
 
-Dejando de lado sus amores y sus guerras, Hollande ha quedado retratado como un
-inútil al frente de Merkel, de Europa que no ha sabido poner a Francia en el sitio
-que le corresponde.
+Después de unas medidas iniciales que demostraron ser de postureo, como el famoso impuesto a los ricos,
+Hollande inició una serie de renuncias sin precedentes en el socialismo francés.
+Desde regalos financieros a la patronal a costa de las ayudas sociales (el llamado 
+Pacto de Responsabilidad), hasta la contestada reforma laboral (ley El-Komri), pasando
+por una humillante (especialmente en el imaginario francés) claudicación a la política alemana.
+Todo ello rubricado con un giro oficial, a medio mandato, de socialismo a social-demócrata
+(entendiendo que en el socialismo francés el Estado interviene demasiado).
+Le han bastado cinco años a Hollande para posicionarse como el presidente peor valorado.
 
-Para más inri, el presidente se ha cultivado también una imagen de cínico elistista
-con sus bromas (filtradas) hacia los pobres "sin dientes"
+Si faltaban clavos en la tumba de Hollande, su despechada ex-pareja publica un libro de intimidades
+donde desvela como Hollande se refería a los pobres como "sin dientes". 
+
+El Front National no perdió su oportunidad:
+<<Hollande desprecia los "sin dientes", el Front National los defiende">>
 
 ## Fase 2. Una primera vuelta imprevista por todos lados. La campaña de Mélenchon
 
@@ -49,13 +74,9 @@ Pero las primarias de ambos partidos trajeron sorpresas y ni Valls ni Sarkozy ga
 Ganaron, en su lugar Hamon, un diputado contestatario, y Fillon, una versión de Sarkozy
 con pinta de ir más a misa.
 
-El hoy candidato Macron, estudiante del ENA, trabajador de Sarkozy, empleado de Rotshctild y
-finalmente ministro de Economía, se había largado del PS meses antes para montar
+El hoy candidato Macron, ex Sience Po, ex ENA, ex socio Rotshctild y ex 
+Ministro de Economía de Hollande, se había largado del PS meses antes para montar
 En Marche, la típica plataforma para medir las posibilidades al Eliseo.
-
-¿Quién es Macron? (entrevista a la del CNRS. Trabajando para Sarkozy...)
-
-
 
 Sarkozy pierde. Fillon escándalos. 
 Hamon gana (frondeur) y le dan la espalda las espadas del PS.
@@ -66,16 +87,6 @@ la finanza.
 
 ## El problema de la abstención
 
-Ante un uberizador como Macron y una fascista como Le Pen, la abstención
-parece la opción más sensata. Sin embargo, podemos esperar que un FN a más de un 
-40% desatará una violencia fascista contra magrebies, ruman@s, portugues@s, español@s..., 
-y de salida sindicalistas, comunistas, judíos... el poema de Brecht, uno por uno.
-
-En Francia se grita "NO PASARÁN" en el mismo idioma 
-en el que lo gritó Dolores Ibárruri. Que hijos de los del No Pasarán ahora 
-digan "pasad mejor ahora que de aquí 5 años"... es mearse en la tumba, 
-por ejemplo, de los republicanos de la Nueve. Y recordad que esto es lo 
-que siempre hemos llamado "revolucionarios de salón".
 
 ## Legislativas: una tercera vuelta.
 
@@ -97,3 +108,6 @@ territorios”, y su propuesta, “un Estado que lo pueda todo”, es decir,
 un Estado-paraguas. La fuerza de este mensaje está relacionada con agrupar 
 varias periferias (cultural, económica, territorial) en torno a una 
 propuesta de orden y protección.>>
+
+
+### Las 35 horas se consiguieron con la derecha en el gobierno y la izquierda en el parlamento.
