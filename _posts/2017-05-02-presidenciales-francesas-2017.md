@@ -6,13 +6,7 @@ thumbnail: 2017_05_02-presidenciales-francesas-mapa1.jpeg
 type: articulo
 ---
 
-* Trauma segunda vuelta
-* Mi enemigo es la finanza
-* Frondeurs.
-* Pinchazo de Hamon 
-* 
-
-Le Pen, segundq vuelta:
+Le Pen, segunda vuelta:
 
 2012:   5 525 032 / 41 191 169
 2017:  11 000 000 / 47 582 183
