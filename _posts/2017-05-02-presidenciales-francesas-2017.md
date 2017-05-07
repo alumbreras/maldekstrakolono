@@ -11,7 +11,6 @@ Le Pen, segunda vuelta:
 2012:   5 525 032 / 41 191 169
 2017:  11 000 000 / 47 582 183
 
-
 ------
 
 Macron 60%, Le Pen 40%. El fascismo ha aporreado las puertas 
