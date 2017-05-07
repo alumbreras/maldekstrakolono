@@ -12,16 +12,19 @@ type: articulo
 * Pinchazo de Hamon 
 * 
 
-Le Pen, 5 525 032 votos en la segunda vuelta de 2002
-6 421 426 	en 2012 en la segunda vuelta
-7 678 491 en 2015 en la primera  vuelta.
+Le Pen, segundq vuelta:
+
+2012:   5 525 032 / 41 191 169
+2017:  11 000 000 / 47 582 183
+
 
 ------
 
 Macron 60%, Le Pen 40%. El fascismo ha aporreado las puertas 
-del Eliseo por segunda vez desde la Liberación.
+del Eliseo por segunda vez desde la Liberación. La base electoral del FN 
+ha crecido en 6 millones de personas en 15 años.
 
-## Fase 1. El terreno. Cómo hemos llegado hasta aquí.
+## ¿Cómo hemos llegado hasta aquí?
 
 La primera vuelta de las elecciones presidenciales de 2002 acabó en un pinchazo inesperado
 del hasta entonces primer ministro socialista Lionel Jospin, en favor del derechista
@@ -45,7 +48,6 @@ El pinchazo de Mélenchon llegó una semana antes de las elecciones con el candi
 Hollande, y su famosa proclamación mitinera de "mi enemigo es la finanza". En ese momento, 
 Mélenchon dejó de ser el único candidato crítico con el capitalismo financiero y acabó bajando a un 11%.
 
-
 Después de unas medidas iniciales que demostraron ser de postureo, como el famoso impuesto a los ricos,
 Hollande inició una serie de renuncias sin precedentes en el socialismo francés.
 Desde regalos financieros a la patronal a costa de las ayudas sociales (el llamado 
@@ -61,31 +63,42 @@ donde desvela como Hollande se refería a los pobres como "sin dientes".
 El Front National no perdió su oportunidad:
 <<Hollande desprecia los "sin dientes", el Front National los defiende">>
 
-## Fase 2. Una primera vuelta imprevista por todos lados. La campaña de Mélenchon
+## Una primera vuelta imprevista por todos lados. La campaña de Mélenchon
 
 Ante la caída de Hollande, parecía que iban a ocurrir dos cosas. Primero, que
-Valls, último candidato en las primarias socialistas, luego ministro del interior,
-y luego primer ministro, iba a conseguir colocarse como el nuevo candidato del PS
+Valls, ministro de interior y luego primer ministro, a pesar de ser el último 
+candidato en las primarias socialistas, iba a conseguir colocarse como el nuevo candidato del PS
 a las presidenciales. Segundo, que este perdería frente al candidato de la derecha,
 fuera un Sarkozy o fuera quien acabara saliendo victorioso de las luchas internas 
 de la UMP (ahora Les Republicains)
 
-Pero las primarias de ambos partidos trajeron sorpresas y ni Valls ni Sarkozy ganaron.
-Ganaron, en su lugar Hamon, un diputado contestatario, y Fillon, una versión de Sarkozy
-con pinta de ir más a misa.
+Sin embargo, ni Valls ni Sarkozy ganaron sus respectivas primarias. En su 
+lugar, les tomaron el relevo Hamon, uno de los 70 diputados contestatarios del PS, 
+y Fillon, una versión más católica de Sarkozy.
 
 El hoy candidato Macron, ex Sience Po, ex ENA, ex socio Rotshctild y ex 
 Ministro de Economía de Hollande, se había largado del PS meses antes para montar
 En Marche, la típica plataforma para medir las posibilidades al Eliseo.
 
-Sarkozy pierde. Fillon escándalos. 
-Hamon gana (frondeur) y le dan la espalda las espadas del PS.
-Mélenchon despega a costa de Hamon y con una excelente campaña.
-Obsesión con Podemos. Movimiento por la 6 república. Re-democratización
-en un contexto donde ya ni siquiera el presidente tiene poder, lo tiene
-la finanza.
+Melenchon, mientras tanto, sigue intentanto forzar un Podemos sin 15M, esta vez
+en torno a su campaña de la Francia Insumisa. El PCF, dividido en un referendum interno (51/49)
+sobre si apoyar a Mélenchon o presentar candidatura propia. El rechazo a Mélenchon
+es una mezcla de su ego y sus mal disimuladas ganas de puntear, barrer o fagocitar PCF.
 
-## El problema de la abstención
+La segunda vuelta hubiera sido, con toda probabilidad, Fillon contra Le Pen, 
+de no ser por los escándalos que la prensa saca a Fillon al inicio de la campaña.
+Por otro lado, una parte del aparato del PS le da la espalda a Hamon en favor
+de la spin-off liberal de Emmanuel Macron. Melenchon, que probablemente hubiera 
+hecho un porcentaje similar o inferior al del 2012, consigue, con una excelente 
+campaña, canalizar practicamente todos los votos perdidos de Hamon.
+
+El resultado de la primera vuelta, 21, 20, 19, 19, acerca a la izqierda 
+a una distancia de la segunda vuelta que no había visto desde 1965. Pero no pasa.
+
+
+## La abstención ante el fascismo
+
+Si bien es cierto que Le Pen lo tenía complicaso...
 
 
 ## Legislativas: una tercera vuelta.
