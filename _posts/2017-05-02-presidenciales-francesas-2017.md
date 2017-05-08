@@ -12,7 +12,6 @@ Le Pen, segunda vuelta:
 2017:  11 000 000 / 47 582 183
 
 ------
-TEST 
 
 Macron 60%, Le Pen 40%. El fascismo ha aporreado las puertas 
 del Eliseo por segunda vez desde la Liberación. La base electoral del FN 
