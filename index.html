@@ -3,12 +3,9 @@ layout: default
 title: La Maldekstra Kolono
 ---
 
-<div class="container">
-<div class="row">
-
-
 <h1 id="articulos"> </h1>
-  <ul class="posts">
+
+<ul class="posts">
     {% for post in site.posts limit:10 %}
     {% if post.type == "articulo" %}
       <li>
@@ -20,7 +17,7 @@ title: La Maldekstra Kolono
 				<img src="{{ site.baseurl }}/assets/thumbnail-9N.png" height="75px" width="75px" alt="thumbnail" title="thumbnail">
 				{% endif %}
 			</div>
-			<div class="col-xs-6" style="margin-left:20px;">
+			<div class="col-xs-10" style="margin-left:20px;">
 				<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}"><b>{{ post.title }}</b></a>
 				<p>{{post.summary}}</p>
 		  </div>
@@ -28,7 +25,5 @@ title: La Maldekstra Kolono
 	  </li>
      {% endif %}
     {% endfor %}
-  </ul>
-  
-</div>
-</div>
+</ul>
+

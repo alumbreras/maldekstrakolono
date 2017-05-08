@@ -3,24 +3,6 @@ layout: default
 title: La Maldekstra Kolono
 ---
 
-<div class="container">
-<div class="row col-xs-12">
-
-<!------
-  <h1> Artículos </h1>
-		{% for post in site.posts %}
-		  {% assign currentdate = post.date | date: "%Y" %}
-		  {% if currentdate != date %}
-			{% unless forloop.first %}</ul>{% endunless %}
-			<h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
-			<ul class="posts">
-			{% assign date = currentdate %}
-		  {% endif %}
-			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-		  {% if forloop.last %}</ul>{% endif %}
-		{% endfor %}
---->
-
 <h1 id="articulos"> </h1>
   <ul class="posts">
     {% for post in site.posts %}
@@ -59,5 +41,3 @@ title: La Maldekstra Kolono
     {% endfor %}
   </ul> 
   
-  </div>
-  </div>

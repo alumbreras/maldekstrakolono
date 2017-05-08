@@ -19,7 +19,7 @@ html, body {
 body {
   background-color: white;
   font-family: helvetica, arial, clean, sans-serif;
-  text-align: center;
+/*  text-align: center;*/
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -98,13 +98,19 @@ ul.posts {
 /* Site
 /*
 /*****************************************************************************/
+.container {
+  /*width: 100%;*/
+  max-width: 60rem;
+  line-height: 1.7em;
+  padding-right: 1px;
+
+}
 
 .site {
   font-size: 100%;
-  text-align: left;
-  width: 50em;
-  margin: 3em auto 2em auto;
-  line-height: 1.7em;
+  /*text-align: left;*/
+  /*width: 50em;*/
+  /*margin: 3em auto 2em auto;*/
 }
 
 .title {
@@ -114,30 +120,30 @@ ul.posts {
   margin-left: 1em;
 }
 
-  .site .title a {
+  .title a {
     color: #b10000;
     text-decoration: none;
   }
 
-  .site .title a:hover {
+   .title a:hover {
     color: black;
   }
 
-  .site .title a.extra {
+   .title a.extra {
     color: #b10000;
     text-decoration: none;
     margin-left: 1em;
   }
 
-  .site .title a.extra:hover {
+   .title a.extra:hover {
     color: black;
   }
 
-  .site .meta {
+   .meta {
     color: #aaa;
   }
 
-  .site .footer {
+   .footer {
     font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
@@ -145,22 +151,22 @@ ul.posts {
     overflow: hidden;
   }
 
-    .site .footer .contact {
+     .footer .contact {
       float: left;
       margin-right: 3em;
     }
 
-      .site .footer .contact a {
+       .footer .contact a {
         color: #8085C1;
       }
 
-    .site .footer .rss {
+     .footer .rss {
       margin-top: 1.1em;
-      margin-right: -.2em;
+      margin-right: -.0em;
       float: right;
     }
 
-      .site .footer .rss img {
+      .footer .rss img {
         border: 0;
       }
 
@@ -171,9 +177,8 @@ ul.posts {
 /*****************************************************************************/
 
 .post {
-  text-align: justify;
-  width: 45em;
-
+  /*text-align: justify;*/
+  /*width: 45em;*/
 }
 
   /* standard */
@@ -210,11 +215,11 @@ ul.posts {
   .post pre.terminal code {
     background-color: #333;
   }
-
-#related {
-  margin-top: 2em;
+  
+ /* DEBUG
+.row {
+     border-style: solid;
+	border-width:1px;
+	border-color:green;
 }
-
-  #related h2 {
-    margin-bottom: 1em;
-  }
+* /

@@ -1,27 +1,43 @@
 <!DOCTYPE html>
 <html lang="es">
-
 {% include head.html %}
-	
-	<body>
+<body>
 
-		{% include header.html %}
-
-
-		<div class="site">
-			<div class="title">
-				<a class="extra" href="{{ site.baseurl }}">Inicio</a>
-				<a class="extra" href="{{ site.baseurl }}/archive.html">Archivo</a>
-
-			</div>
-
-			{{ content }}
-
-			{% include footer.html %}
+	<section class="container">
+		
+		<div class="row">
+		<div class="col-xs-12">	
+			   <img class"img-responsive center-block" src="{{ site.baseurl }}/images/banner3.png"/>
+			<!--{% include header.html %}-->
 		</div>
+		</div>	
+	</section>
+	
+	<section class = "container">
+	<div class="site">
+
+				<!-- Menu -->
+				<div class="row col-xs-12">
+					<div class="title">
+						<a class="extra" href="{{ site.baseurl }}">Inicio</a>
+						<a class="extra" href="{{ site.baseurl }}/archive.html">Archivo</a>
+					</div>
+				</div>
+
+				<!-- Content -->		
+				<div class="row col-xs-11">
+				{{ content }}
+				</div>
+				
+				<!-- Footer -->
+				<div class="row col-xs-12">
+				{% include footer.html %}
+				</div>
+	</div>
+
+	</section>
 
 	{% include scripts.html %}
 
-	</body>
-	
+</body>
 </html>

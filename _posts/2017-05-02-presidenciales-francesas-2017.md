@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Presidenciales francesas
-summary: El día que ganó Macron me robaron la cartera en el mercado.
+summary: El FN ha aporreado las puertas del Eliseo por segunda vez. Su base base electoral
+ha crecido en 6 millones de personas en 15 años. Macron gana la presidencia
+pero todo se juega ahora en las legistalivas.
 thumbnail: 2017_05_02-presidenciales-francesas-mapa1.jpeg
 type: articulo
 ---
@@ -35,7 +37,7 @@ votarán a la derecha para frenar al Front National.
 
 10 años más tarde llegan las presindenciales de 2012 en un contexto de movilizaciones sociales
 y de primaveras (árabes, 15-M, Wall Street...) Durantes unas semanas, parecía 
-que se podía abri una etapa de cambio en uno de los centros neurálgicos de Europa. 
+que se podía abrir una etapa de cambio en uno de los centros neurálgicos de Europa. 
 Melenchon, ex-ministro del gobierno Jospin, había creado el Parti de Gauche 
 y formado una alianza con el PCF, entre otros, para formar el Front de Gauche. 
 Las encuestas auguraban unos excelentes resultados a Mélenchon, 
@@ -50,7 +52,7 @@ sin precedentes en el socialismo francés. Desde regalos financieros a la
 patronal a costa de las ayudas sociales (el llamado Pacto de Responsabilidad), 
 hasta la contestada reforma laboral (ley El-Khomri), pasando
 por una humillante (especialmente en el imaginario francés) 
-claudicación a la política alemana.
+claudicación ante la política alemana.
 
 Una anéctoda puede servir para ilustrar lo que se estaba gestando en el
 panorama político francés. Ante el filtraje a la prensa de que Hollande
