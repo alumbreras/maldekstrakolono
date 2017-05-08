@@ -5,8 +5,9 @@ markdown: kramdown
 highlighter: rouge
 
 timezone: Europe/Berlin
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://alumbreras.github.io"  # the base hostname & protocol for your site
+baseurl: "https://maldekstrakolono.net" # the subpath of your site, e.g. /blog
+#url: "http://alumbreras.github.io"  # the base hostname & protocol for your site
+url: "https://maldekstrakolono.net"  # the base hostname & protocol for your site
 
 exclude: [
   'cibuild',
