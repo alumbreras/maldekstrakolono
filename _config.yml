@@ -5,7 +5,7 @@ markdown: kramdown
 highlighter: rouge
 
 timezone: Europe/Berlin
-baseurl: "/maldekstrakolono" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alumbreras.github.io"  # the base hostname & protocol for your site
 
 exclude: [
