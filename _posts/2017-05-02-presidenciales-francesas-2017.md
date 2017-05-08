@@ -61,7 +61,7 @@ comunicado diciendo:
 
 <<Hollande desprecia los "sin dientes", el Front National los defiende>>
 
-## Una primera vuelta imprevista por todos lados.
+## Primera vuelta: las sorpresas
 
 Las primarias del PS y de Los Republicains (antigua UMP de Sarkozy) fueron
 un jarro de agua fría sobre Valls y Sarkozy, respectivos pesos pesados que se 
@@ -85,7 +85,7 @@ consigue controlar su ego y acentuar su imagen humanista.
 Desgraciadamente, Mélenchon se queda a las puertas de la segunda vuelta, y
 Francia se ve de nuevo en un 21 de abril donde tiene que elegir entre susto o muerte.
 
-## La abstención ante el fascismo
+## Segunda vuelta: el susto
 
 Le Pen ha conseguido un 34% y 11 millones de votos, un crecimiento de 
 6 millones respecto a los 5 millones que obtuvo su padre contra Chirac en 2002.
@@ -106,7 +106,7 @@ de voto implica un clima de racismo y xenofobia y división de la clase obrera.
 Por eso no cabe hacer equilibrios politicos. Luchar por la desaparición del FN es una
 obligación de la izquierda, a la vez que combate las causas que lo generan.
 
-## Legislativas: una tercera vuelta.
+## Tercera vuelta: elecciones legislativas
 
 La izquierda tiene, sin embargo, una última oportunidad para poner un contrapoder
 a Macron. Las legistalitivas, que comprondán el parlamento, pueden resultar
