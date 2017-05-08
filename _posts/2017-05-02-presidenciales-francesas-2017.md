@@ -2,8 +2,8 @@
 layout: post
 title: Presidenciales francesas
 summary: El FN ha aporreado las puertas del Eliseo por segunda vez. Su base base electoral
-ha crecido en 6 millones de personas en 15 años. Macron gana la presidencia
-pero todo se juega ahora en las legistalivas.
+  ha crecido en 6 millones de personas en 15 años. Macron gana la presidencia
+  pero todo se juega ahora en las legistalivas.
 thumbnail: 2017_05_02-presidenciales-francesas-mapa1.jpeg
 type: articulo
 ---
