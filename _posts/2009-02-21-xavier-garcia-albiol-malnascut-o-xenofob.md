@@ -9,7 +9,9 @@ categories:
 tags:
 - racismo
 - Xavier Garcia-Albiol
-redirect_from: /:year/:month/:day/:title/
+redirect_from: 
+- /:year/:month/:day/:title/
+- http://www.maldekstrakolono.net/2009/02/21/xavier-garcia-albiol-malnascut-o-xenofob/ 
 ---
 Se enfada el PP por que Alex Mañas, regidor de ICV-EUiA, les llama en la radio "xenòfobs” 
 i de “malnascuts”. Llama al programa Miquel Jurado, otro regidor pepero, 
