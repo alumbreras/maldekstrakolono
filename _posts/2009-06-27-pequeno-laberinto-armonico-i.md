@@ -3,9 +3,9 @@ layout: post
 title: Pequeño Laberinto Armónico (I)
 date: 2009-06-27 16:00:00.000000000 +02:00
 type: recorte
+redirect_from: /2009/06/27/pequeno-laberinto-armonico-i/
 categories:
 - filosofía
-redirect_from: /2009/07/01/pequeno-labertinto-armonico-i/
 ---
 <div><em>(Y así, Aquiles frota suavemente la gran letra "L" grabada sobre la cubierta de cobre de la lámpara... Repentinamente aparece una inmensa bocanada de humo, entre cuyas nubes los cinco amigos pueden distinguir una extraña figura fantasmagórica elevándose sobre ellos.)</em></p>
 <p><em style="font-weight: bold;">Genio</em>: Hola, mis amigos, les agradezco infinitamente el rescatar mi Lámpara del endemoniado<br />

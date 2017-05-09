@@ -7,9 +7,7 @@ thumbnail: palestina-israel.jpg
 type: articulo
 categories:
 - política
-tags:
-- Israel
-- Palestina
+redirect_from: /2014/08/02/israel-palestina-para-no-iniciados/
 ---
 
 Dado que aún quedan reductos de gente algo confundida con el tema de Palestina 

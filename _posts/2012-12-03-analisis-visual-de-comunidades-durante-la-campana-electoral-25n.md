@@ -4,6 +4,8 @@ title: Análisis visual de comunidades durante la campaña electoral 25N
 type: articulo
 categories:
 - política
+
+redirect_from: /2012/12/03/analisis-visual-de-comunidades-durante-la-campana-electoral-25n/
 ---
 <p>Para medir el impacto de una campaña en Twitter, normalmente se utilizan métricas numéricas como el número de tweets y retweets con del <em>hashtag</em> de la campaña. Sin embargo, esas métricas numéricas no nos dan una idea de qué tipo de público es el que se implicó en la campaña. La detección y visualización de comunidades que utilizaron un hashtag nos permite hacernos una idea más intuitiva de en qué sectores ha penetrado mejor una campaña determinada.</p>
 <p>Durante la campaña electoral recogí (con <a href="https://bitbucket.org/alumbreras/twitter-analytic-tools">este software</a> programado para la ocasión) los tweets que se generaron alrededor de algunos hashtags como los oficiales de ICV-EUiA y CUP (#itantsipodem y #hovolemtot) y otros que posiblemente tuvieron algún efecto en el resultado final de las elecciones (#14n, #CiUesTroika, etc). Para cada <em>hashtag</em>, generé un grafo con los usuarios que lo tuitearon y las relaciones de "follow" entre ellos.</p>

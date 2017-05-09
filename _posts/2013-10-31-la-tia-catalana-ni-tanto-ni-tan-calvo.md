@@ -8,6 +8,7 @@ summary: La entrada de Anonymous en los servidores de del Cesicat
    a la indignación. Pero pasados los chistes de unos y los sustos de otros, 
    cuidado.
 thumbnail: PxCgrafo.png
+redirect_from: /maldekstrakolono/política/2013/10/31/la-tia-catalana-ni-tanto-ni-tan-calvo.html
 categories:
 - política
 type: articulo
