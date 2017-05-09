@@ -9,6 +9,8 @@ tags:
 - Economía del Bien Común
 - marxismo
 - reformismo
+
+redirect_from: /2012/12/10/contra-la-economia-del-bien-comun/
 ---
 <blockquote><strong>idealismo:<br />
 </strong><br />

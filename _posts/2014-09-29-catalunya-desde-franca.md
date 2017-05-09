@@ -16,6 +16,7 @@ tags:
 - Francia
 - independencia
 - Robespierre
+redirect_from: /maldekstrakolono/política/2014/09/29/catalunya-desde-franca.html
 ---
 
 _(Publicació feta al número especial de la JCC al 11 de setembre de 2014, http://www.jcc.cat/#revista)_
