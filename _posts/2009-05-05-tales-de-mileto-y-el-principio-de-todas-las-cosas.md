@@ -5,8 +5,7 @@ date: 2009-05-05 21:11:00.000000000 +02:00
 type: articulo
 categories:
 - filosofía
-tags:
-- Tales de Mileto
+redirect_from: /2009/05/05/tales-de-mileto-y-el-principio-de-todas-las-cosas/
 ---
 
 Durante los casi 10.000 años de estados y civilizaciones anteriores a los 
