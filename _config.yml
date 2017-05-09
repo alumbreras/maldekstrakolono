@@ -5,9 +5,10 @@ markdown: kramdown
 highlighter: rouge
 
 timezone: Europe/Berlin
-#baseurl: "http://maldekstrakolono.net" # the subpath of your site, e.g. /blog
-#url: "http://alumbreras.github.io"  # the base hostname & protocol for your site
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://maldekstrakolono.net"  # the base hostname & protocol for your site
+
+permalink: /:year/:month/:day/:title.html
 
 exclude: [
   'cibuild',
@@ -16,8 +17,6 @@ exclude: [
   'package.json',
   'README.md',
   'vendor']
-
-
 
 header-img: images/maldekstra_banner_cut.png
 
