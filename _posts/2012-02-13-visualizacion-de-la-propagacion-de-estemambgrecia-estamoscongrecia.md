@@ -7,6 +7,7 @@ published: true
 status: publish
 categories:
 - política
+redirect_from: /maldekstrakolono//pol%C3%ADtica/2012/02/13/visualizacion-de-la-propagacion-de-estemambgrecia-estamoscongrecia.html
 ---
 <p>Lo que sigue son una serie de visualizaciones sobre la difusión de la lucha del pueblo griego en Twitter. Especialmente desde ayer, la la etiqueta (#hashtag) para los tweets de apoyo es #estemambgrecia en los Països Catalans, y #estamoscongrecia en España (e imagino que latinoamerica).</p>
 <p>La primera gráfica muestra la evolución temporal de los últimos 1500 tweets con la etiqueta #estemambgrecia. En el eje de abcisas (horizontal) está el tiempo; en el eje de ordenadas (vertical) están los usuarios ordenados cronólogicamente por su primer tweet. La mayoría de nombres de usuario son irreconocibles debido a la gran cantidad de usuarios que han participado en la etiqueta.</p>
