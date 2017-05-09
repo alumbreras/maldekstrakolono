@@ -10,6 +10,7 @@ tags:
 - turcochipriotas
 - Turquía
 - UE
+redirect_from: /maldekstrakolono/pol%C3%ADtica/2010/09/15/easyjet-turcochipriota.html
 ---
 
 La lista de estados miembros de la Unión Europea es:
