@@ -1,0 +1,35 @@
+---
+layout: post
+title: "¿Y ahora qué? (apunte post-electoral)"
+date: 2011-11-21 21:52:44.000000000 +01:00
+type: articulo
+categories:
+- política
+tags:
+- CUP
+- Equo
+- euia
+- IA
+- icv
+- ICV-EUiA
+- IU
+- izquierdas
+- RG
+---
+<p>Pasado el periodo quincenal de morderse la lengua (más o menos) disciplinadamente, es momento de empezar a hablar de asambleas, congresos, refundaciones y de izquierda en general. IU ha salido, por fin, de las posiciones de descenso, el aterrizaje de Equo ha resultado un fracaso espectacular, la coalición ICV-EUiA respira, y por el norte Amaiur nos alimenta la esperanza de que las izquierdas aún tienen mucho que decir en esta guerra. De fondo, alcanza el poder el que posiblemente es el presidente de gobierno más burro desde los tiempos de aquellos reyes que eran víctimas genéticas de su propia endogamia familiar.</p>
+<p>Pero en cualquier caso por la izquierda tenemos trabajo pendiente. Comparto aquí algunos de los aspectos que me preocupan:</p>
+<p><strong>Plano institucional vs. plano social</strong></p>
+<p>A pesar del golpe psicológico de una derecha extrema con mayoría absoluta, los resultados de estas elecciones nos deberían ser más o menos indiferentes. Jugamos en dos planos: el social y el institucional, y éstos rara vez están alineados. Nuestro barómetro no es el número de diputados, sino el número de gente que está a nuestro lado en la calle. La izquierda debe seguir trabajando para alcanzar esa hegemonía cultural tan necesaria si se quieren aplicar desde las instituciones políticas que las clases populares hagan suyas. Cien diputados sin su correspondiente base social es una burbuja. Y todas las burbujas acaban pinchando.</p>
+<p><strong>IU en el parlamento</strong></p>
+<p>Cayo Lara es un gran coordinador, pero el perfil de Llamazares nos interesa más como portavoz de grupo. Cayo es bueno para un mitin pero no para acercar a un sector de población que pide contundencia pero también una buena argumentación. En este sentido tengo la esperanza de que Alberto Garzón será un gran diputado y creo que debemos invertir en ese tipo de perfiles. Existe todavía la imagen del comunista <em>zorrocotroco</em> y Alberto ayuda a romper prejuicios. Mientras tanto hay que ir haciendo cantera y abrirnos más a compañeros sin carnet. En valores absolutos hay más gente preparada fuera que dentro de IU o de EUiA. Es una cuestión de matemáticas.</p>
+<p><strong>Equo</strong></p>
+<p>La aparición de Equo nos ha generado cierta inquietud ante el peligro de que una fuerza de izquierda edulcorada acabase comiéndose el espacio electoral de la izquierda anticapitalista. Los recelos ante esta nueva fuerza han generado algunas tensiones entre gente de IU y de Equo. Personalmente me alegro (políticamente hablando) del batacazo porque, más allá de la mayor o menor simpatía hacia algunos de sus miembros, desconfio de la linea editorial del proyecto y de sus ideólogos europeos. Sin embargo, pasadas las elecciones toca recuperar la empatía y reconocer que quizás algunos de los que estaban en IU y ahora están en Equo hicieron el cambio por algún motivo más que <em>conservar la silla.</em> Parece que alguna asamblea de IU necesita una revolución interna -o una desinfección. Pero que la empatía sea mutua: la izquierda tiene muchos mártires pero pocos santos.</p>
+<p>Probablemente muchos compartamos muchas de las críticas que se hacen desde fuera, y por eso los quiero a mi lado. Si entre todos construímos un barco que luego se desvía, saltar a un bote quizás no es la mejor solución si el destino es el mismo. Si el destino no es el mismo, eso ya es otra cosa.</p>
+<p>En Catalunya hemos visto que los argumentos de algunos compañeros de ICV para defender ese "nuevo" proyecto eran sospechosamente parecidos a las versiones oficiales de sus direcciones; criticas a IU incluídas (siempre en abstracto y sin aclarar el qué). Tras muchas conversaciones cruzadas intuyo que ciertos elementos de la dirección de ICV informan a sus bases añadiendo cierto sesgo interesado que garantiza que estas le den la razón. En algunos momentos estas desinformaciones han clamado al cielo, y el día que se haga una asamblea conjunta alguno perderá pelo.</p>
+<p><strong>Viejos frentes y nuevos frentes</strong></p>
+<p>Las relaciones con ICV dependerán, entre otras cosas, de que aclaren qué quieren ser de mayores. Su alineación con el proyecto verde europeo, fuera del espacio de la izquierda europea, no es compatible con el proyecto de EUiA. Por otro lado en EUiA hay quemazón ante los continuos agravios y abusos desde la formación de la coalición. Además, los <em>tics</em> de ICV (represión estudiantil, apoyo a la intervención imperialista en Libia, etc) han acabado por enervar a la gente de EUiA (en más de una ocasión, todo sea dicho, tampoco ha estado a la altura la actual dirección de EUiA). Una organización política nunca es un bloque homogéneo y en ICV hay personas que bien podrían estar en EUiA. Pero hay ciertas direcciones que son <em>guillotinables</em>.</p>
+<p>Tenemos dos salidas:  o una coalición equitativa, radicalmente democrática y de una persona un voto,  con asambleas conjuntas donde las bases dialoguen y se impidan secuestros de las direcciones, o una ruptura de la que EUiA salga fortalecida a largo plazo. En cualquiera de los dos casos, pero especialmente en el segundo, habrá que continuar buscando espacios comunes con Revolta Global y con la CUP, desde la base, y con la vista puesta en una eventual unión de izquierdas nítidamente transformadoras. Para que esto sea posible, CUP y EUiA deberán plantearse de qué forma hacemos compatible la lucha por el proyecto federal con la lucha por el proyecto independentista. EUiA deberá defender con uñas y dientes el derecho a la autodeterminación y la CUP deberá aceptar unos compañeros de viaje cuyo proyecto incluye al resto de pueblos del actual Estado.</p>
+<p><strong>Partido de vanguardia vs. partido nodo</strong></p>
+<p>Es más que probable que ese concepto tan leninista del <em>partido de vanguardia</em> haya quedado obsoleto. El 15M, y sobretodo Democracia Real Ya, están confirmando algo que algunos ya sospechaban: el cambio de sistema no vendrá de la mano de una organización a la que seguirán las masas, sino de una red de nodos, de meta-vanguardia, si se quiere. No se trata ya de liderar la red sino de trabajar en ella con el resto de nodos sin pensar en otro rédito que el de si tal o cual acción contribuyen a avanzar nuestras ideas y nuestras propuestas. No hay que estar delante sino al lado.</p>
+<p>En esa misma línea hay que dejar de suspirar cada vez que recordamos los 60.000 militantes del PSUC en Catalunya. Asumámoslo, <em>ella no va a volver</em>. La historia nunca se repite porque las condiciones nunca son las mismas. Lo cual no significa que la izquierda no pueda recuperar la fuerza que una vez tuvo. La fuerza de la izquierda estará en esa red de nodos que van al mismo puerto o que, al menos, comparten camino. El día que entre todos sumemos 60.000 que empiecen a temblar  los de arriba.</p>
+<p><strong> </strong></p>

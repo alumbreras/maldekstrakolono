@@ -1,0 +1,20 @@
+---
+layout: post
+title: Diversificar en guerras
+date: 2010-10-11 15:40:48.000000000 +02:00
+type: articulo
+categories:
+- política
+tags:
+- guerras
+- Le Monde Diplomatique
+---
+<p style="text-align: justify;">Diversificar es importante.</p>
+<p style="text-align: justify;">Lo saben muy bien el presidente de la CEOE, ese titán de los negocios <a href="http://www.publico.es/dinero/301579/diaz-ferran-arruina-tambien-su-aseguradora">capaz de hundir dos empresas en dos sectores</a>.  Y lo saben también en la bolsa, donde los inversores se cubren las  espaldas especulando en mercados lo más incorrelados posible. Y como los  unos son amigos de los otros, -a veces incluso son los mismos- lo saben  también los <em>brokers</em> de la guerra que aprovechan los mercados -<em>nichos</em> de mercado, que dirían ellos- que la era post-colonial ha creado  después de la Segunda Guerra Mundial, vendiendo armas a los países  pobres que se matan con las armas fabricadas en los países ricos.</p>
+<p style="text-align: justify;">Lo bueno de la guerra es que, como en la bolsa, puedes vender armas a un bando y a su competencia (ver <a href="http://www.rebelion.org/noticia.php?id=66186">Afganistán</a> o <a href="http://www.rebelion.org/noticia.php?id=51343">Darfur</a>).  Pero en la guerra, a diferencia de la bolsa, pierda quien pierda el  mercenario gana, lo que la hace interesantes para los bancos, que ponen  allí las acciones del <em>currela</em> que busca una alegría en ese hipotético 5% de interés a plazo fijo  invertido en mercados "de bajo riesgo". Con la calderilla recogida en  uno o dos años el hombre y su familia, mujer y <a href="http://www.elmundo.es/elmundo/2010/06/22/espana/1277197824.html">niño y medio</a>, se pondrán guapos y se irán a la marisquería a darse <em>una alegría pal cuerpo</em>.</p>
+<p style="text-align: justify;">(Nota al margen: <a href="http://triodos.es/">Alternativas</a> al <a href="http://www.bbvasensearmes.org/">banco de la esquina</a>)</p>
+<p style="text-align: justify;">Para ilustrar la situación los amigos de <a href="http://www.monde-diplomatique.fr/">Le Monde Diplomatique</a> han tenido la amabilidad de enviarme este mapa publicado en la edición  francesa impresa del mes de Octubre, en el artículo "Innover plus pour  tuer plus" ("Innovar más para matar más"). No es que digan nada que no  supieramos ya, pero sabemos desde la guardería que los dibujitos son  educativos.</p>
+<p style="text-align: center;"><span style="color: #ffffff;">_____________________</span></p>
+<p style="text-align: center;"><a href="http://albertolumbreras.com/wp-content/uploads/2010/10/mapa-guerras1.png"><img class="aligncenter size-full wp-image-501" title="mapa guerras" src="{{ site.baseurl }}/assets/mapa-guerras1.png" alt="" width="631" height="381" /></a><span style="color: #ffffff;">________________________________________________________________</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">Aprovecho la amabilidad del <em>Le Monde Diplomatique</em> para animar a una subscripción masiva a la edición española de este gran periódico mensual. Nacido del más conocido <em>Le Monde</em> es, junto con su padre, uno de los pocos periódicos que mantiene su  independencia respecto a grupos empresariales. La formula es sencilla:  sus acciones son 49% propiedad de lectores agrupados como <a href="http://www.amis.monde-diplomatique.fr/">Les amis du Monde Diplomatique</a>, y 51% propiedad de<em> Le Monde</em> que es, a su vez, es 80% propiedad de sus trabajadores. El 20% restante  lo tuvieron que vender por dificultades económicas, siendo el comprador  Jesus de Polanco (D.E.P), alias Jesús del Gran Poder (D.E.P).</span></p>
+<p style="text-align: justify;"><span style="color: #000000;">El  resultado es una publicación de izquierdas independiente, rigurosa y de  calidad. No conozco muchos periódicos con la sana costumbre de  referenciar a las fuentes, o a lecturas complementarias, al final de  cada artículo. O apoyamos este tipo de publicaciones, o podemos ir  levantando el campamento, porque diversificar es importante.</span></p>

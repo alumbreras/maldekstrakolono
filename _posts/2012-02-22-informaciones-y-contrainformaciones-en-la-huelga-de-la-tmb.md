@@ -1,0 +1,23 @@
+---
+layout: post
+title: Informaciones y contrainformaciones en la huelga de la TMB
+date: 2012-02-22 13:07:54.000000000 +01:00
+type: articulo
+published: true
+status: publish
+categories:
+- política
+tags:
+- TMB
+---
+<p>La huelga de los trabajadores de la TMB ha activado, de nuevo, la maquinaria propagandística de los de arriba. Presentado como un caso aislado, en realidad es un episodio más con la misma estructura que sus antecedentes: funcionarios, controladores, médicos, profesores... uno tras otro se presenta en los medios como un caso de abuso de poder de negociación (!) y/o de  defensa de unos privilegios que el resto de la clase trabajadora no tiene.</p>
+<p>El relato de la "clase dominante" se impone para justificar unas "relaciones de producción" abusivas que los propios obreros acaban aceptando como normales. Se lanzan mensajes envenenados que intentan menguar la "solidaridad obrera" y que a menudo incluso la transforman en "hostilidad obrera", consiguiendo que el resto de trabajadores señale con desprecio la lucha de aquellos que han decidido levantarse. Estos mensajes siguen también un esquema que se repite y apelan a la doble dimensión del trabajador/consumidor. Al ciudadano trabajador le dicen que el colectivo en huelga tiene unos privilegios que él no tiene (la seguridad de los funcionarios, los ingresos por guardias de los médicos, los astronómicos sueldos y pocas horas de trabajo de los controladores, los falsos tres meses de vacaciones de los profesores...). Al ciudadano consumidor le dicen que la huelga afectará su derecho (!) a consumir, que alterará su confort inmedianto (sus vacaciones, su desplazamiento en metro,...) aún cuando a largo plazo la huelga le beneficie como consumidor (mejores condiciones laborales implican mejor servicio) y como trabajador (el fortalecimiento/debilitamiento de unos sectores facilita el fortalecimiento/debilitamiento del resto).</p>
+<p>Para el episodio de la TMB los medios han fabricado dos mensajes principales, a saber:</p>
+<p><strong>Los trabajadores de la TMB cobran más que un maestro de secundaria</strong><br />
+Este argumento simplifica las condiciones laborales al salario. Primero, la afirmación es falsa. Segundo, y si así fuera, ¿qué? Podemos encontrar mineros, obreros de la Seat, o trabajadoras del sexo que cobran  más que un profesor de secundaria medio.</p>
+<p>Una variante de este mensaje es que cobran mucho "para lo que hacen". El <em>valor</em> (no el precio) de un producto es el tiempo de trabajo necesario para elaborarlo. Las ocho horas de un ingeniero de coches tienen el mismo valor que las ocho horas de un carpintero siempre que la sociedad necesite coches y muebles. Que el salario del ingeniero sea mayor que el del carpintero podemos entenderlo o no, pero no tiene justificación ética. El trabajador de la TMB "hace" que un vehículo se mueva ocho horas al día, y eso le supone el mismo desgaste físico y mental (quizás más) que el que suponen ocho horas de directivo de la TMB. A pesar de que el directivo de la TMB cobre, del erario público, un salario insultántemente más elevado que el del conductor de metro (ver documento adjunto).</p>
+<p><strong>Se boicotea el World Mobile Congress que podría irse de Barcelona<br />
+</strong>Una pena (o no). En cualquier caso, ese es el objetivo de la huelga y su poder negociador. Si el WMC se va de Barcelona habrá que culpar a los 600 directivos de la TMB y a los (ir)responsables políticos de CiU, no a los trabajadores que únicamente están pidiendo que se cumpla el convenio, es decir, que no les bajen el sueldo. Por cierto, en 2011 el WMC <a href="http://www.meneame.net/story/hoteles-barcelona-suben-precios-hasta-5000-hacen-peligrar-seguir">ya amenazó con irse de Barcelona por los abusivos precios de los hoteles</a>.</p>
+<p>Los trabajadores de la TMB han editado una publicación para explicar los motivos de la huelga. La cuelgo aquí para que la leais y la difundáis. Mientras se recortan servicios y se suben los precios del transporte público, más de 500 sanguijuelas le chupan la poca sangre que le queda a la empresa (ver página 4). Y si se saquea y luego se vende el negocio será doble.</p>
+<p style="text-align: center;">[scribd id=82415829 key=key-1axe5wiya07hwt5t5pgs mode=slideshow]</p>
+<p><script src="http://www.scribd.com/javascripts/view2.js" type="text/javascript"></script></p>

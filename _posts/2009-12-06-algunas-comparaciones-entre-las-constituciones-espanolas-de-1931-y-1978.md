@@ -1,0 +1,35 @@
+---
+layout: post
+title: Algunas comparaciones entre las constituciones españolas de 1931 y 1978
+permalink: /:year/:month/:day/:title/
+type: articulo
+published: true
+status: publish
+categories:
+- política
+tags:
+- política
+- república
+---
+<div xmlns="http://www.w3.org/1999/xhtml">Algunas diferencias entre la Constitución de la II República, y la constitución del <strike>tardo</strike> post-franquismo::</p>
+<p>¿Progresos? en <b>Educación</b>:</p>
+<p><i>Educación en 1978</i><br />
+<blockquote>Art. 1.- Los poderes públicos garantizan el derecho que asiste a los padres para que sis hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones</p></blockquote>
+<p><i>Educación en 1931</i><br />
+<blockquote>Art. 48.- La enseñanza será laica, hará del trabajo el eje de su actividad metodológica y se inspirará en ideales de solidaridad humana</p></blockquote>
+<p>¿Progresos? en democracia y <b>participación ciudadana</b> (¿no se supone que es lo mismo?)</p>
+<p><i>Referéndums en 1978</i><br />
+<blockquote>Art. 92.2.- El referéndum será convocado por el Rey, mediante propuesta del del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados</p></blockquote>
+<p><i>Referéndums en 1931</i><br />
+<blockquote>Art. 66.- El pueblo podrá atraer a su decisión mediante “referéndum” las leyes votadas por las Cortes. Bastará, para ello, que lo solicite el 15 por 100 del Cuerpo electoral</p></blockquote>
+<p>Más ¿progresos? en democracia, <b>jefatura del estado y su elección</b></p>
+<p><i>Jefe del Estado en 1978:</i><br />
+<blockquote>56.- El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes.</p></blockquote>
+<p><i>Jefe del Estado en 1931:</i><br />
+<blockquote>Art. 67.- El Presidente de la República es el jefe del Estado y personifica a la Nación. El Presidente de la República será elegido conjuntamente por las Cortes y un número de compromisarios igual al de Diputados.<br />Los compromisarios serán elegidos por sufragio universal, igual, directo y secreto, conforme al procedimiento que determine la ley.</p></blockquote>
+<p>¿Progresos? en la <b>impunidad del jefe de Estado</b></p>
+<p><i>Impunidad del Jefe del Estado en 1978:</i><br />
+<blockquote>56.- La persona del Rey de España es inviolable y no está sujeta a responsabilidad.</p></blockquote>
+<p><i>Impunidad del Jefe del Estado en 1931:</i><br />
+<blockquote>85.-  El presidente de la República es criminalmente responsable de la infracción delictiva de sus obligaciones constitucionales.</p></blockquote>
+</div>

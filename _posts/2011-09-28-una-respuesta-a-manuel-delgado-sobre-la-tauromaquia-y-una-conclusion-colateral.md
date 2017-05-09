@@ -1,0 +1,28 @@
+---
+layout: post
+title: Una respuesta a Manuel Delgado sobre la tauromaquia y una conclusión colateral
+date: 2011-09-28 11:50:28.000000000 +02:00
+type: articulo
+categories:
+- política
+tags:
+- animalismo
+- humanismo
+- Manuel Delgado
+- tauromaquia
+- veganismo
+---
+<p>Cuando me empezaba a sentir demasiado Delgadista por fin encuentro un (excelente) <a href="http://manueldelgadoruiz.blogspot.com/2011/09/breve-reflexion-proposito-del-fin-de-la.html">artículo de Manuel Delgado</a> con el que discrepo a pesar de algunos puntos de coincidencia como cuando ironiza:</p>
+<blockquote><p>Pero es que, además, debemos estar a la altura de lo que, aunque no se confiese, siempre es la certeza de que nosotros, los catalanes, estamos un escalón evolutivo por encima del resto de pueblos ibéricos, se quiera o no todavía distantes del nuestro más elevado grado de cultura. Los toros, en efecto, es una fiesta bárbara, salvaje, propia acaso de los españoles, pero no de nosotros, que tenemos la grave responsabilidad de estar a la altura de nuestra propia superioridad civilizatoria.</p></blockquote>
+<p>Sin embargo cuando se trata de justificar la tauromaquia dice:</p>
+<div>
+<blockquote><p>¡Que paradoja! La abominación de la fiesta de los toros se lleva a cabo en nombre un progreso que conduce a una civilización, la nuestra, que ha prohibido los toros, pero que es directa responsable de la destrucción de decenas de especies animales y su hábitat natural y que suprime la muerte ritual de animales, al tiempo que practica sistemáticamente su sacrificio industrial y en masa.</p>
+<p>He ahí, en eso último, la clave. La prohibición en toda Europa de la muerte pública de las bestias, que llevó a prohibir, a lo largo del XIX y hasta ahora mismo, infinidad de fiestas populares centradas en el muerte de animales –y que en Catalunya tiene expresiones que no se recuerdan estos días: la de la prohibición desde 1987 de la matança del porc o de los corderos por parte de la comunidad islámica–, no respondió a la voluntad de proteger a los animales. Los toros, los corderos y los cerdos continuaron y continuarán muriendo de forma atroz y sórdida en los mataderos. Lo que se hizo fue contribuir por esa vía a lo que ya estaba siendo una creciente clandestinización de la muerte animal, es decir el escamoteamiento del origen de la carne que se consume. Lo que escandalizaba y vuelve a escandalizar ahora no es que un animal padezca, sufra y muera de manera terrible, sino QUE SE VEA. Es la apoteosis del principio hipócrita por excelencia: “Ojos que no ven, corazón que no siente”.</p>
+<p>En una palabra, la gloriosa ley que aprobó el Parlament de Catalunya prohibiendo los toros parecía concebida para proteger a unos animales de un tormento que continuarán sufriendo, mucho más tiernos y jóvenes además. A quien se protegía era a usted y a mí de ver que es de cadáveres de los que nos alimentamos. Ese toro que ya no verá morir será, a partir de oro, ese ternero embasado que recogerá del refrigerador del supermercado. Comerá, como hasta ahora, carne sin ojos.</p></blockquote>
+</div>
+<p>Manuel Delgado no defiende el toreo de hoy, sino el de ayer como parte de cultura obrera y urbana catalana. Pero, en cuanto al debate de hoy, evidencia la hiprocresía de una sociedad a la que no le importa la tortura sino su visualización. Ante esta actitud Delgado se posiciona como <em>anti-antitaurino</em>.</p>
+<p>Pero Delgado hace trampas: ante esta contradicción cabe una salida en la dirección contraria. Me explico. Partiendo de la base de que, al menos en la izquierda, negamos la <em>ley del más fuerte</em>, podemos tomar dos posturas en cuanto al reino animal (e infinitas posturas intermedias) que, para entendernos, llamaré <strong>humanista</strong> y la <strong>animalista</strong>. Estas etiquetas no obedecen tanto a su significado tradicional como a qué subconjunto animal engloban en su discurso:</p>
+<p><strong>Humanista</strong>: si hacemos la vista gorda estamos obviando el darwinismo poniendo una frontera entre "el hombre" y "el animal". Esta frontera es la misma que ponen algunas religiones como la católica. La última vez que intenté llevar a un sacerdote (a un hermano salesiano en realidad) a esta contradicción de "¿los perros van al cielo?" me acabó justificando que la Iglesia pone la linea en el momento evolutivo en el que Jesús nace. Es ese nivel evolutivo  el que tiene alma, el resto son criaturas. Ignoro si esta es la postura de la doctrina oficial de la Iglesia, pero el caso es que esta es la causa o la consecuencia de la postura de Delgado.</p>
+<p><strong>Animalista</strong>: si por el contrario llevamos el darwinismo a un punto extremo y aceptamos que la evolución es un continuo sin líneas divisorias no deberíamos, desde la izquierda, justificar la aplicación de la ley del más fuerte.</p>
+<p>A mi me parece que la única opción coherente es la segunda. Y esto nos lleva a una conclusión que soy el primero en incumplir (tampoco es la contradicción que más me preocupe): <strong>la izquierda debe ser vegana</strong>.</p>
+<p style="text-align: center;">[youtube]http://www.youtube.com/watch?v=06c5Srk3fxM[/youtube]</p>
