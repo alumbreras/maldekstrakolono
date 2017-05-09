@@ -5,8 +5,7 @@ date: 2011-08-16 12:15:11.000000000 +02:00
 type: articulo
 categories:
 - política
-tags:
-- Iglesia
+redirect_from: /2011/08/16/el-lastre-misogino-de-la-iglesia-catolica/
 ---
 <p>Reproduzco aquí algunas frases de grandes personajes de la Iglesia Católica ordenadas por la fecha de nacimiento de su autor. Cuidado, no intento hacer una premisa del tipo "si un miembro de la iglesia era o es machista, la institución lo es". Esto es sólo una muestra del tipo de pensamiento de algunos de sus miembros históricos más influyentes. Si bien es cierto que muchas de esas frases se dijeron en una época y en un contexto donde ese era el pensamiento dominante, también lo es que la Iglesia, a día de hoy, no se ha deshecho de ese lastre. La segregación por sexos, por ejemplo, sigue vigente en su propia estructura, siendo las mujeres (monjas) las que actúan de "sirvientas".</p>
 <p>Por otro lado, y quizás aún más grave, organizaciones que son miembros de la Iglesia y cuyo pensamiento no es mucho más evolucionado que el de San Pablo en el siglo I, como el Opus Dei, no solo no son expulsadas de la Iglesia sino que tienen un gran poder en ella y hasta en el Estado español, del que reciben subvenciones para perpetrar una educación medieval e incluso delictiva.</p>
