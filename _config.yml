@@ -18,5 +18,9 @@ exclude: [
   'README.md',
   'vendor']
 
+
+gems:
+  - jekyll-redirect-from
+  
 header-img: images/maldekstra_banner_cut.png
 
