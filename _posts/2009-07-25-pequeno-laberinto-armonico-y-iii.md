@@ -7,7 +7,8 @@ published: true
 status: publish
 categories:
 - filosofía
-redirect_from: /2009/07/01/pequeno-labertinto-armonico-iii/
+redirect_from: 
+   - /2009/07/01/pequeno-labertinto-armonico-iii/
 ---
 <div>
 <p style="text-align: justify;"><strong>Genio:</strong> En absoluto, "DIOS" es un acrónimo que está en lugar de "DIOS que Imparte Ordenes al Subsiguiente". Al subsiguiente Ginn, claro. La palabra árabe "Ginn" es usada para designar Genios, Meta-Genios, Meta-Meta-Genios, etc. Es una palabra Atipo.<br />
