@@ -7,6 +7,7 @@ published: true
 status: publish
 categories:
 - filosofía
+redirect_from: /2009/07/01/pequeno-labertinto-armonico-ii/
 ---
 <div>
 <p><em style="font-weight: bold;">Genio</em>: Lo siento, Aquiles, pero no concedo metadeseos<br />
