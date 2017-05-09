@@ -3,8 +3,7 @@ layout: post
 title: La propaganda fascista se extiende con la crisis
 date: 2011-07-01 22:30:21.000000000 +02:00
 type: articulo
-categories:
-- política
+redirect_from: /2011/07/01/la-propaganda-fascista-se-extiende-con-la-crisis/
 tags:
 - crisis
 - España 2000
@@ -12,6 +11,9 @@ tags:
 - Juan Vicente Santacreu
 - populismo
 - PxC
+categories:
+- política
+
 ---
 <p>En tiempos de crisis hay ciertos discursos que se propagan como el cólera. Mirad el siguiente vídeo de un ciudadano cabreado:</p>
 <p style="text-align: center;">[youtube]http://www.youtube.com/watch?v=NxC9gP87y-o[/youtube]</p>
