@@ -5,10 +5,7 @@ date: 2012-02-15 17:25:23.000000000 +01:00
 type: recorte
 categories:
 - política
-tags:
-- marxismo
-- plusvalor
-- Reforma Laboral
+redirect_from: /maldekstrakolono/política/2012/02/15/la-batalla-por-el-plusvalor-vinculacion-de-salarios-con-productividad.html
 ---
 <p><strong>Título: </strong><em>La nova estratègia del capital: vincular els salaris a la productivitat.<br />
 </em><strong>Autor:</strong><em> <em>Francisco Navarro (seminari d’economia crítica Taifa)</em><br />

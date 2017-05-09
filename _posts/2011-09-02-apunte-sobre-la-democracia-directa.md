@@ -5,6 +5,7 @@ date: 2011-09-02 17:34:12.000000000 +02:00
 type: articulo
 categories:
 - política
+redirect_from: /maldekstrakolono/política/2011/09/02/apunte-sobre-la-democracia-directa.html
 ---
 <p>Ismael Peña ha escrito <a href="http://ictlogy.net/20110831-a-hybrid-model-of-direct-representative-democracy/">un artículo</a> donde propone un detallado esquema de democracia directa combinada con democracia representativa. La idea general es aquella de que los ciudadanos puedan ejercer su voto a una propuesta concreta siempre que lo deseen. En caso contrario el sistema supondría que delega el voto a su diputado.</p>
 <p>La idea me parece buena y camina en la dirección del empoderamiento popular y de despojar a los lobbies de parte de su poder directo. Sin embargo me gustaría añadir una enmienda a la propuesta que creo que muchos grupos pro-democracia directa olvidan ingenuamente:</p>

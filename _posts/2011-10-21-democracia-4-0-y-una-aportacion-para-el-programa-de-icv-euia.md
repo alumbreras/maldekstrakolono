@@ -5,9 +5,7 @@ date: 2011-10-21 14:24:23.000000000 +02:00
 type: articulo
 categories:
 - política
-tags:
-- Democracia 4.0
-- ICV-EUiA
+redirect_from: /maldekstrakolono/política/2011/10/21/democracia-4-0-y-una-aportacion-para-el-programa-de-icv-euia.html
 ---
 <p>El ejercicio de la democracia directa es un concepto posiblemente antiguo pero que dejó de ser marginal con la aparición de Internet. Más allá de propuestas <em>naif </em>que olvidan factores como los medios de comunicación o la imposibilidad práctica de que todo el mundo sepa de todo, últimamente empiezan a verse algunas propuestas interesantes y serias como la planteada por <a href="http://ictlogy.net/20110831-a-hybrid-model-of-direct-representative-democracy/">Ismael Peña-López</a> (ver gráfico). Que a este tipo de democracias se les llame <a href="http://demo4punto0.net/">Democracia 4.0</a> me da tanta pereza como la moda del <em>dospuntocerismo</em>, pero en cualquier caso creo que darle un nombre a la cosa facilita la difusión de la idea entre la población.</p>
 <p style="text-align: center;"><img class="aligncenter" src="{{ site.baseurl }}/assets/0000003812b.png" alt="" width="640" height="459" /></p>
