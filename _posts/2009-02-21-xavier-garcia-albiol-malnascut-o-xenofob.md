@@ -6,9 +6,6 @@ type: minor
 categories:
 - badalona
 - política
-tags:
-- racismo
-- Xavier Garcia-Albiol
 redirect_from: /2009/02/21/xavier-garcia-albiol-malnascut-o-xenofob/ 
 ---
 Se enfada el PP por que Alex Mañas, regidor de ICV-EUiA, les llama en la radio "xenòfobs” 
