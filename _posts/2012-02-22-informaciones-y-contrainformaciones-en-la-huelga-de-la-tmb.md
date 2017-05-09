@@ -7,8 +7,7 @@ published: true
 status: publish
 categories:
 - política
-tags:
-- TMB
+redirect_from: /maldekstrakolono/política/2012/02/22/informaciones-y-contrainformaciones-en-la-huelga-de-la-tmb.html
 ---
 <p>La huelga de los trabajadores de la TMB ha activado, de nuevo, la maquinaria propagandística de los de arriba. Presentado como un caso aislado, en realidad es un episodio más con la misma estructura que sus antecedentes: funcionarios, controladores, médicos, profesores... uno tras otro se presenta en los medios como un caso de abuso de poder de negociación (!) y/o de  defensa de unos privilegios que el resto de la clase trabajadora no tiene.</p>
 <p>El relato de la "clase dominante" se impone para justificar unas "relaciones de producción" abusivas que los propios obreros acaban aceptando como normales. Se lanzan mensajes envenenados que intentan menguar la "solidaridad obrera" y que a menudo incluso la transforman en "hostilidad obrera", consiguiendo que el resto de trabajadores señale con desprecio la lucha de aquellos que han decidido levantarse. Estos mensajes siguen también un esquema que se repite y apelan a la doble dimensión del trabajador/consumidor. Al ciudadano trabajador le dicen que el colectivo en huelga tiene unos privilegios que él no tiene (la seguridad de los funcionarios, los ingresos por guardias de los médicos, los astronómicos sueldos y pocas horas de trabajo de los controladores, los falsos tres meses de vacaciones de los profesores...). Al ciudadano consumidor le dicen que la huelga afectará su derecho (!) a consumir, que alterará su confort inmedianto (sus vacaciones, su desplazamiento en metro,...) aún cuando a largo plazo la huelga le beneficie como consumidor (mejores condiciones laborales implican mejor servicio) y como trabajador (el fortalecimiento/debilitamiento de unos sectores facilita el fortalecimiento/debilitamiento del resto).</p>
