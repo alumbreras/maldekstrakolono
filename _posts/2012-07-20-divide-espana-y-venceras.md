@@ -10,6 +10,7 @@ tags:
 - Gramsci
 - hegemonía
 - independencia
+
 redirect_from: /política/2012/07/20/divide-espana-y-venceras.html
 ---
 <p>España es poder y hegemonía. Poder, en el sentido de fuerza, una fuerza utilizada por un establishment para imponer sus intereses. Hegemonía, en el sentido gramsciano, entendida como la existencia de toda una serie de instituciones de la sociedad civil que naturalizan el orden establecido, consiguiendo el consentimiento de los gobernados ante el ejercicio de poder político de los gobernantes. El reciente libro <a href="http://www.casadellibro.com/ebook-ct-o-la-cultura-de-la-transicion-ebook/9788499899268/1983114">La Cultura de la Transición</a> hace un buen análisis sobre qué forma tiene y cómo se ha construído esa hegemonía en las últimas décadas.</p>
