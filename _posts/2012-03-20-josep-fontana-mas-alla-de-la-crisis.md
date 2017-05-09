@@ -4,7 +4,9 @@ title: 'Josep Fontana: "Más allá de la crisis"'
 type: recorte
 categories:
 - política
-redirect_from: /maldekstrakolono/política/2012/03/20/josep-fontana-mas-alla-de-la-crisis.html
+redirect_from: 
+  - /2012/03/20/josep-fontana-mas-alla-de-la-crisis/
+  - /maldekstrakolono/política/2012/03/20/josep-fontana-mas-alla-de-la-crisis/
 ---
 <p>Texto de una reciente <a href="http://deacmusac.es/la-gran-divergencia-josep-fontana-i-lazaro">conferencia</a> del historiador Josep Fontana. Que nadie me diga una palabra de la crisis sin habérselo leído antes. Imprescindible es poco.</p>
 <p><strong>Título: </strong><em>Más allá de la crisis.<br />
