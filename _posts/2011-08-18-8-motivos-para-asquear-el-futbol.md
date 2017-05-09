@@ -7,6 +7,7 @@ categories:
 - política
 tags:
 - fútbol
+redirect_from: /maldekstrakolono/política/2011/08/18/8-motivos-para-asquear-el-futbol.html
 ---
 <p>Ocho motivos para asquear el fútbol <em>tal como es hoy</em>:</p>
 <p>1. El fútbol ha replicado el efecto capitalista de <strong>acumulación de riqueza</strong> en pequeña escala. La liga se juega entre Barca y Madrid en detrimento del resto de equipos  que, al no tener dinero para fichar "grandes" jugadores, deben invertir en cantera. Los mejores jugadores de esa cantera son fichados por equipos mayores, por lo que la inversión apenas se rentabiliza.</p>
