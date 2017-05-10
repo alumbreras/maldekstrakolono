@@ -60,4 +60,4 @@ El dilema para las legislativas es o pacto de izquierdas o vía libre a Macron c
 
 ----
 
-Artículo escrito con TE para www.realitat.cat
+<sub>Artículo escrito con TE para www.realitat.cat</sub>
