@@ -5,6 +5,7 @@ date: 2011-09-05 08:51:52.000000000 +02:00
 type: minor
 categories:
 - política
+redirect_from: /maldekstrakolono/política/2011/09/05/materiales-para-entender-el-deficit-y-la-reforma-de-la-constitucion.html
 ---
 <p>Un buen <a href="http://blogs.publico.es/dominiopublico/3915/el-deficit-problema-e-instrumento/">artículo</a> de <strong>Josep Borrell</strong> para entender -o para aprender a explicar- por qué es necesario el déficit como herramienta económica:</p>
 <blockquote><p>Eso de que no se puede gastar más de lo que se ingresa hay que mantenerlo cada día, cada mes, cada año… o a lo largo de un ciclo económico que tiene –lo sabemos de sobra– fases de crecimiento y de depresión. Las empresas no ganan ni gastan lo mismo todos los meses y los gastos e ingresos públicos también son estacionales. Lo razonable para un país es buscar el equilibrio a lo largo del ciclo, equilibrando déficits y superávits anuales.</p>

@@ -5,6 +5,7 @@ date: 2012-05-10 18:48:00.000000000 +02:00
 type: recorte
 categories:
 - política
+redirect_from: /maldekstrakolono/política/2012/05/10/no-hay-pobres-sino-perdedores.html
 ---
 <p>Una historia contada por <a href="http://www.twitlonger.com/show/hbtjip">Nega</a> (Los Chikos del Maíz).</p>
 <blockquote><p>Lo que acaba de ocurrir en Mercadona es terrible e ilustra muy bien el estado de las cosas:</p>

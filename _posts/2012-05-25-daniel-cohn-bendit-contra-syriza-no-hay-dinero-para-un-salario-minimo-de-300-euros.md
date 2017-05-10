@@ -4,11 +4,7 @@ title: Daniel Cohn-Bendit contra Syriza
 type: minor
 categories:
 - política
-tags:
-- Daniel Cohn-Bendit
-- Grecia
-- PVE
-- Syriza
+redirect_from: /maldekstrakolono/política/2012/05/25/daniel-cohn-bendit-contra-syriza-no-hay-dinero-para-un-salario-minimo-de-300-euros.html
 ---
 <p>Si mi francés no está muy oxidado y la vista no me falla, en este vídeo sale Daniel Cohn-Bendit, líder del Partido Verde Europeo, diciendo que "<strong>un salario mínimo de 1300 euros y evitar la reducción salarial, como propone Syriza, es inviable para Grecia"</strong>. En general, pidiendo que los griegos no voten a Syriza.</p>
 <p><em>Nota</em>: en el programa de Syriza dice: "Subir el salario minimo hasta su nivel previo a las recortes (751 euros brutos mensuales").</p>

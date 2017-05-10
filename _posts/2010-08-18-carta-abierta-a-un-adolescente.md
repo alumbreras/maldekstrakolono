@@ -11,6 +11,7 @@ tags:
 - jovenes
 - marxismo
 - paro
+redirect_from: /maldekstrakolono/política/2010/08/18/carta-abierta-a-un-adolescente.html
 ---
 <p>Si tienes entre 15 y 25 años, tu mamá no va a la pelu una vez por semana, tu papá no juega al padle, y ni tú ni tus hermanos prometéis como <span style="text-decoration: line-through;">gladiadores</span> jugadores de fútbol, haz del favor de seguir leyendo lo que la Organización Internacional del Trabajo dice de tí, porque Dios no existe -o no da señales de vida- y rezar no te servirá de mucho. A lo mejor te sirve de consuelo, pero para eso el whisky, el sexo, y el suicidio han demostrado ser más eficaces. Claro que la Iglesia te dirá que no, pero tú ni caso, es que no les gusta la competencia.</p>
 <p>Te decía que estos señores han estado un tiempo en el rincón de pensar y han sacado un informe que dice algunas cosas sobre tu oscuro presente y tu negro futuro. Puedes encontrar un <a href="http://angelsmcastells.nireblog.com/post/2010/08/18/el-paro-golpea-con-dureza-a-las-personas-jovenes">resumen</a> en el blog de Àngels, y si tienes 15 minutos puedes echarle un vistazo al <a href="http://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_elm/---trends/documents/publication/wcms_143349.pdf">informe original</a>.</p>

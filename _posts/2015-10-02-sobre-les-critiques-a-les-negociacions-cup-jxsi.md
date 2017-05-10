@@ -2,6 +2,7 @@
 layout: post
 title: Sobre les crítiques a les negociacions CUP - JxSí
 type: minor
+redirect_from: /maldekstrakolono/2015/10/02/sobre-les-critiques-a-les-negociacions-cup-jxsi.html
 ---
 
 Robo del muro de Joan Tafalla:

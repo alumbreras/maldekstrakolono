@@ -5,9 +5,7 @@ date: 2010-07-27 18:04:09.000000000 +02:00
 type: articulo
 categories:
 - política
-tags:
-- badalona
-- inmigración
+redirect_from: /2010/07/27/leyendas-urbanas-sobre-inmigracion/
 ---
 <p>Existen en el imaginario colectivo algunas leyendas urbans que con los años han ido cristalizando hasta el punto que hay quien los defiende como si lo acabara de leer en la mismísima <span id="main" style="visibility: visible; font-style: italic;"><span id="search" style="visibility: visible;">Encyclopædia Britannica</span></span>. Mitos como el de Walt Disney criogenizado, las eternamente crecientes uñas de Lenin, el coche de frente con las luces apagadas, la mermelada de Ricky Martin, o que en Erasmus, sí o sí, se moja.</p>
 <p>Pero entre todos estos mitos, graciosos e inofensivos -sin entrar sobre las consecuencias en la autoestima de los Erasmus que "como se fueron, vinieron"- se encuentran otros que se fabrican con ciertos intereses -y mucha mala leche- y que son reproducidos por el grueso de la población por motivos varios, algunos <span style="font-style: italic;">freudianos</span> y otros no, que aquí no vamos a analizar. Y como ya habrá adivinado, la señora y el señor, los apellidos del muerto al que me refiero yo, estamos hablando de... inmigración.</p>

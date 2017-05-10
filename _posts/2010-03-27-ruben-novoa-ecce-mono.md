@@ -5,11 +5,7 @@ date: 2010-03-27 03:09:40.000000000 +01:00
 type: minor
 categories:
 - política
-tags:
-- CiU
-- Israel
-- Ruben Novoa
-- twitter
+redirect_from: /2010/03/27/ruben-novoa-ecce-mono/
 ---
 <p>CiU tiene a un elemento entre sus filas que se llama Ruben Novoa. Conocí al tal Novoa el 13 de Diciembre de 2010. Aquel día en Catalunya muchos pueblos y ciudades llevaban a cabo unas denominadas "consultas populares". Una consulta popular, en este caso sobre la independencia de Catalunya, no deja de ser otra cosa que un referéndum, pero encubierto. Encubierto para que la División Brunete no entre con tanques por la Diagonal de Barcelona, por aquello de defender lo <em>atado y bien atado</em>.</p>
 <p>Decía que a este tipo lo conocí ese día, 13-D, via twitter, y es que siguiendo la etiqueta #13D uno podía ver lo que la twitesfera catalana decía sobre las consultas. Entre una mayoría de independentistas, un tal @rnovoa se dedicaba a meter cizaña. Los que no somos independentistas nos dedicamos a contemplar la jornada simplemente como una victoria <span style="text-decoration: line-through;">de</span> hacia la democracia. @rnovoa no, él jodía. Y joder por joder es tontería.</p>

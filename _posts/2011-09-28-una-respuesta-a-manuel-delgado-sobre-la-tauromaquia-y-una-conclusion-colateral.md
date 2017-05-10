@@ -5,12 +5,7 @@ date: 2011-09-28 11:50:28.000000000 +02:00
 type: articulo
 categories:
 - política
-tags:
-- animalismo
-- humanismo
-- Manuel Delgado
-- tauromaquia
-- veganismo
+redirect_from: /maldekstrakolono/política/2011/09/28/una-respuesta-a-manuel-delgado-sobre-la-tauromaquia-y-una-conclusion-colateral.html
 ---
 <p>Cuando me empezaba a sentir demasiado Delgadista por fin encuentro un (excelente) <a href="http://manueldelgadoruiz.blogspot.com/2011/09/breve-reflexion-proposito-del-fin-de-la.html">artículo de Manuel Delgado</a> con el que discrepo a pesar de algunos puntos de coincidencia como cuando ironiza:</p>
 <blockquote><p>Pero es que, además, debemos estar a la altura de lo que, aunque no se confiese, siempre es la certeza de que nosotros, los catalanes, estamos un escalón evolutivo por encima del resto de pueblos ibéricos, se quiera o no todavía distantes del nuestro más elevado grado de cultura. Los toros, en efecto, es una fiesta bárbara, salvaje, propia acaso de los españoles, pero no de nosotros, que tenemos la grave responsabilidad de estar a la altura de nuestra propia superioridad civilizatoria.</p></blockquote>

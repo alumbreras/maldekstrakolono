@@ -5,12 +5,7 @@ date: 2011-09-18 12:57:56.000000000 +02:00
 type: recorte
 categories:
 - política
-tags:
-- Bertrand Russell
-- Einstein
-- marxismo
-- socialismo
-- URSS
+redirect_from: /2011/09/18/einstein-¿por-que-el-socialismo/
 ---
 <p>El padre de la teoría de la relatividad estuvo, como muchos otros, <a href="http://en.wikipedia.org/wiki/Albert_Einstein's_political_views#Socialism">en el punto de mira del gobierno americano por sus ideas socialistas</a>. Quizás el otro caso más conocido entre científicos sea el de Bertrand Russell . Einstein y Russell coincidieron en la creencia de un supraestado mundial como única vía para garantizar la paz mundial (la propuesta de Einstein fue <a href="http://es.scribd.com/doc/65303565/29/Intercambio-de-correspondencia-con-miembros-de-la-Academia-rusa">contestada</a> por sus colegas científicos de la URSS). La diferencia entre Russell y Einstein fue la influencia utopista del primero -véase el libro <a href="http://www.diazdesantos.es/libros/russell-bertrand-ideales-politicos-L0000442802297.html">Ideales Políticos</a>, un bonito pero inútil ejercicio de construcción de castillos en el aire-, frente al carácter  más marxista en el análisis del segundo.</p>
 <p>De hecho, Einstein se movió por círculos comunistas  e incluso colaboró en algunas publicaciones del Partido Comunista Alemán (PKD). Se dice, por cierto, que en la <em>Marxistischen Arbeiterschule</em> (Escuela de los Trabajadores Marxistas), organizada por el PKD, Einstein pronunció una conferencia titulada <em>"Lo que un obrero debería saber sobre la teoría de la relatividad"</em> (si alguien encontrara el texto se lo agradecería).</p>

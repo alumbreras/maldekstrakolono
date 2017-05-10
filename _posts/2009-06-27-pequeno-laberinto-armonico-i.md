@@ -3,6 +3,7 @@ layout: post
 title: Pequeño Laberinto Armónico (I)
 date: 2009-06-27 16:00:00.000000000 +02:00
 type: recorte
+redirect_from: /2009/06/27/pequeno-laberinto-armonico-i/
 categories:
 - filosofía
 ---

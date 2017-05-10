@@ -2,6 +2,7 @@
 layout: post
 title: 'Django desencadenado: el negro Stephen y el obrero contemporáneo'
 type: articulo
+redirect_from: /2013/03/15/django-desencadenado-el-negro-stephen-y-el-obrero-contemporaneo-3/
 categories:
 - cine
 - política

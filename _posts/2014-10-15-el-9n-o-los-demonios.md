@@ -5,6 +5,7 @@ summary: Descartando los improbables, nos quedan escenarios que nos llevan
   a las calderas de Pere Botero o al limbo, y solo unos pocos nos dejan aún 
   en situación de deshacer el nudo y garantizar que en Iberia haya, al menos, un proceso constituyente.
 type: articulo
+redirect_from: /maldekstrakolono/2014/10/15/el-9n-o-los-demonios.html
 ---
 
 _(**Aviso**: lo que sigue es un intento de sistematizar riesgos y oportunidades de los escenarios que se presentan tras el 9N tras la autolesión a la consulta por parte de CiU. Muchos factores han quedado fuera de consideración, algunos por irrelevantes y otros por negligencia propia.)_
