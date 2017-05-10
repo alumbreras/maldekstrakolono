@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presidenciales francesas
+title: Elecciones francesas. Sorpresas, sustos y esperanzas.
 summary: El FN ha aporreado las puertas del Eliseo por segunda vez. Su base base electoral
   ha crecido en 6 millones de personas en 15 años. Macron gana la presidencia
   pero todo se juega ahora en las legistalivas.
