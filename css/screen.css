@@ -12,14 +12,13 @@
 }
 
 html, body {
-  font-size: 14.5px;
+  font-size: 17.5px;
   height: 100%;
 }
 
 body {
   background-color: white;
   font-family: helvetica, arial, clean, sans-serif;
-/*  text-align: center;*/
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -99,8 +98,7 @@ ul.posts {
 /*
 /*****************************************************************************/
 .container {
-  /*width: 100%;*/
-  max-width: 60rem;
+  max-width: 50rem;
   line-height: 1.7em;
   padding-right: 1px;
 
