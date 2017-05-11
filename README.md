@@ -1,6 +1,6 @@
-## This is the data for my blog
+## www.maldekstrakolono.net
 
-It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever I push this repository to GitHub.
+This is the source for my blog [www.maldekstrakolono.net](www.maldekstrakolono.net).
 
 ## License
 
