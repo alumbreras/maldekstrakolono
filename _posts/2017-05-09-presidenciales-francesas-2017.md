@@ -58,4 +58,4 @@ El dilema para las legislativas es o pacto de izquierdas o vía libre a Macron c
 
 ----
 
-<sub>Artículo escrito con Toni Esteban para [www.realitat.cat](www.realitat.cat)</sub>
+<sub>Artículo escrito con Toni Esteban para [www.realitat.cat](http://www.realitat.cat)</sub>
