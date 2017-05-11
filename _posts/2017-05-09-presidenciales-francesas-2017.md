@@ -9,9 +9,8 @@ type: articulo
 ---
 
 
-El fascismo ha arañado las puertas del Elíseo por segunda vez desde la Liberación. La base electoral del FN ha crecido 6 millones de personas en 15 años. La llama incendiaria del FN, lejos de apagarse, busca nuevas fuentes de oxígeno a través de nuevos discursos e incluso, lo veremos pronto, de nuevas siglas que le liberen del lastre que le suponen las actuales.
+*El fascismo ha arañado las puertas del Elíseo por segunda vez desde la Liberación. La base electoral del FN ha crecido 6 millones de personas en 15 años. La llama incendiaria del FN, lejos de apagarse, busca nuevas fuentes de oxígeno a través de nuevos discursos e incluso, lo veremos pronto, de nuevas siglas que le liberen del lastre que le suponen las actuales.*
 
-¿Cómo hemos llegado hasta aquí? ¿Cómo salimos?
 
 La primera vez que el fascismo vuelve a amenazar la república desde el final de la Segunda Guerra Mundial ocurre en 2002. Las doctrinas neoliberales dominantes en la Europa de los años 80 y 90 habían hecho mella en Francia. El gobierno de izquierdas, liderado por Lionel Jospin e integrado por socialistas y comunistas, había compaginado conquistas como la semana de 35 horas con derrotas como la privatización parcial de Air France, autopistas, Crédit Lyonnais, France Télécom, Thomson y Aérospatiale, entre otros. Una hoja de servicios con manchas importantes para un Jospin que aspiraba a arrebatar el puesto al hasta entonces presidente de la República, el derechista y desprestigiado Jaques Chirac, poniendo así fin al periodo de "[cohabitación](https://es.wikipedia.org/wiki/Cohabitaci%C3%B3n_(pol%C3%ADtica))".
 
