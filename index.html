@@ -10,14 +10,14 @@ title: La Maldekstra Kolono
     {% if post.type == "articulo" %}
       <li>
 		  <div class="row" style = "margin-bottom:20px;">
-			<div class="col-xs-1" style = "margin-right:60px; margin-top:35px;">
+			<div class="col-xs-2 hidden-xs" style = "margin-right:30px; margin-top:55px;">
 				{% if  post.thumbnail %}
-				<img src="{{ site.baseurl }}/assets/{{post.thumbnail}}" height="75px" width="75px" alt="thumbnail" title="thumbnail">
+				<img class='img-responsive' src="{{ site.baseurl }}/assets/{{post.thumbnail}}"  style="width:100px; height:100px;" alt="thumbnail" title="thumbnail">
 				{% else %}
-				<img src="{{ site.baseurl }}/assets/thumbnail-9N.png" height="75px" width="75px" alt="thumbnail" title="thumbnail">
+				<img class='img-responsive' src="{{ site.baseurl }}/assets/thumbnail-9N.png" style="width:100px; height:100px;" alt="thumbnail" title="thumbnail">
 				{% endif %}
 			</div>
-			<div class="col-xs-10">
+			<div class="col-xs-9">
 				<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}"><b><div>{{ post.title }}</div></b></a>
 				<p>{{post.summary}}</p>
 		  </div>
