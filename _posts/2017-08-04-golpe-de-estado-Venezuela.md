@@ -2,7 +2,7 @@
 layout: post
 title:  Golpe de estado en Venezuela
 summary: No hace falta ser fan de Maduro para ver la jugada que están tejiendo las oligarquías. No hay equidistancias. Defender el gobierno de Venezuela ante estos ataques es defender a Venezuela de un golpe de estado.
-thumbnail: thumbnail-venezuela-mascara-gas.jpg
+thumbnail: thumbnail-venezuela-mascara-gas_squared.jpg
 type: articulo
 ---
 
