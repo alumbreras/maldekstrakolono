@@ -3,7 +3,7 @@ layout: default
 title: La Maldekstra Kolono
 ---
 
-<h3>Alberto Lumbreras</h3>
+### Alberto Lumbreras
 
 
 <p> I am a CNRS postdoctoral researcher in the <a href = "http://sc.enseeiht.fr/Signal & Communications Group">Signal & Communications Group</a>
