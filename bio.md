@@ -9,12 +9,13 @@ Así, que sea legal, puedo contar que soy militante en Esquerra Unida i Alternat
 un mes más tarde de que ver como la única izquierda con representatividad electoral, 
 no estando exactamente en el cénit de su gloria, sufre las consecuencias de la mejor pinza jamás inventada: 
 la ley electoral y el voto (in)útil. 
-No milito Hasta 2011 no milité en el PCC ni en el PSUC viu, ni en niguno de los partidos que integran EUiA. 
+Hasta 2011 no milité en el PCC ni en el PSUC viu, ni en niguno de los partidos que integran EUiA. 
 Era lo que algunos llaman "independiente". Un "independiente" es un militante que quiere a todas 
 las organizaciones de EUiA por igual. Tres años más tarde me afilié al PCC.
 
 Estoy afiliado a la CGT, porque un día llegó a mi casa -no se cómo- un ejemplar 
-de su periódico donde explicaban con mucha claridad la reforma laboral que se estaba cociendo con el consentimiento de CCOO y UGT. 
+de su periódico donde explicaban con mucha claridad la reforma laboral 
+que se estaba cociendo con el consentimiento de CCOO y UGT. 
 Con el tiempo aprendí lo que son los intereses creados, 
 y entendí que no se puede cambiar el sistema utilizando los métodos del sistema: 
 es como intentar volar estirándote de los cordones. Más tarde vi en Gödel 
@@ -23,17 +24,16 @@ sido coherente afiliarme a la CNT, y no a una escisión que ha "entrado" en el s
 Elegí la CGT porque era el más grande de los pequeños. En ese momento me pareció una buena idea.
 
 Estudié filosofía un año en un intento de ser más listo, 
-pero lo tuve que dejar porque me gustaba demasiado. Un año más tarde lo volví a 
-intentar con algo más relacionado con mi trabajo y mis estudios -para evitar  bipolaridades- 
-y me matriculé en un máster de Inteligencia Artificial con la intención 
-de crear el sistema de autogestión que utilizaremos en el año 2090 en la nueva era de anarco-primitivismo.
-
-Como tres veces al día, igual que un tercio de la población mundial. 
+pero lo tuve que dejar porque me gustaba demasiado. En su lugar, me doctoré
+en Inteligencia Artificial. Mi mayor ambición es que una máquina haga mi trabajo.
 
 Trabajo como investigador en Inteligencia Artificial en Francia, gracias a la deriva somalí 
 que tomó el gobierno español desde hace unos años. Por eso, y hasta que el gobierno decida 
 que un investigador es más útil que un soldado, escribi este blog desde
 Toulouse, capital del exilio republicano.
+
+Como tres veces al día, igual que un tercio de la población mundial, y 
+nunca he tomado homeopatía. 
 
 <div align="center">
 	<h5>contacto:</h5>
@@ -58,5 +58,3 @@ tengo que utilizar una lengua internacional para un artículo que quiero que
 lean mis lectores en Pekín o en Pokón, útilizaré el esperanto 
 (que puedes aprender, gratis y en un periquete, en webs como http://es.lernu.net). 
 Y porque aceptar el status quo es morirse de asco.
-
-  
