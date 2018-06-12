@@ -5,31 +5,58 @@ title: La Maldekstra Kolono
 
 ## Alberto Lumbreras
 
-<p> I am a CNRS postdoctoral researcher in the <a href = "http://sc.enseeiht.fr/Signal & Communications Group">Signal & Communications Group</a>
-at the <a href="https://www.irit.fr/?lang=fr">Institut de Recherche en Informatique de Toulouse</a>. 
-I work in the <a href="http://projectfactory.irit.fr/">FACTORY</a> project 
-coordinated by <a href="https://www.irit.fr/~Cedric.Fevotte/">Cédric Févotte</a>. 
-My current research is focused on Monte Carlo inference methods for Non-Negative Matrix Factorization.
+Así, que sea legal, puedo contar que soy militante en Esquerra Unida i Alternativa  (Badalona) desde 2008, 
+un mes más tarde de que ver como la única izquierda con representatividad electoral, 
+no estando exactamente en el cénit de su gloria, sufre las consecuencias de la mejor pinza jamás inventada: 
+la ley electoral y el voto (in)útil. 
+No milito Hasta 2011 no milité en el PCC ni en el PSUC viu, ni en niguno de los partidos que integran EUiA. 
+Era lo que algunos llaman "independiente". Un "independiente" es un militante que quiere a todas 
+las organizaciones de EUiA por igual. Tres años más tarde me afilié al PCC.
 
-<p>Previously, I did a PhD in Computer Science in the <a href="http://eric.univ-lyon2.fr/">ERIC Lab</a> 
-at <a href="http://www.univ-lyon2.fr/">Université Lyon 2</a> 
-under the supervision of <a href="http://blogs.univ-tlse2.fr/jouve/">Bertrand Jouve</a> 
-and <a href="http://mediamining.univ-lyon2.fr/people/velcin/">Julien Velcin</a> (2013-2016). 
-I did my thesis (on machine learning and social network analysis) at <a href="http://www.technicolor.com/">Technicolor R&D </a> (Rennes).</p> 
+Estoy afiliado a la CGT, porque un día llegó a mi casa -no se cómo- un ejemplar 
+de su periódico donde explicaban con mucha claridad la reforma laboral que se estaba cociendo con el consentimiento de CCOO y UGT. 
+Con el tiempo aprendí lo que son los intereses creados, 
+y entendí que no se puede cambiar el sistema utilizando los métodos del sistema: 
+es como intentar volar estirándote de los cordones. Más tarde vi en Gödel 
+la demostración matemática de mi sospecha. Bajo este razonamiento hubiera 
+sido coherente afiliarme a la CNT, y no a una escisión que ha "entrado" en el sistema. 
+Elegí la CGT porque era el más grande de los pequeños. En ese momento me pareció una buena idea.
 
-<p>Before that, I got a MSc in Artificial Intelligence from <a href="http://www.upc.edu/?set_language=en">Universitat Politècnica de Catalunya</a> (Barcelona)
-and wrote a <a href="http://www.albertolumbreras.net/files/Lumbreras_MasterThesis.pdf">Master’s Thesis</a> on Trust-Aware Recommender Systems 
-advised by <a href="http://www.lsi.upc.edu/~gavalda/">Ricard Gavaldà</a> (2012).</p>
+Estudié filosofía un año en un intento de ser más listo, 
+pero lo tuve que dejar porque me gustaba demasiado. Un año más tarde lo volví a 
+intentar con algo más relacionado con mi trabajo y mis estudios -para evitar  bipolaridades- 
+y me matriculé en un máster de Inteligencia Artificial con la intención 
+de crear el sistema de autogestión que utilizaremos en el año 2090 en la nueva era de anarco-primitivismo.
 
-<p>And before that, I studied Telecommunication Engineering 
-and worked for seven years at <a href="http://tid.es/en/Pages/default.aspx">Telefónica I+D</a> (a.k.a Telefonica Research) 
-as a research engineer. 
-I am also a member of the <a href="http://datanalysis15m.wordpress.com/">Datanalysis15m</a> research group 
-(<a href="http://www.uoc.edu/portal/en/index.html">Universitat Oberta de Catalunya</a>).</p>
+Como tres veces al día, igual que un tercio de la población mundial. 
+
+Trabajo como investigador en Inteligencia Artificial en Francia, gracias a la deriva somalí 
+que tomó el gobierno español desde hace unos años. Por eso, y hasta que el gobierno decida 
+que un investigador es más útil que un soldado, escribi este blog desde
+Toulouse, capital del exilio republicano.
 
 <div align="center">
-	<h5>contact:</h5>
-	<p>alberto.lumbreras (at) irit (dot) fr<br /> Toulouse, France</p>
+	<h5>contacto:</h5>
+	<p>alberto.lumbreras (at) gmail (dot) com <br/> Toulouse, Francia</p>
 </div>
+
+
+## Sobre este blog
+
+Este blog, como su nombre indica, pretende ser de política, nacional, internacional, 
+y baetulense. "La maldekstra kolono" en esperanto significa "La columna izquierda". 
+Está claro que colono es columna y, por eliminación, maldektra es izquierda 
+(dekstra es derecha, y en esperanto los antónimos se forman con el prefijo mal-, malsana, malgranda…). 
+
+Decía que esto se llama "La columna izquierda", no "La columna derecha", así que si sacrilizas 
+la propiedad privada, si defiendes los crucifijos en la escuela, si dices "perroflauta" con la boca torcida, 
+si crees en las fronteras, en la militarización, y en todas esas mindongas 
+que te han metido en la cabeza entonces, amigo, este blog no te va gustar.
+
+El título del blog es en esperanto porque si un día, por lo que sea, 
+tengo que utilizar una lengua internacional para un artículo que quiero que 
+lean mis lectores en Pekín o en Pokón, útilizaré el esperanto 
+(que puedes aprender, gratis y en un periquete, en webs como http://es.lernu.net). 
+Y porque aceptar el status quo es morirse de asco.
 
   
