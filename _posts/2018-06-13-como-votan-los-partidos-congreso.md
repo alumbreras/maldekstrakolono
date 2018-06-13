@@ -12,7 +12,9 @@ type: articulo
 
 El Marianato ha sido una etapa que ha pasado por una primera legislatura de mayoría absoluta,
 una segunda legislatura de bloqueo institucional y una tercera de estreno del
-multipartidismo. Para coger un poco de perspectiva de lo que ha pasado, he descargado
+multipartidismo. ¿Cómo se han posicionado los diferentes partidos políticos? ¿Cómo han cambiado las alianzas?
+¿Qué han hecho el PNV y CiU/PDCat en este periodo tan tenso en cuanto al debate territorial? 
+Para coger un poco de perspectiva de lo que ha pasado, he descargado
 los datos del congreso (2011-2018) para analizarlos. 
 
 ### **¿Cómo votan los diputados?**
@@ -34,7 +36,7 @@ de abstenciones también la seguía CiU más moderadamente.
 </figure>
 
 ### **Absentismo en las votaciones**
-Las zonas negras de la figura corresponden a votaciones donde el diputado no estuvo
+Las pequeñas zonas negras de la figura anterior corresponden a votaciones donde el diputado no estuvo
 presente. El absentismo es una de las críticas que se hace a los diputados. Sin embargo,
 a menudo el absentismo no tiene mayor importancia y se debe a que el diputado 
 está participando en otras reuniones cuando su voto no es decisivo. 
