@@ -13,7 +13,7 @@ type: articulo
 El Marianato ha sido una etapa que ha pasado por una primera legislatura de mayoría absoluta,
 una segunda legislatura de bloqueo institucional y una tercera de estreno del
 multipartidismo. Para coger un poco de perspectiva de lo que ha pasado, he descargado
-los datos del congreso para analizarlos. 
+los datos del congreso (2011-2018) para analizarlos. 
 
 ### **¿Cómo votan los diputados?**
 
