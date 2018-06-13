@@ -5,15 +5,9 @@ title: La Maldekstra Kolono
 
 ## Alberto Lumbreras
 
-Así, que sea legal, puedo contar que soy militante en Esquerra Unida i Alternativa  (Badalona) desde 2008, 
-un mes más tarde de que ver como la única izquierda con representatividad electoral, 
-no estando exactamente en el cénit de su gloria, sufre las consecuencias de la mejor pinza jamás inventada: 
-la ley electoral y el voto (in)útil. 
-Hasta 2011 no milité en el PCC ni en el PSUC viu, ni en niguno de los partidos que integran EUiA. 
-Era lo que algunos llaman "independiente". Un "independiente" es un militante que quiere a todas 
-las organizaciones de EUiA por igual. Tres años más tarde me afilié al PCC.
+Comunista mientras haya hambre, robespierista mientras haya monarquías.
 
-Estoy afiliado a la CGT, porque un día llegó a mi casa -no se cómo- un ejemplar 
+Afiliado a la CGT, porque un día llegó a mi casa -no se cómo- un ejemplar 
 de su periódico donde explicaban con mucha claridad la reforma laboral 
 que se estaba cociendo con el consentimiento de CCOO y UGT. 
 Con el tiempo aprendí lo que son los intereses creados, 
