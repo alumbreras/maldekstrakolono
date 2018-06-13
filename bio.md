@@ -5,7 +5,7 @@ title: La Maldekstra Kolono
 
 ## Alberto Lumbreras
 
-Comunista mientras haya hambre, robespierista mientras haya monarquías.
+Comunista mientras haya hambre, robespierista mientras haya monarquía.
 
 Afiliado a la CGT, porque un día llegó a mi casa -no se cómo- un ejemplar 
 de su periódico donde explicaban con mucha claridad la reforma laboral 
@@ -17,14 +17,11 @@ la demostración matemática de mi sospecha. Bajo este razonamiento hubiera
 sido coherente afiliarme a la CNT, y no a una escisión que ha "entrado" en el sistema. 
 Elegí la CGT porque era el más grande de los pequeños. En ese momento me pareció una buena idea.
 
-Estudié filosofía un año en un intento de ser más listo, 
+Ingeniero en Telecomunicaciones, ex-Telefónico, estudié filosofía un año en un intento de ser más listo 
 pero lo tuve que dejar porque me gustaba demasiado. En su lugar, me doctoré
-en Inteligencia Artificial. Mi mayor ambición es que una máquina haga mi trabajo.
-
-Trabajo como investigador en Inteligencia Artificial en Francia, gracias a la deriva somalí 
-que tomó el gobierno español desde hace unos años. Por eso, y hasta que el gobierno decida 
-que un investigador es más útil que un soldado, escribi este blog desde
-Toulouse, capital del exilio republicano.
+en Inteligencia Artificial. Trabajo como investigador en Inteligencia Artificial en Francia. 
+Hasta que el gobierno decida que un investigador es más útil que un soldado, 
+escribo este blog desde Toulouse, [capital del exilio republicano](www.toulouserepublicana.com).
 
 Como tres veces al día, igual que un tercio de la población mundial, y 
 nunca he tomado homeopatía. 
@@ -34,12 +31,13 @@ nunca he tomado homeopatía.
 	<p>alberto.lumbreras (at) gmail (dot) com <br/> Toulouse, Francia</p>
 </div>
 
+Mi página académica es [http://www.albertolumbreras.net](http://www.albertolumbreras.net)
 
 ## Sobre este blog
 
 Este blog, como su nombre indica, pretende ser de política, nacional, internacional, 
 y baetulense. "La maldekstra kolono" en esperanto significa "La columna izquierda". 
-Está claro que colono es columna y, por eliminación, maldektra es izquierda 
+Está claro que kolono es columna y, por eliminación, maldektra es izquierda 
 (dekstra es derecha, y en esperanto los antónimos se forman con el prefijo mal-, malsana, malgranda…). 
 
 Decía que esto se llama "La columna izquierda", no "La columna derecha", así que si sacrilizas 
