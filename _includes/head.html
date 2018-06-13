@@ -19,8 +19,8 @@
 	<!--<meta property="og:title" content="{{ page.title }}"/>-->
 	
 	{% if page.image %}
-		<meta property="og:image" content="{{site.baseurl}}/assets/{{page.image}}" />
-		<meta name="twitter:image" content="{{page.image}}" />
+		<meta property="og:image" content="{{ site.baseurl }}/assets/{{page.image}}" />
+		<meta name="twitter:image" content="{{ page.image }}" />
 	{% else %}
 		<meta property="og:image" content="http://www.maldekstrakolono.net/images/maldekstra_thumbnail_pen.jpg" />
 	{% endif %}
