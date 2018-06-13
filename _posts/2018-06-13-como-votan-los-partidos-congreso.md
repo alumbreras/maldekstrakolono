@@ -51,7 +51,7 @@ La siguiente figura muestra los mayores absentistas de la etapa Rajoy.
 
 
 ### **¿Cómo votan los partidos?**
-Veamos ahora un análisis a nivel de partido. Asumiendo que un partido vota sí, no, o asbtención
+Veamos ahora un análisis a nivel de partido. Asumiendo que un partido vota sí, no, o abstención
 cuando la mayoría de sus diputados votan sí, no o abstención, podemos dibujar una matriz
 de votos similar a la que hicimos para los diputados:
 
