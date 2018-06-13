@@ -1,9 +1,9 @@
 ---
 layout: post
 title: '¿Cómo votan los partidos en el Congreso?'
-summary: Análisis del histórico de votos en el Congreso de los Diputados 
-en la etapa Rajoy (legislaturas X, XI y XII: 2001--2018).
-thumbnail: PxCgrafo.png
+summary: 'Análisis del histórico de votos en el Congreso de los Diputados. 
+Dinámicas y alianzas entre partidos en la etapa Rajoy (legislaturas X, XI y XII: 2001--2018).'
+thumbnail: thumbnail-correlacion.png
 categories:
 - política, datos
 type: articulo
@@ -88,6 +88,6 @@ Unidos Podemos (UP) a pesar que que Podemos no está presente en la X legislatur
 *En el análisis de correlaciones, no he tenido en cuenta las abstenciones, ya que estas tienen una interpretación ambigua.
 Así, sólo se cuenta cuando dos partidos votan sí a la vez o no a la vez.*
 
-*Los datos y el código R para descargarlos, analizarlos y reproducir los gráficos están disponibles en breve en
+*Los datos y el código R para descargarlos, analizarlos y reproducir los gráficos estarán disponibles en breve en
 [GitHub](https://github.com/alumbreras)*
 
