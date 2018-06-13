@@ -20,18 +20,17 @@ los datos del congreso (2011-2018) para analizarlos.
 La primera figura muestra lo que ha votado cada diputado en cada una de las votaciones
 que han tenido lugar en el congreso. Los votos están ordenados cronológicamente. 
 Sin sorpresas, constatamos que los diputados suelen votar en bloque. 
-La XI legislatura pone fin al bipartismo e inaugura el cuatripartidismo con la entrada
-de Podemos, que se integra en el mismo grupo que Izquierda Unida, y de Ciudadanos, que remplaza
-a UPyD (en las gráficas, etiquetado como Cs) y amplia el bloque del Partido Popular. 
+La XI legislatura pone fin al bipartidismo e inaugura el cuatripartidismo con la entrada
+de Podemos --que se integra en el mismo grupo que Izquierda Unida-- y de Ciudadanos --que remplaza
+a UPyD (en las gráficas, etiquetado como Cs) y amplía el bloque del Partido Popular. 
 
-En la XII legislaturas el bloque del PP se amplia no sólo con Ciudadanos sino con la adhesión
+En la XII legislatura el bloque del PP se amplía no sólo con Ciudadanos sino con la adhesión
 del PNV, que hasta entonces se había mantenido en una posición de abstenciones. Esta estrategia
 de abstenciones también la seguía CiU más moderadamente.
 
 <figure>
    <img src="{{ site.baseurl }}/assets/fig20_matriz_votos_legislaturas_wsj.png" width="100%">
     <figcaption>Fig.1 - Votaciones entre 2011 y 2018. Se muestran los nombres de uno de cada cinco diputados.</figcaption>
-
 </figure>
 
 ### **Absentismo en las votaciones**
@@ -51,8 +50,8 @@ La siguiente figura muestra los mayores absentistas de la etapa Rajoy.
 
 
 ### **¿Cómo votan los partidos?**
-Veamos ahora un análisis a nivel de partido. Asumiendo que un partido vota sí, no, o abstención
-cuando la mayoría de sus diputados votan sí, no o abstención, podemos dibujar una matriz
+Veamos ahora un análisis a nivel de partido. Considerando que un partido vota *sí*
+cuando la mayoría de sus diputados votan *sí* (igualmente para no y abstención), podemos dibujar una matriz
 de votos similar a la que hicimos para los diputados:
 
 <figure>
@@ -61,8 +60,7 @@ de votos similar a la que hicimos para los diputados:
 </figure>
 
 Finalmente, la prueba del algodón. Veamos, para cada legislatura, 
-cual ha sido la correlación entre los partidos
-en cuanto a su comportamiento de voto:
+cuál ha sido la correlación entre los partidos en cuanto a su comportamiento de voto:
 <figure>
    <img src="{{ site.baseurl }}/assets/fig22_matriz_votos_partidos_correlacion.png" width="100%">
   <figcaption>Fig.4 - Similitud de voto entre los diferentes partidos.</figcaption>
@@ -73,7 +71,7 @@ Su partido más cercano era UPyD (aquí marcado como Cs) con un 40% de coinciden
 La XI legislatura, con sólo 27 votaciones, se centra en la discusión sobre el presidenciable
 y no se llegan a crear alianzas claras. El PSOE coincide al 90% con todos menos con el PP, el
 PP se acerca a Ciudadanos (70%), a CiU (ya entonces PDCat, 60%) y al PNV (50%).
-Finalmente, en la XII legislatura, el PP amplia su bloque con las alianzas del PNV y de Ciudadanos, más la de miembros del
+Finalmente, en la XII legislatura, el PP amplía su bloque con las alianzas del PNV y de Ciudadanos, más la de miembros del
 Grupo Mixto como Coalición Canaria.
 
 Con estas alianzas, el apoyo del PNV a la moción de censura del PSOE estaba de todo menos garantizado.
