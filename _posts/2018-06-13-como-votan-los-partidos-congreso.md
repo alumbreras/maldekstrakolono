@@ -4,6 +4,7 @@ title: '¿Cómo votan los partidos en el Congreso?'
 summary: 'Análisis del histórico de votos en el Congreso de los Diputados. 
 Dinámicas y alianzas entre partidos en la etapa Rajoy (legislaturas X, XI y XII: 2001--2018).'
 thumbnail: thumbnail-correlacion.png
+image: thumbnail-correlacion.png
 categories:
 - política, datos
 type: articulo
