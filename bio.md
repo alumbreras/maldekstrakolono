@@ -21,7 +21,7 @@ Ingeniero en Telecomunicaciones, ex-Telefónico, estudié filosofía un año en 
 pero lo tuve que dejar porque me gustaba demasiado. En su lugar, me doctoré
 en Inteligencia Artificial. Trabajo como investigador en Inteligencia Artificial en Francia. 
 Hasta que el gobierno decida que un investigador es más útil que un soldado, 
-escribo este blog desde Toulouse, [capital del exilio republicano](www.toulouserepublicana.com).
+escribo este blog desde Toulouse, [capital del exilio republicano](http://www.toulouserepublicana.com).
 
 Como tres veces al día, igual que un tercio de la población mundial, y 
 nunca he tomado homeopatía. 
