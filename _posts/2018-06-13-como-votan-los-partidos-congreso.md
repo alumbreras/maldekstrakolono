@@ -89,6 +89,5 @@ Unidos Podemos (UP) a pesar que que Podemos no está presente en la X legislatur
 *En el análisis de correlaciones, no he tenido en cuenta las abstenciones, ya que estas tienen una interpretación ambigua.
 Así, sólo se cuenta cuando dos partidos votan sí a la vez o no a la vez.*
 
-*Los datos y el código R para descargarlos, analizarlos y reproducir los gráficos estarán disponibles en breve en
-[GitHub](https://github.com/alumbreras)*
+*Los datos y el código R para descargarlos, analizarlos y reproducir los gráficos están disponibles [aquí](https://github.com/alumbreras/rtransparency)*
 
