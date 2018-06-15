@@ -3,8 +3,7 @@ layout: post
 title: Diversificar en guerras
 date: 2010-10-11 15:40:48.000000000 +02:00
 type: articulo
-categories:
-- política
+category: política
 tags:
 - guerras
 - Le Monde Diplomatique

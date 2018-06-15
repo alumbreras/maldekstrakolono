@@ -7,7 +7,8 @@ title: La Maldekstra Kolono
   <ul class="posts">
     {% for post in site.posts %}
     {% if post.type == "articulo" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span>&raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+      <!-- {% for tag in post.tags %} <span class = "tag"> {{tag}} </span> {% endfor %}-->
      {% endif %}
     {% endfor %}
   </ul>

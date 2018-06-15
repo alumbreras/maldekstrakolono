@@ -82,15 +82,20 @@ ul.posts {
     font-size: 80%;
   }
 
-
   ul.posts a{
-  color: #000;
-  text-decoration: none;
+    color: #000;
+    text-decoration: none;
    }
 
   ul.posts a:hover {
-  color: red;
-}
+    color: red;
+  }
+
+  ul.posts .tag {
+	color: #7f0000;
+	font-family: Monaco, "Courier New", monospace;
+	font-size: 80%;
+  }
 
 /*****************************************************************************/
 /*

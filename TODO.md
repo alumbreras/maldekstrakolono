@@ -16,6 +16,3 @@
 
 * Uso de etiquetas
 http://opensoul.org/archives/code/
-
-* Imagenes del index más elegantes. Centrar, cuadrar...
-* Reducir tamaño de imágenes del index para reducir tiempo de carga
