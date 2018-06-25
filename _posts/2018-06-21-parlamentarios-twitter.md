@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'La red social de los parlamentarios'
-summary: 'Análisis del las redes sociales en Twitter de los concejales de Badalona, los diputados del Parlament y los 
-diputados del Congreso.'
+summary: 'Análisis del las redes sociales en Twitter de los concejales de Badalona, los diputados del Parlament y los diputados del Congreso.'
 thumbnail: thumbnail-twitterUE.png
 image: thumbnail-twitterUE.png
 category: datos
