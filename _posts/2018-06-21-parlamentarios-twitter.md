@@ -61,7 +61,7 @@ Unidos Podemos (IU, Podemos, mareas...) y ERC.
 
 ### **Europa**
 
-Finalmente, en el Parlamento Europeo hay una doble estructura. Por lo lado,
+Finalmente, en el Parlamento Europeo hay una doble estructura. Por un lado,
 la estructura de bloques más fuerte es a nivel de partido estatal. Los del PP siguen a los del PP,
 los del PSOE a los del PSOE, etc. En un segundo nivel, los europarlamentarios tienden a seguir a los miembros de
 su mismo eurogrupo. Hay, parece, un tercer nivel donde a veces parlamentarios de un país siguien a parlamentarios
