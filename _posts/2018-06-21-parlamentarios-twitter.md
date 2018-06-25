@@ -26,7 +26,7 @@ Aún así, los concejales del mismo partido tienden a seguirse entre sí con alg
 A veces los agujeros en la matriz, cuando están donde no deberían, pueden revelar información útil.
 **¿Por qué el brazo derecho de Albiol, Juan Fernández, y la benjamina 
 del grupo, Cristina Agüera, no se siguen entre ellos?**
-¿Competencia entre los posibles revelos generacionales? ¿No se tragan? ¿O por nada en especial? 
+¿Competencia entre los posibles relevos generacionales? ¿No se tragan? ¿O por nada en especial? 
 
 <figure>
    <img src="{{ site.baseurl }}/assets/fig24_matriz_adj_BDN.png" width="100%">
