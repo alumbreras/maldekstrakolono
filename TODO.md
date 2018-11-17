@@ -1,3 +1,9 @@
+* Mejorar estética de la página principal 
+  * Usar excerpts, tamaños constantes, más texto, leer más...
+  
+      https://stackoverflow.com/questions/20338560/how-can-i-get-a-longer-automatic-excerpt-in-jekyll
+  
+  
 #### Posts a repasar (enlaces perdidos etc)
 
 * http://www.albertolumbreras.net/maldekstrakolono/pol%C3%ADtica/2012/03/31/ceoe-mi-partido.html
@@ -16,3 +22,8 @@
 
 * Uso de etiquetas
 http://opensoul.org/archives/code/
+
+
+#### Blogs decentes
+
+* http://infa.me/acerca-de-infame/

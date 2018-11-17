@@ -6,7 +6,7 @@ title: La Maldekstra Kolono
 <h1 id="articulos"> </h1>
 
 <ul class="posts">
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:20 %}
     {% if post.type == "articulo" %}
       <li>
 		  <div class="row" style = "margin-bottom:20px;">
@@ -19,7 +19,8 @@ title: La Maldekstra Kolono
 			</div>
 			<div class="col-xs-9">
 				<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}"><b><div>{{ post.title }}</div></b></a>
-				<p>{{post.summary}}</p>
+				<!--<p>{{post.summary}}</p>--> 
+				<p>{{ post.content | strip_html | truncatewords:50 }}</p>
 		  </div>
 		 </div>
 	  </li>

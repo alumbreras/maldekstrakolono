@@ -19,7 +19,7 @@ exclude: [
   'vendor']
 
 
-gems:
+plugins:
   - jekyll-redirect-from
   
 header-img: images/maldekstra_banner_cut.png
