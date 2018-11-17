@@ -20,7 +20,7 @@ title: La Maldekstra Kolono
 			<div class="col-xs-9">
 				<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}"><b><div>{{ post.title }}</div></b></a>
 				<!--<p>{{post.summary}}</p>--> 
-				<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+				<p>{{ post.content | strip_html | truncatewords:50 }} <a href="{{site.baseurl}}{{ post.url }}"><b><div>[+]</div></b></a>	</p>
 		  </div>
 		 </div>
 	  </li>
