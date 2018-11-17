@@ -1,5 +1,5 @@
 * Mejorar estética de la página principal 
-  * Usar excerpts, tamaños constantes, más texto, leer más...
+ Por qué los posts llegan al margen derecho y tienen un minimo de ancho y el indice principal / home no?
   
       https://stackoverflow.com/questions/20338560/how-can-i-get-a-longer-automatic-excerpt-in-jekyll
   
