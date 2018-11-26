@@ -98,6 +98,15 @@ ul.posts {
 	font-size: 80%;
   }
 
+  ul.posts .author {
+	color: #808080	;
+	font-size: 90%;
+  }
+  
+  ul.posts .publication {
+	font-size: 90%;
+  }
+  
 /*****************************************************************************/
 /*
 /* Site
