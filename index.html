@@ -7,7 +7,6 @@ title: La Maldekstra Kolono
 
 <ul class="posts">
     {% for post in site.posts limit:20 %}
-    {% if post.type == "articulo" %}
       <li>
 		  <div class="row" style = "margin-bottom:20px;">
 			<div class="col-xs-2 hidden-xs" style = "margin-right:30px; margin-top:55px;">
@@ -24,7 +23,6 @@ title: La Maldekstra Kolono
 		  </div>
 		 </div>
 	  </li>
-     {% endif %}
     {% endfor %}
 </ul>
 
