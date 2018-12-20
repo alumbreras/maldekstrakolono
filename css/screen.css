@@ -75,10 +75,6 @@ a {
   color: #00a;
 }
 
-a:visited {
-  color: #a0a;
-}
-
 table {
   font-size: inherit;
   font: 100%;
@@ -161,7 +157,8 @@ ul.posts {
   font-weight: bold;
   margin-bottom: 2em;
   margin-left: 1em;
-  font-family: "Latin Modern Mono"
+  font-family: "Latin Modern Mono";
+  /*position: fixed;*/
 }
 
   .navigation a {

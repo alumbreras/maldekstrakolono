@@ -4,11 +4,15 @@
 * El viejo topo: "robotoregular"
 * El Salto: "Publico Text Web"
 ----
+
 * Mejorar estética de la página principal 
  Por qué los posts llegan al margen derecho y tienen un minimo de ancho y el indice principal / home no?
   
       https://stackoverflow.com/questions/20338560/how-can-i-get-a-longer-automatic-excerpt-in-jekyll
   
+
+* Primera letra grande
+* Sticky header: logo + navigation
   
 #### Posts a repasar (enlaces perdidos etc)
 
