@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gilets Jaunes. Del diésel a la Bastilla.
+title: Chalecos amarillos. Del diésel a la Bastilla.
 type: articulo
 thumbnail: thumbnail-chalecosamarillos.jpg
 image: thumbnail-chalecosamarillos.jpg
