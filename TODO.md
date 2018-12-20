@@ -1,3 +1,9 @@
+### Fuentes de letra
+
+* La Vanguardia: "TiemposText-Regular",serif
+* El viejo topo: "robotoregular"
+* El Salto: "Publico Text Web"
+----
 * Mejorar estética de la página principal 
  Por qué los posts llegan al margen derecho y tienen un minimo de ancho y el indice principal / home no?
   
@@ -27,3 +33,7 @@ http://opensoul.org/archives/code/
 #### Blogs decentes
 
 * http://infa.me/acerca-de-infame/
+
+Gabriel Jaraba tiene una lista como la que tendría que hacer yo (estéticamente)
+
+* https://gabrieljaraba.com/unasolahumanidad/

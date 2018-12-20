@@ -4,6 +4,7 @@ title: 'Thomas Piketty: "Macrón hace una política fiscal hiper-capitalista de 
 summary: 'Declaraciones de Thomas Piketty '
 thumbnail: thumbnail-gilet.png
 image: thumbnail-gilet.png
+leadimage: thumbnail-gilet.png
 category: política
 type: recorte
 ---

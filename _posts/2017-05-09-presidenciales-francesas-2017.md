@@ -5,6 +5,8 @@ summary: El FN ha aporreado las puertas del Eliseo por segunda vez. Su base base
   ha crecido en 6 millones de personas en 15 años. Macron gana la presidencia
   pero todo se juega ahora en las legistalivas.
 thumbnail: 2017_05_02-presidenciales-francesas-mapa1.jpeg
+image: 2017_05_02-presidenciales-francesas-mapa1.jpeg
+note: "Artículo escrito con Toni Esteban para [www.realitat.cat](http://www.realitat.cat)"
 type: articulo
 ---
 
@@ -55,7 +57,3 @@ Macron es un líder sin partido y, por lo tanto, sin candidatos para presentar e
 En la izquierda (el PS de Hamon, la France Insoumise y el PCF) hay acuerdo sobre la necesidad de la unidad. Sin embargo, las negociaciones entre FI y PCF están preocupantemente tensas.  Mélenchon, quiere que el PCF presente a sus candidatos como miembros de la France Insoumise, mientras que el PCF busca una fórmula que pueda integrar las dos entidades. El PCF ha enfrentado las presidenciales con divisiones internas sobre como encarar las presidenciales (la mitad de la militancia prefería apoyar a un candidato comunista o más cercano que el imprevisible Mélenchon) y una mala gestión de las negociaciones podría dividir más al que todavía es el partido con más incidencia de la izquierda francesa.
 
 El dilema para las legislativas es o pacto de izquierdas o vía libre a Macron con una Asamblea Nacional azul-parda. El PCF y la France Insoumise no pueden darse el lujo de no estar a la altura del momento.
-
-----
-
-<sub>Artículo escrito con Toni Esteban para [www.realitat.cat](http://www.realitat.cat)</sub>

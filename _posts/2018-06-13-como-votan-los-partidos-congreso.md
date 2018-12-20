@@ -5,6 +5,7 @@ summary: 'Análisis del histórico de votos en el Congreso de los Diputados.
 Dinámicas y alianzas entre partidos en la etapa Rajoy (legislaturas X, XI y XII: 2001--2018).'
 thumbnail: thumbnail-correlacion.png
 image: thumbnail-correlacion.png
+showimage: false
 category: datos
 type: articulo
 ---

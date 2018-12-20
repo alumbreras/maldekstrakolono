@@ -24,3 +24,11 @@ plugins:
   
 header-img: images/maldekstra_banner_cut.png
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      showimage: true
