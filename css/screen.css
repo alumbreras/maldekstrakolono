@@ -20,7 +20,6 @@ html, body {
 body {
   background-color: white;
   font-family: Times, helvetica, arial, clean, sans-serif;
-  /*padding-top: 70px;*/ 
 }
 
 .header {
@@ -179,18 +178,16 @@ ul.posts {
 
 .site {
   font-size: 100%;
-  /*text-align: left;*/
+  margin-top: 10em;
   /*width: 50em;*/
-  /*margin: 3em auto 2em auto;*/
 }
 
 .navigation {
   color: #a00;
   font-weight: bold;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   margin-left: 1em;
   font-family: "Latin Modern Mono";
-  /*position: fixed;*/
 }
 
   .navigation a {
@@ -298,8 +295,14 @@ ul.posts {
 	}
 
   
- /* DEBUG *
+ /* DEBUG */
+/*
 .row {
+     border-style: solid;
+	border-width:1px;
+	border-color:green;
+} 
+.div {
      border-style: solid;
 	border-width:1px;
 	border-color:green;
