@@ -27,7 +27,7 @@ body {
   font-family: 'Latin Modern Mono', 'monospace', 'Courier New';
   font-size: 60px; 
   margin-left:20px; 
-  margin-top:50px; 
+  margin-top:10px; 
   line-height:55px;
 }
 
@@ -37,6 +37,13 @@ body {
   margin-left:20px; 
   line-height:25px;
 }
+
+.smallheader {
+  font-family: 'Latin Modern Mono', 'monospace', 'Courier New';
+  font-size: 40px; 
+  margin-left:20px; 
+  margin-top:10px;
+  line-height:55px;}
 
 h1, h2, h3, h4, h5, h6 {
   color: black;
@@ -90,10 +97,26 @@ table {
 
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
+.stickyy {
   position: fixed;
   top: 0;
   width: 100%;
+  background-color: #FFFFF;
+}
+
+.stickynavv {
+  position: fixed;
+  top: 90px;
+  width: 100%;
+  background-color: #FFFFF;
+}
+
+.logo {
+  width: 75%;
+}
+
+.smalllogo {
+  width: 50%;
 }
 
 /*****************************************************************************/
@@ -271,7 +294,7 @@ ul.posts {
   }
   
   .post .content p:first-of-type::first-letter {
-	font-size: 2rem;
+	font-size: 4rem;
 	}
 
   

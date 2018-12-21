@@ -22,7 +22,7 @@ exclude: [
 plugins:
   - jekyll-redirect-from
   
-header-img: images/maldekstra_banner_cut.png
+header-img: images/maldekstra_thumbnail_pen_sinmargen.jpg
 
 defaults:
   -

@@ -8,6 +8,8 @@
 
 La   navbar  navbar-default navbar-fixed-top
 
+Este estilo está bien
+https://blackagendareport.com/intersectionality-marxist-critique
   
 #### Posts a repasar (enlaces perdidos etc)
 
