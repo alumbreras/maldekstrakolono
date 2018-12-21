@@ -1,18 +1,13 @@
-### Fuentes de letra
+### Funcionalidades
 
-* La Vanguardia: "TiemposText-Regular",serif
-* El viejo topo: "robotoregular"
-* El Salto: "Publico Text Web"
-----
-
-* Mejorar estética de la página principal 
- Por qué los posts llegan al margen derecho y tienen un minimo de ancho y el indice principal / home no?
-  
-      https://stackoverflow.com/questions/20338560/how-can-i-get-a-longer-automatic-excerpt-in-jekyll
-  
-
+* Uso de etiquetas http://opensoul.org/archives/code/
 * Primera letra grande
+* Inicio: Separadores horizontales entre artículos
+* Inicio: respeto de la proporcionalidad de las fotos
 * Sticky header: logo + navigation
+
+La   navbar  navbar-default navbar-fixed-top
+
   
 #### Posts a repasar (enlaces perdidos etc)
 
@@ -26,15 +21,13 @@
 
 * http://www.albertolumbreras.net/maldekstrakolono/pol%C3%ADtica/2012/02/13/visualizacion-de-la-propagacion-de-estemambgrecia-estamoscongrecia.html
 
+### Fuentes de letra
 
+* La Vanguardia: "TiemposText-Regular",serif
+* El viejo topo: "robotoregular"
+* El Salto: "Publico Text Web"
 
-#### Funcionalidades
-
-* Uso de etiquetas
-http://opensoul.org/archives/code/
-
-
-#### Blogs decentes
+### Blogs decentes
 
 * http://infa.me/acerca-de-infame/
 

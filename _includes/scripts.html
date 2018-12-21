@@ -9,3 +9,18 @@ var pageTracker = _gat._getTracker("UA-12264127-1");
 pageTracker._trackPageview();
 </script>
 <!-- Google Analytics end -->
+
+
+<!-- Sticky Navigation bar -->
+
+<script type="text/javascript">
+
+$(window).scroll(function (event) {
+    var scroll = $(window).scrollTop();
+    if (scroll>10) {
+	$('nav').addClass(navbar-fixed-top)
+	window.alert("sometext");
+	}
+});
+
+</script>

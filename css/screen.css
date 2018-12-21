@@ -20,6 +20,7 @@ html, body {
 body {
   background-color: white;
   font-family: Times, helvetica, arial, clean, sans-serif;
+  /*padding-top: 70px;*/ 
 }
 
 .header {
@@ -85,6 +86,14 @@ table {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 /*****************************************************************************/
@@ -260,6 +269,11 @@ ul.posts {
 	font-size: 0.8rem;
 	font-style: italic;
   }
+  
+  .post .content p:first-of-type::first-letter {
+	font-size: 2rem;
+	}
+
   
  /* DEBUG *
 .row {
