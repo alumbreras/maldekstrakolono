@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-  font-family: Times, arial, "Latin Modern Mono";
+  font-family: arial, "Latin Modern Mono";
   margin-bottom: 1em;
   font-size: 2.0rem;
   text-align: center;
@@ -146,6 +146,8 @@ ul.posts {
 
   ul.posts a{
     color: #000;
+    font-family: arial;
+    font-size: 80%;
     text-decoration: none;
    }
 
