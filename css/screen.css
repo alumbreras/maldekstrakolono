@@ -132,6 +132,7 @@ table {
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  font-size: 80%;
 }
 
   ul.posts li {
@@ -147,7 +148,6 @@ ul.posts {
   ul.posts a{
     color: #000;
     font-family: arial;
-    font-size: 80%;
     text-decoration: none;
    }
 
