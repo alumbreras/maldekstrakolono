@@ -8,10 +8,9 @@ title: La Maldekstra Kolono
 <ul class="posts">
     {% for post in site.posts limit:20 %}
       <li>
-		  <div class="row" style = "margin-bottom:20px;">
+		  <div class="row">
 			<div class="col-xs-12 col-md-9">
 				<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}"><b><div>{{ post.title }}</div></b></a>
-				<!--<p>{{post.summary}}</p>--> 
 				<p>{{ post.content | strip_html | truncatewords:50 }} <a href="{{site.baseurl}}{{ post.url }}"><b><div>[+]</div></b></a>	</p>
 		  </div>
 		 </div>

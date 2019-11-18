@@ -2,110 +2,60 @@
 <html lang="es">
 {% include head.html %}
 <body>
-<nav class="navbar navbar-default navbar-fixed-top">
 
 	<section class="container">
-			
 		
-		<div class="row">
-			<div class="col-md-12 col-xs-10 hidden-xs hidden-sm">	
-				   <div style="float: left;"><img  class ="img-responsive center-block logo" src="{{ site.baseurl }}/{{ site.header-img }}"/></div>
-					<div style="overflow: auto;">
-						<div class = "header">Maldekstra Kolono</div>
-						<div class = "subheader">Informa bulteno internacia pri lukto kontraû la faŝismo</div>
-						<!--<hr style='border-color: black; margin-top:0px;'>-->
-				   </div>
-			</div>
-			
-			<div class="col-md-12 col-xs-10 hidden-md hidden-lg">	
-				   <div style="float: left;"><img  class ="img-responsive center-block smalllogo" src="{{ site.baseurl }}/{{ site.header-img }}"/></div>
-				   <div style="overflow: auto;">
-						<div class = "smallheader hidden-xs">Maldekstra Kolono</div>
-						<!--<hr style='border-color: black; margin-top:0px;'>-->
-				   </div>
-			</div>
-		</div>	
-	
-			<!-- Menu -->
-		<div class = "row">
-			<div class="col-xs-12 col-xs-10">
-				<div id="navbarCollapse" class="navigation nav navbar-nav">
-					<a class="extra" href="{{ site.baseurl }}/index.html">Inicio</a>
-					<a class="extra" href="{{ site.baseurl }}/archive.html">Archivo</a>
-					<a class="extra" href="{{ site.baseurl }}/lecturas.html">Lecturas</a>
-					<a class="extra" href="{{ site.baseurl }}/bio.html">Bio</a>
-				</div>
-				
-				
-				<!-- Brand and toggle get grouped for better mobile display -->
-				<!--
-				<button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				 <div id="navbarCollapse" class="collapse navbar-collapse navbar-toggleable-xs">
-				 <ul class="navigation nav navbar-nav">
-					<li><a class="extra" href="{{ site.baseurl }}/index.html">Inicio</a></li>
-					<li><a class="extra" href="{{ site.baseurl }}/archive.html">Archivo</a></li>
-					<li><a class="extra" href="{{ site.baseurl }}/lecturas.html">Lecturas</a></span>
-					<li><a class="extra" href="{{ site.baseurl }}/bio.html">Bio</a></li>
-				</ul>
-				</div>
-				-->
-				
-				
-				 <!-- Brand and toggle get grouped for better mobile display -->
-				 <!--
-				<button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				-->
-     
-				<!-- Collection of nav links and other content for toggling -->
-				<!--
-				<div id="navbarCollapse" class="collapse navbar-collapse navbar-toggleable-xs">
+			<nav class="navbar navbar-expand-lg navbar-light">
 
-					<ul class="nav navbar-nav">
-						<li><a href="/"><i class="fa fa-home fa-lg fa-fw"></i> Home</a></li>
-						<li><a href="/publications.html"><i class="fa fa-list fa-lg fa-fw"></i> Publications</a></li>
-						<li><a href="/posts.html"><i class="fa fa-pencil fa-lg fa-fw"></i> Posts</a></span>
-						<li><a href="https://github.com/alumbreras?tab=repositories"><i class="fa fa-github fa-lg fa-fw"></i> Code</a></li>
-						<li><a href="https://twitter.com/albertlumbreras"><i class="fa fa-twitter fa-lg fa-fw"></i> Twitter</a></li>
-						<li><a href="http://es.linkedin.com/in/albertolumbreras"><i class="fa fa-linkedin fa-lg fa-fw"></i> LinkedIn</a></li> 
-						<li><a href="/files/alumbreras_cv.pdf"><i class="fa fa-file-pdf-o fa-lg fa-fw" aria-hidden="true"></i> CV</a></li> 
-					</ul>
+				<span class="navbar-brand mb-0">
+				<img class ="logo" 
+				     src="{{ site.baseurl }}/{{ site.header-img }}">
+				</span>
+
+				<!-- https://stackoverflow.com/questions/48999447/bootstrap-4-navbar-with-logo-and-2-rows-->
+				<div class="d-flex flex-column flex-wrap" id="navbarCollapse">
+					<div class="d-none d-lg-block">
+					<span class="navbar-text header">Maldekstra Kolono</span>
+					<span class="navbar-text subheader">Informa bulteno internacia pri lukto kontraû la faŝismo</span>
+					</div>
+
+					<button class="navbar-toggler" type="button" 
+					data-toggle="collapse" data-target="#navbarNavAltMarkup" 
+					aria-controls="navbarNavAltMarkup" 
+					aria-expanded="false" aria-label="Toggle navigation">
+							<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+					<div class="navbar-nav">
+						<a class="nav-itemn nav-link" href="{{ site.baseurl }}/index.html">Inicio</a>
+						<a class="nav-item nav-link" href="{{ site.baseurl }}/archive.html">Archivo</a>
+						<a class="nav-item nav-link" href="{{ site.baseurl }}/lecturas.html">Lecturas</a>
+						<a class="nav-item nav-link" href="{{ site.baseurl }}/bio.html">Bio</a>
+					</div>
 				</div>
-				-->
-				
-				
-			</div>		
+
+				</div>
+			</nav>
+		</div>	
+
+	
+		<div class="site">
+					
+					<!-- Content -->
+					<div class = "row mx-2">
+						<div class="col-xs-11">
+						{{ content }}
+						</div>
+					</div>	
+					
+					<!-- Footer -->
+					<div class="row mx-2">
+						<div class="col-xs-12">
+						{% include footer.html %}
+						</div>
+					</div>
 		</div>
-	
-	</section>
-</nav>
-	
-	<section class = "container">
-	<div class="site">
-				
-				<!-- Content -->
-				<div class = "row">
-					<div class="col-xs-11">
-					{{ content }}
-					</div>
-				</div>	
-				
-				<!-- Footer -->
-				<div class="row">
-					<div class="col-xs-12">
-					{% include footer.html %}
-					</div>
-				</div>
-	</div>
 
 	</section>
 
