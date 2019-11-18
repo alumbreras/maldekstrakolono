@@ -1,13 +1,32 @@
+<nav class="navbar navbar-expand-lg navbar-light">
 
-<nav class="navbar navbar-light bg-faded navbar-fixed-top">
-  <div class="container">
-   
-	<!-- Normal menu -->
-    <div class="collapse navbar-toggleable-xs">
-        <ul class="nav navbar-nav float-xs-right">
-		<li class="nav-item"><a class="nav-link" href="index.html">home</a></li>
-		<li class="nav-item"><a class="nav-link" href="about.html">about</a></li>
-      </ul>
+    <span class="navbar-brand mb-0">
+    <img class ="logo" 
+        src="{{ site.baseurl }}/{{ site.header-img }}">
+    </span>
+
+    <!-- https://stackoverflow.com/questions/48999447/bootstrap-4-navbar-with-logo-and-2-rows-->
+    <div class="d-flex flex-column flex-wrap" id="navbarCollapse">
+      <div class="d-none d-lg-block">
+      <span class="navbar-text header">Maldekstra Kolono</span>
+      <span class="navbar-text subheader">Informa bulteno internacia pri lukto kontraû la faŝismo</span>
+      </div>
+
+      <button class="navbar-toggler" type="button" 
+      data-toggle="collapse" data-target="#navbarNavAltMarkup" 
+      aria-controls="navbarNavAltMarkup" 
+      aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-itemn nav-link" href="{{ site.baseurl }}/index.html">Inicio</a>
+        <a class="nav-item nav-link" href="{{ site.baseurl }}/archive.html">Archivo</a>
+        <a class="nav-item nav-link" href="{{ site.baseurl }}/lecturas.html">Lecturas</a>
+        <a class="nav-item nav-link" href="{{ site.baseurl }}/bio.html">Bio</a>
+      </div>
     </div>
-  </div>
-</nav>
+
+    </div>
+  </nav>
