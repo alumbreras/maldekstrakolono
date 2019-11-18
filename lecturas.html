@@ -6,11 +6,19 @@ title: La Maldekstra Kolono
 <h1 id="articulos"> </h1>
 	
 	<ul class="posts">
-{% for articulo in site.data.lecturas %}
-  <li>
-    <span> {{ articulo.fecha | date_to_string }}</span> &raquo; 
-    <div><a href="{{ articulo.enlace }}">{{ articulo.titulo }}</a></div>
-    <div class = 'author'>{{ articulo.autor }}. <i>{{ articulo.publicacion }}</i>
-   </li>
-{% endfor %}
+
+    {% assign tags =  site.data.lecturas | map: 'etiquetas' | join: ','  | split: ',' | uniq %}
+      {% for tag in tags %}
+      <div class="tagsection">{{ tag }}</div>
+        {% for articulo in site.data.lecturas %}
+          {% if articulo.etiquetas contains tag %}
+          <li>
+            <span> {{ articulo.fecha | date_to_string }}</span> &raquo; 
+            <div><a href="{{ articulo.enlace }}">{{ articulo.titulo }}</a></div>
+            <div class = 'author'>{{ articulo.autor }}. <i>{{ articulo.publicacion }}</i>
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+
 	</ul>

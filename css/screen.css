@@ -51,6 +51,14 @@ h4, .h4 {
   font-weight: bold;
 }
 
+.tagsection {
+  font-family: arial, "Latin Modern Mono";
+  margin-bottom: 0.em;
+  font-size: 1.rem;
+  margin-top: 1.05rem;
+  color: gray;
+}
+
 p {
   margin: 1em 0;
   color: #000;
