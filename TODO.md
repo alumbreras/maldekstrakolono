@@ -1,11 +1,5 @@
 ### Funcionalidades
 
-* Uso de etiquetas http://opensoul.org/archives/code/
-* Primera letra grande
-* Inicio: Separadores horizontales entre artículos
-* Inicio: respeto de la proporcionalidad de las fotos
-* Sticky header: logo + navigation
-
 La   navbar  navbar-default navbar-fixed-top
 
 Este estilo está bien
@@ -23,11 +17,6 @@ https://blackagendareport.com/intersectionality-marxist-critique
 
 * http://www.albertolumbreras.net/maldekstrakolono/pol%C3%ADtica/2012/02/13/visualizacion-de-la-propagacion-de-estemambgrecia-estamoscongrecia.html
 
-### Fuentes de letra
-
-* La Vanguardia: "TiemposText-Regular",serif
-* El viejo topo: "robotoregular"
-* El Salto: "Publico Text Web"
 
 ### Blogs decentes
 
