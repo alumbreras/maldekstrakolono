@@ -3,8 +3,6 @@ layout: default
 title: La Maldekstra Kolono
 ---
 
-## Alberto Lumbreras
-
 Comunista mientras haya hambre, robespierista mientras haya monarquía.
 
 Afiliado a la CGT, porque un día llegó a mi casa -no se cómo- un ejemplar 
@@ -24,14 +22,7 @@ Hasta que el gobierno decida que un investigador es más útil que un soldado,
 escribo este blog desde Toulouse, [capital del exilio republicano](http://www.toulouserepublicana.com).
 
 Como tres veces al día, igual que un tercio de la población mundial, y 
-nunca he tomado homeopatía. 
-
-<div align="center">
-	<h5>contacto:</h5>
-	<p>alberto.lumbreras (at) gmail (dot) com <br/> Toulouse, Francia</p>
-</div>
-
-Mi página académica es [http://www.albertolumbreras.net](http://www.albertolumbreras.net)
+nunca he tomado homeopatía.
 
 ## Sobre este blog
 

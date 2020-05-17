@@ -3,18 +3,32 @@ layout: default
 title: La Maldekstra Kolono
 ---
 
-<h1 id="articulos"> </h1>
-
-<ul class="posts">
-    {% for post in site.posts limit:20 %}
-      <li>
-		  <div class="row">
-			<div class="col-xs-12 col-md-9">
-				<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}"><b><div>{{ post.title }}</div></b></a>
-				<p>{{ post.content | strip_html | truncatewords:50 }} <a href="{{site.baseurl}}{{ post.url }}"><b><div>[+]</div></b></a>	</p>
-		  </div>
-		 </div>
-	  </li>
+<h1 id="articulos"></h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+    {% if post.type == "articulo" %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
     {% endfor %}
-</ul>
+  </ul>
 
+
+<h1 id="recortes">Recortes</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+    {% if post.type == "recorte" %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+     {% endif %}
+    {% endfor %}
+  </ul>
+
+  
+ <h1 id="otros">Otros</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+    {% if post.type == "minor" %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+     {% endif %}
+    {% endfor %}
+  </ul> 
+  
