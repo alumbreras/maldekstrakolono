@@ -1,32 +1,24 @@
-<nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top sticky-top">
-<!-- add: navbar-fixed-top sticky-top to top fixed menu
-Then add some padding to the body -->
+<nav class="navbar navbar-expand-lg navbar-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <img class ="logo" src="{{ site.baseurl }}/{{ site.header-img }}">
+    </a>
 
-    <span class="navbar-brand mb-0">
-    <img class ="logo" 
-        src="{{ site.baseurl }}/{{ site.header-img }}">
-    </span>
-
-    <!-- https://stackoverflow.com/questions/48999447/bootstrap-4-navbar-with-logo-and-2-rows-->
-    <div class="d-flex flex-column flex-wrap" id="navbarCollapse">
-      <div class="d-none d-lg-block">
-      <span class="navbar-text header">Maldekstra Kolono</span>
-      </div>
-
-      <button class="navbar-toggler" type="button" 
-      data-toggle="collapse" data-target="#navbarNavAltMarkup" 
-      aria-controls="navbarNavAltMarkup" 
-      aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-itemn nav-link" href="{{ site.baseurl }}/index.html">Inicio</a>
-        <a class="nav-item nav-link" href="{{ site.baseurl }}/lecturas.html">Lecturas</a>
-        <a class="nav-item nav-link" href="{{ site.baseurl }}/bio.html">Bio</a>
-      </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/index.html">Índice</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/lecturas.html">Lecturas</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/bio.html" tabindex="-1" aria-disabled="true">Bio</a>
+        </li>
+      </ul>
     </div>
-
-    </div>
-  </nav>
+  </div>
+</nav>

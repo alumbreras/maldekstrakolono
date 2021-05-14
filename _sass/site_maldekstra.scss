@@ -29,11 +29,6 @@ body {
   padding-right: 1px;
 }
 
-.site {
-  font-size: 100%;
-  padding-left: 1em;
-}
-
 h1, h2, h3, h4, h5, h6 {
   color: black;
 }
@@ -93,7 +88,7 @@ table {
 
 
 .logo {
-  width: 90px;
+  width: 60px;
 }
 
 .smalllogo {
@@ -168,29 +163,19 @@ ul.posts {
   margin-top:10px;
   line-height:55px;}
 
+
 .navbar-brand {
-  margin-right: 1rem;
+  margin-left: 20px;
 }
 
-.navbar {
-  background-color: white;
-}
 
-.navbar-light .navbar-text {
-  color: black;
-  padding-bottom: 0em;
-}
-  
 .navbar-light .navbar-nav {
-  color: #a00;
-  font-family: Times, Helvetica, sans-serif;
+  font-family: arial, Times, Helvetica, sans-serif;
+  font-size: 80%;
 }
 
 .navbar-light .navbar-nav .nav-link{
-  color: #b10000;
-  text-decoration: none;
-  padding-left: 0em;
-  padding-right: 5em;
+  color: #948f8f;
 }
 
 .navbar-nav a:hover {
@@ -237,7 +222,7 @@ ul.posts {
 }
 
 .post h1 {
-  font-family: Timmes;
+  font-family: Times;
 }
 
   /* standard */
