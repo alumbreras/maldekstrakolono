@@ -6,7 +6,7 @@ highlighter: rouge
 
 timezone: Europe/Berlin
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://maldekstrakolono.net"  # the base hostname & protocol for your site
+url: "https://www.maldekstrakolono.net"  # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title.html
 
@@ -21,6 +21,7 @@ exclude: [
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-feed
   
 header-img: images/maldekstra_thumbnail_pen_sinmargen.jpg
 

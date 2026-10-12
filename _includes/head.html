@@ -8,14 +8,14 @@
   
 	<title>{{ page.title }}</title>
 	<meta name="author" content="Alberto Lumbreras" />
-	<link href="http://feeds.feedburner.com/maldekstrakolono" rel="alternate" title="La Maldekstra Kolono" type="application/atom+xml" />
+	{% feed_meta %}
 	<meta name="readability-verification" content="QCzSs992GxmRYRKVpPeZ6LE2tS8aYKxsSSQKV8YM"/>
 	
 	{% if page.image %}
-		<meta property="og:image" content="http://www.maldekstrakolono.net/assets/{{ page.image }}" />
+		<meta property="og:image" content="https://www.maldekstrakolono.net/assets/{{ page.image }}" />
 		<meta name="twitter:image" content="{{ page.image }}" />
 	{% else %}
-		<meta property="og:image" content="http://www.maldekstrakolono.net/images/maldekstra_thumbnail_pen.jpg" />
+		<meta property="og:image" content="https://www.maldekstrakolono.net/images/maldekstra_thumbnail_pen.jpg" />
 	{% endif %}
 	
 	{% if page.title %}

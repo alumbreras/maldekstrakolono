@@ -16,7 +16,7 @@ En lo que llevamos de siglo XXI el planeta ha experimentado nueve de los diez a�
 
 Obsérvese que las temperaturas aumentan especialmente en los polos, lo que indica que no es fruto de una mayor temperatura solar sino del efecto invernadero.
 
-<iframe src="http://www.youtube.com/embed/EoOrtvYTKeE?color=white&amp;theme=light" width="620" height="465"></iframe>
+<iframe src="https://www.youtube.com/embed/EoOrtvYTKeE?color=white&amp;theme=light" width="620" height="465"></iframe>
 
 El liberalismo defensor del libre de mercado dice que éste traerá la tecnología necesaria para frenarlo. Es una cuestión de tiempo. ¿Pero lo hará a tiempo? Es curioso que una corriente no religiosa, incluso contraria a ella, haga un acto de Fe (en los mercados) de tal magnitud. Su Fe en la mano invisible es tal que defienden su aplicación desde (el mercado de) la ecología hasta el (mercado de) trabajo. El mercado es aquel intermediador mágico que encuentra el óptimo que usted desee. Sólo dele libre competencia (en el mejor de los casos) y una variable que optimizar. Ya puede ser la pureza del aire, las condiciones de trabajo o la mortalidad infantil en el tercer mundo. El mercado, según la economía neoclásica, lo optimiza todo y a la vez. El envoltorio que le dan a su Fe se llama "Teoría del Equilibrio General".
 
