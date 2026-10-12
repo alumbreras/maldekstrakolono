@@ -23,6 +23,8 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
   
+google_analytics: G-9CCTYLGEN1
+
 header-img: images/maldekstra_thumbnail_pen_sinmargen.jpg
 
 defaults:

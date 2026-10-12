@@ -1,4 +1,5 @@
 <head>
+	{% if site.google_analytics and jekyll.environment == "production" %}{% include analytics.html %}{% endif %}
 	
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta charset="{{ site.encoding }}">
