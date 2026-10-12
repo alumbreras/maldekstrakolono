@@ -19,4 +19,4 @@ tags:
 <p>Esteban Beltrán<br />
 Director Amnistía Internacional – Sección Española</p>
 <p>* Datos de la campaña Armas Bajo Control, de las organizaciones Fundació per la Pau, Greenpeace, Intermón Oxfam y Amnistía Internacional.</p></blockquote>
-<div class="youtube-video" style="text-align: center;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" /><param name="src" value="http://www.youtube.com/v/5Veov656nFE&amp;feature=youtube_gdata_player" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://www.youtube.com/v/5Veov656nFE&amp;feature=youtube_gdata_player" wmode="transparent"></embed></object></div>
+<div class="youtube-video" style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/5Veov656nFE" frameborder="0" allowfullscreen></iframe></div>

@@ -20,4 +20,4 @@ la mujer, <a href="http://www.youtube.com/watch?v=GkfzW5M6wII"><span style="font
 con las siglas  ONG, en Patrimonio no figura ninguno. Sí figuran otras 
 asociaciones como  San Miguel, la Cruz Roja, etc., pero con esas siglas... no.</p></blockquote>
 <p>Paisanos, <a href="http://www.youtube.com/watch?v=rX_uD9RQor0">¡que no estamos tan mal!</a></p>
-<div class="youtube-video" style="text-align: center;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" /><param name="src" value="http://www.youtube.com/v/tlqP6TGDKrY&amp;feature=youtube_gdata" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://www.youtube.com/v/tlqP6TGDKrY&amp;feature=youtube_gdata" wmode="transparent"></embed></object></div>
+<div class="youtube-video" style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tlqP6TGDKrY" frameborder="0" allowfullscreen></iframe></div>

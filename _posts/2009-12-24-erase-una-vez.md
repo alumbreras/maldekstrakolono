@@ -31,5 +31,5 @@ tags:
 <div style="text-align: center;">cuando yo soñaba</div>
 <div style="text-align: center;">un <a href="http://www.educarueca.org/spip.php?article45">mundo al revés</a></div>
 </div>
-<div class="youtube-video" style="text-align: center;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" /><param name="src" value="http://www.youtube.com/v/1gqwUG93gRg&amp;feature=youtube_gdata" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://www.youtube.com/v/1gqwUG93gRg&amp;feature=youtube_gdata" wmode="transparent"></embed></object></div>
+<div class="youtube-video" style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/1gqwUG93gRg" frameborder="0" allowfullscreen></iframe></div>
 <div class="zemanta-pixie"><img class="zemanta-pixie-img" src="{{ site.baseurl }}/assets/pixy.gif?x-id=37a360bf-3975-8e2d-80b7-8fe5bd7790da" alt="" /></div>

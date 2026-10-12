@@ -18,4 +18,4 @@ tags:
 <p><span style="color: #000000;"> </span></p>
 </div>
 <p><span style="color: #ff0000; font-size: 130%;"> </span></p>
-<div class="youtube-video"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" /><param name="src" value="http://www.youtube.com/v/qgOVPEVGtMo&amp;feature=youtube_gdata_player" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://www.youtube.com/v/qgOVPEVGtMo&amp;feature=youtube_gdata_player" wmode="transparent"></embed></object></div>
+<div class="youtube-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/qgOVPEVGtMo" frameborder="0" allowfullscreen></iframe></div>
