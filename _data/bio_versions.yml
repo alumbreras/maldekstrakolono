@@ -1,4 +1,6 @@
-- label: "2013–2016"
+- id: "2013"
+  label: "2013–2016"
   url: /bio/2013.html
-- label: "2018–hoy"
+- id: "2018"
+  label: "2018–hoy"
   url: /bio.html
