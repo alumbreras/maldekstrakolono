@@ -13,7 +13,10 @@ layout: default
 	{% if page.note %}
 	   <div class="note">{{ page.note  | markdownify}}</div>
 	{% endif %}
-	<div class="content">{{ content }}</div>
+	{%- comment -%} Drop cap only when the text starts with a letter, not "(", "¿", a quote... {%- endcomment -%}
+	{%- assign first_char = content | strip_html | strip | slice: 0 -%}
+	{%- assign letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÁÉÍÓÚÀÈÒÏÜÑÇáéíóúàèòïüñç" -%}
+	<div class="content{% unless letters contains first_char %} no-dropcap{% endunless %}">{{ content }}</div>
 	{% if page.temas %}
 	{% if page.type == "recorte" or page.type == "manifiesto" %}{% assign temas_base = "/recortes.html" %}{% else %}{% assign temas_base = "/" %}{% endif %}
 	<p class="post-temas">Temas:
