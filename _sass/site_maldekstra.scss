@@ -26,7 +26,8 @@ body {
 .container {
   max-width: 900px;
   line-height: 1.5em;
-  padding-right: 1px;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -308,4 +309,36 @@ blockquote {
   font-family: arial, "Latin Modern Mono";
   font-size: 0.9rem;
   color: gray;
+}
+
+
+/* Media and long content must never overflow the screen */
+.post img, .post iframe, .post video, .post embed, .post object, .post table {
+  max-width: 100%;
+}
+
+.post img {
+  height: auto;
+}
+
+.post iframe {
+  aspect-ratio: 16 / 9;
+  height: auto;
+}
+
+.post .content {
+  overflow-wrap: break-word;
+}
+
+.post pre {
+  overflow-x: auto;
+}
+
+@media (max-width: 576px) {
+  html, body {
+    font-size: 18px;
+  }
+  blockquote {
+    margin-left: 0;
+  }
 }
