@@ -363,3 +363,39 @@ blockquote {
     margin-right: 0 !important;
   }
 }
+
+/* Comments recovered from the old WordPress/Disqus threads */
+.archived-comments {
+  margin-top: 2.5rem;
+  font-family: arial, sans-serif;
+  font-size: 0.8rem;
+}
+
+.archived-comments h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+.archived-note {
+  color: gray;
+  margin-top: 0;
+}
+
+.archived-comment {
+  border-left: 3px solid #eee;
+  padding-left: 0.75rem;
+  margin-bottom: 1.25rem;
+  overflow-wrap: anywhere;
+}
+
+.archived-comment.by-author {
+  border-left-color: #b10000;
+}
+
+.archived-comment p {
+  margin: 0.4em 0;
+}
+
+.archived-meta {
+  color: #666;
+}

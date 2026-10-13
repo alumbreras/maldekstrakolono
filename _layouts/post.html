@@ -14,6 +14,20 @@ layout: default
 </div>
 
 
+{% assign archived = site.data.archived_comments[page.url] %}
+{% if archived %}
+<section class="archived-comments">
+	<h2>Comentarios de la época</h2>
+	<p class="archived-note">Lo que comentaron los lectores en la versión anterior del blog, recuperado de Disqus.</p>
+	{% for c in archived %}
+	<div class="archived-comment{% if c.author == "Alberto" or c.author == "Alberto Lumbreras" %} by-author{% endif %}" style="margin-left: {{ c.depth | times: 1.5 }}rem">
+		<p class="archived-meta"><strong>{{ c.author }}</strong>{% if c.author == "Alberto" or c.author == "Alberto Lumbreras" %} (autor){% endif %} · {{ c.date | date: '%d.%m.%Y' }}</p>
+		{{ c.html }}
+	</div>
+	{% endfor %}
+</section>
+{% endif %}
+
 <div id="disqus_thread"></div>
 <script>
     /**
