@@ -12,6 +12,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url("../fonts/Source_Serif_Pro/SourceSerifPro-SemiBold.ttf") format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
 /* Global Reset */
 * {
   margin: 0;
@@ -113,7 +120,7 @@ ul.posts {
 }
 
   ul.posts li {
-    line-height: 1.25em;
+    line-height: 1.45em;
   }
 
   ul.posts span {
@@ -124,7 +131,8 @@ ul.posts {
 
   ul.posts a{
     color: #000;
-    font-family: arial;
+    font-family: 'Source Serif Pro', Times, serif;
+    font-size: 1.1em;
     text-decoration: none;
    }
 
@@ -269,7 +277,12 @@ ul.posts {
 }
 
 .post h1 {
-  font-family: Times;
+  font-family: 'Source Serif Pro', Times, serif;
+  font-weight: 600;
+  font-size: 1.9rem;
+  line-height: 1.2;
+  text-align: left;
+  margin-top: 0.5rem;
 }
 
   /* standard */
@@ -460,4 +473,19 @@ blockquote {
 
 .archived-meta {
   color: #666;
+}
+
+/* Recortes: other people's texts, kept apart from my own */
+.section-intro, .recorte-label {
+  font-family: arial, sans-serif;
+  font-size: 0.8rem;
+  color: gray;
+}
+
+.recorte-label {
+  text-align: center;
+}
+
+.recorte-label a {
+  color: gray;
 }

@@ -1,0 +1,14 @@
+---
+layout: default
+title: Recortes
+---
+
+<p class="section-intro">Textos de otros que en su día me parecieron dignos de reproducir aquí: artículos, cartas, fragmentos de libros, manifiestos y comunicados.</p>
+
+<ul class="posts">
+  {% for post in site.posts %}
+  {% if post.type == "recorte" or post.type == "manifiesto" %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>

@@ -2,7 +2,7 @@
 layout: post
 title: Manuel Sacristán sobre el 23-F y la izquierda
 date: 2012-02-23 11:15:11.000000000 +01:00
-type: recortes
+type: recorte
 categories:
 - política
 tags:

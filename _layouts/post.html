@@ -7,6 +7,9 @@ layout: default
 	{% if page.image %}
 	   <img src="{{ site.baseurl }}/assets/img/{{page.image}}"  width="50%" class="center">
 	{% endif %}
+	{% if page.type == "recorte" or page.type == "manifiesto" %}
+	   <p class="recorte-label">Recorte: texto ajeno reproducido en el blog. <a href="{{ site.baseurl }}/recortes.html">Ver todos los recortes</a></p>
+	{% endif %}
 	{% if page.note %}
 	   <div class="note">{{ page.note  | markdownify}}</div>
 	{% endif %}
