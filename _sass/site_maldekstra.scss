@@ -5,6 +5,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url("../fonts/Source_Serif_Pro/SourceSerifPro-Bold.ttf") format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
 /* Global Reset */
 * {
   margin: 0;
@@ -165,22 +172,61 @@ ul.posts {
   line-height:55px;}
 
 
-.navbar-brand {
-  margin-left: 20px;
+/* Site header: logo + name, links always visible (only two, no hamburger) */
+.site-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  padding: 1rem 0 0.75rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
 }
 
-
-.navbar-light .navbar-nav {
-  font-family: arial, Times, Helvetica, sans-serif;
-  font-size: 80%;
+.site-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: #000;
 }
 
-.navbar-light .navbar-nav .nav-link{
-  color: #948f8f;
+.site-brand .logo {
+  width: 50px;
 }
 
-.navbar-nav a:hover {
-  color: black;
+.site-brand span {
+  font-family: 'Source Serif Pro', Times, serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  color: #000;
+}
+
+.site-links {
+  display: flex;
+  gap: 1.25rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 0.8rem;
+}
+
+.site-links a {
+  color: #666;
+  text-decoration: none;
+}
+
+.site-links a:hover,
+.site-links a.active {
+  color: #000;
+}
+
+.site-links a.active {
+  border-bottom: 2px solid #b10000;
 }
 
 .meta {
@@ -367,6 +413,9 @@ blockquote {
 @media (max-width: 576px) {
   html, body {
     font-size: 18px;
+  }
+  .site-brand span {
+    font-size: 1.1rem;
   }
   blockquote {
     margin-left: 0;
