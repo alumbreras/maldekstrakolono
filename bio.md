@@ -3,6 +3,8 @@ layout: default
 title: La Maldekstra Kolono
 ---
 
+{% include bio-versions.html %}
+
 Comunista mientras haya hambre, robespierista mientras haya monarquía.
 
 Afiliado a la CGT, porque un día llegó a mi casa -no se cómo- un ejemplar 
