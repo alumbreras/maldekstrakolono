@@ -266,7 +266,7 @@ ul.posts {
 	font-style: italic;
   }
   
-  .post .content p:first-of-type::first-letter {
+  .post .content > p:first-of-type::first-letter {
 	font-size: 4rem;
 	}
 
