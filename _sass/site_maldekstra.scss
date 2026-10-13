@@ -358,4 +358,8 @@ blockquote {
   blockquote {
     margin-left: 0;
   }
+  .post .content img {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
 }
