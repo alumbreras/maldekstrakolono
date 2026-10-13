@@ -305,7 +305,20 @@ blockquote {
 }
 
 
-.bio-versions, .bio-note {
+.bio-versions {
+  margin-top: 3rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #eee;
+  font-family: arial, "Latin Modern Mono";
+  font-size: 0.7rem;
+  color: #aaa;
+}
+
+.bio-versions a {
+  color: #aaa;
+}
+
+.bio-note {
   font-family: arial, "Latin Modern Mono";
   font-size: 0.9rem;
   color: gray;

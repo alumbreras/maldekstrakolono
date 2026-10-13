@@ -4,8 +4,6 @@ title: La Maldekstra Kolono
 bio_version: "2018"
 ---
 
-{% include bio-versions.html %}
-
 Comunista mientras haya hambre, robespierista mientras haya monarquía.
 
 Afiliado a la CGT, porque un día llegó a mi casa -no se cómo- un ejemplar 
@@ -44,3 +42,5 @@ tengo que utilizar una lengua internacional para un artículo que quiero que
 lean mis lectores en Pekín o en Pokón, útilizaré el esperanto 
 (que puedes aprender, gratis y en un periquete, en webs como http://es.lernu.net). 
 Y porque aceptar el status quo es morirse de asco.
+
+{% include bio-versions.html %}
