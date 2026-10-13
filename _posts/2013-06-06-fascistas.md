@@ -18,7 +18,7 @@ Y el debate sobre la ley del matrimonio homosexual, aprobada hace unas semanas,
 ha sido el escenario perfecto para darse a conocer con palizas a 
 homosexuales o ataques a bares y locales "de ambiente".
 
-<img src="{{ site.baseurl }}/assets/EXTREMEDROITE2013-2.png" width="600" />
+<img src="{{ site.baseurl }}/assets/img/EXTREMEDROITE2013-2.png" width="600" />
 Estos grupos viven a rebufo del Front National (ver cuadro), el partido 
 neofascista de la familia Le Pen financiado desde sus orígenes por 
 sectores aristócratas y empresariales. Marine Le Pen se está ganando a 
@@ -32,7 +32,7 @@ y colocarlo en la centralidad política. Si a su padre le cantaban
 "[los jóvenes se cagan en el Front National](http://www.youtube.com/watch?v=CuZB9hOQ0DQ)", 
 hoy el Front National está a punto de ser la segunda fuerza política del país.
 
-<img src="{{ site.baseurl }}/assets/encuestaFN.png" width="600" />
+<img src="{{ site.baseurl }}/assets/img/encuestaFN.png" width="600" />
 
 Anecdótico pero simbólico, hace unos días una [candidata del Front de Gauche se pasaba al FN](http://www.lemonde.fr/politique/article/2013/05/25/l-ex-candidate-communiste-anna-rosso-roig-passe-au-fn-pour-les-municipales_3417528_823448.html).
 

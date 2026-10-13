@@ -52,7 +52,7 @@ Modularidad: 0,254<br />
 Comunidades:  24</p>
 </blockquote>
 <p>&nbsp;</p>
-<p><a href="http://maldekstrakolono.net/wp-content/uploads/2012/11/itantsipodem.png"><img class="aligncenter size-full wp-image-1854" title="itantsipodem" src="{{ site.baseurl }}/assets/itantsipodem.png" alt="" width="609" height="340" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/img/itantsipodem.png"><img class="aligncenter size-full wp-image-1854" title="itantsipodem" src="{{ site.baseurl }}/assets/img/itantsipodem.png" alt="" width="609" height="340" /></a></p>
 <p>En #itantsipodem participaron cuatro comunidades principales. Las verdes (verde fuerte y verde suave) indican comunidades relacionadas con ICV y JEV. Las rojas indican comunidades de EUiA, Alternativa Jove y (rojo fuerte) y por otro lado IU (rojo suave). Laiaortiz y Nuet, diputados de ICV y EUiA respectivamente, son los dos nodos con más reputación de la red (y de los que tienen más centralidad entre las diferentes comunidades). Parece que los activistas de IU se han enganchado a la campaña a través de Nuet y Angels Martínez Castells. Casi todos los nodos siguen a algún otro nodo de la red, lo que indica que la campaña no ha implicado a personas más allá de las que ya son del entorno de ICV-EUiA.</p>
 <p><strong>#hovolemtot</strong></p>
 <blockquote><p>Nodos: 2575<br />
@@ -65,7 +65,7 @@ Componentes débilmente conexos: 1<br />
 Componentes fuertemente conexos: 178<br />
 Modularidad: 0,265<br />
 Comunidades: 8</p></blockquote>
-<p><a href="http://maldekstrakolono.net/wp-content/uploads/2012/11/hovolemtot.png"><img class="aligncenter size-full wp-image-1858" title="hovolemtot" src="{{ site.baseurl }}/assets/hovolemtot.png" alt="" width="621" height="406" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/img/hovolemtot.png"><img class="aligncenter size-full wp-image-1858" title="hovolemtot" src="{{ site.baseurl }}/assets/img/hovolemtot.png" alt="" width="621" height="406" /></a></p>
 <p>El grafo refleja, parece, la variedad interna de la CUP. En la CUP confluyen organizaciones como  Endavant o el MDT, a parte de gente independiente (amarillos) entre la que se encuentra David Fernández (@HiginiaRoig). La comunidad verde inferior incluye mucha gente "15M". La comunidad roja son gente de Sabadell. Curiosamente esto no lo vemos en el grafo de #itantsipodem a pesar de que en EUiA también confluyen cuatro comunidades (PCC, PSUCviu, POR e independientes). Dos posibles explicaciones: o comparado con la CUP, EUiA está más cohesionada, o las organizaciones de la CUP tienden a seguirse entre sí mucho más de lo que lo hacen los de EUiA. Tampoco vemos usuarios sueltos, lo que indica, como en #itantsipodem, que la participación en la campaña se ha limitado a militantes y activistas.</p>
 <p><strong>#CataloniaIsNotCiU</strong></p>
 <blockquote>
@@ -81,7 +81,7 @@ Modularidad: 0,347<br />
 Comunidades: 55<strong><br />
 </strong></p>
 </blockquote>
-<p><a href="http://maldekstrakolono.net/wp-content/uploads/2012/12/CataloniaIsNotCiU.png"><img class="aligncenter size-full wp-image-1863" title="CataloniaIsNotCiU" src="{{ site.baseurl }}/assets/CataloniaIsNotCiU.png" alt="" width="583" height="392" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/img/CataloniaIsNotCiU.png"><img class="aligncenter size-full wp-image-1863" title="CataloniaIsNotCiU" src="{{ site.baseurl }}/assets/img/CataloniaIsNotCiU.png" alt="" width="583" height="392" /></a></p>
 <p>#CataloniaIsNotCiU es una campaña ideada por los jóvenes de ICV (Joves Esquerra Verda) y que empezó con una gran difusión por la red como meme anónimo. De ahí la implicación de las comunidades amarillas (15M), azul (entorno PSC) y verde. La comunidad verde es ICV y la rosa EUiA, que son las que tuvieron más implicación con el meme (de ahí su mayor densidad). Más tarde ICV lo adoptó oficialmente como lema de precampaña, lo que provocó, sino la muerte, sí el frenazo de un meme que podría haber tenido mucha mayor expansión. El usuario @NoVotisCiU en el centro indica que es seguido con similar proporción desde todas las comunidades. Que sea lila, como @dolorscamats, significa que tiene un alto número de followers del PSC a pesar de que probablemente haya sido creado por gente de ICV.</p>
 <p>#<strong>CiUesTroika</strong></p>
 <blockquote>
@@ -97,7 +97,7 @@ Modularidad: 0,207<br />
 Comunidades: 5<strong><br />
 </strong></p>
 </blockquote>
-<p><a href="http://maldekstrakolono.net/wp-content/uploads/2012/12/CiUestroika.png"><img class="aligncenter size-full wp-image-1866" title="CiUestroika" src="{{ site.baseurl }}/assets/CiUestroika.png" alt="" width="644" height="448" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/img/CiUestroika.png"><img class="aligncenter size-full wp-image-1866" title="CiUestroika" src="{{ site.baseurl }}/assets/img/CiUestroika.png" alt="" width="644" height="448" /></a></p>
 <p>Para la campaña #CiUesTroika se creó, además, el usuario @ciuestroika, que ha sido el usuario más popular y central de la campaña. Parece que @Ciudadano_Zer0 y @PAH_BCN han sido claves para implicar a dos comunidades muy relacionadas con el 15M. Al menos son los más reputados (según el algoritmo de PageRank) en sus respectivas comunidades A la izquierda, una nube de usuarios sueltos que se incorporaron a la campaña "por libre". Dado que las comunidades lila, rosa y verde son comunidades ya concienciadas, una gran nube de usuarios sueltos que se ha implicado en la campaña es un bien indicador.</p>
 <blockquote>
 <p style="text-align: left;">En cuánto a las métricas observadas, a primera vista no se ve una relación clara entre las métricas utilizadas  y el impacto real de una campaña. Como he dicho antes, la comparación con campañas como #11s2012 quizás nos dé alguna pista de cuales són las métricas que indican el éxito.</p>
@@ -105,7 +105,7 @@ Comunidades: 5<strong><br />
 <p><strong>Promiscuidad entre campañas y centralidad del 11S y la Huelga General del 14N</strong></p>
 <p>El siguiente es un grafo de las bandadas de usuarios entre diferentes <em>hashtags</em>. Una flecha de un <em>hashtag</em> a otro indica que algunos usuarios del hashtag origen también participaron en el <em>hashtag</em> destino. A más gruesa es la flecha, mayor es el porcentaje de usuarios del <em>hashtag</em> origen que participaron en el <em>hashtag</em> destino. Los colores indican comunidades detectadas. Una comunidad es un grupo de hashtags con altas migraciones entre ellos.</p>
 <p>"perque" és una comunidad artificial, creada a partir de los usuarios que tuitean "perque" . Esto nos permite sacar una muestra transversal de todos los usuarios de tuiter en Catalunya, ya que "perque" no existe en otro idioma además del catalán. Por supuesto, la muestra "perque" tiene un sesgo. Primero, no todos los catalanes tienen Twitter. Y segundo, no todos los catalanes con tuiter escriben en catalán. En cualquier caso, nos permite intuir  la implicación de nuestro "catalán medio" en cada una de las campañas.</p>
-<p><a href="http://maldekstrakolono.net/wp-content/uploads/2012/12/bandadas.png"><img class="aligncenter size-full wp-image-1886" style="margin-right: 15px; margin-left: 15px;" title="bandadas" src="{{ site.baseurl }}/assets/bandadas.png" alt="" width="615" height="456" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/img/bandadas.png"><img class="aligncenter size-full wp-image-1886" style="margin-right: 15px; margin-left: 15px;" title="bandadas" src="{{ site.baseurl }}/assets/img/bandadas.png" alt="" width="615" height="456" /></a></p>
 <p>&nbsp;</p>
 <p>El 11S, y sobretodo la huelga del 14N, fueron el punto de encuentro de movimientos sociales y partidos, recibiendo activistas de todos ellos. Por eso son las campañas de mayor reputación y están situados en la parte central del grafo.</p>
 <p>Algunos detalles más:</p>

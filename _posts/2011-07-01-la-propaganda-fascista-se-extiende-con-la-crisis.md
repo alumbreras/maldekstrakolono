@@ -28,4 +28,4 @@ temas: [extrema-derecha]
 <div><small><a title="Permalink to this comment" href="http://albertolumbreras.com/2011/07/la-propaganda-fascista-se-extiende-con-la-crisis/#comment-852"></a></small>A este hijo de puta habra que hacerle una visita a Badalona a Serra de Daro para saludarlo personalmente. Se puede estar o no estar de acuerdo con alguien politicamente, pero que un hijo de puta e indigente kultural te diga que por ser de derechas eres un facha…. Alberto Lumbreraqs Carrasco… pasa la linea y te corto los huevos.</div>
 </blockquote>
 <p>&nbsp;</p>
-<p><a href="http://maldekstrakolono.net/wp-content/uploads/2011/07/Captura-de-pantalla-2011-07-03-a-las-13.03.47.png"><img class="aligncenter size-full wp-image-877" title="Twitter Sant Vicente" src="{{ site.baseurl }}/assets/Captura-de-pantalla-2011-07-03-a-las-13.03.47.png" alt="" width="616" height="507" /></a></p>
+<p><a href="{{ site.baseurl }}/assets/img/Captura-de-pantalla-2011-07-03-a-las-13.03.47.png"><img class="aligncenter size-full wp-image-877" title="Twitter Sant Vicente" src="{{ site.baseurl }}/assets/img/Captura-de-pantalla-2011-07-03-a-las-13.03.47.png" alt="" width="616" height="507" /></a></p>

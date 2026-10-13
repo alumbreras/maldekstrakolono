@@ -11,7 +11,7 @@ tags:
 - Miguel Hernández
 temas: [cultura]
 ---
-<p><a href="http://satenhispanio.eresmas.com/Libroservo/PoetoPopolo.htm"><img src="{{ site.baseurl }}/assets/PoetoPopolo.jpg" alt="" width="173" height="288" /></a></p>
+<p><a href="http://satenhispanio.eresmas.com/Libroservo/PoetoPopolo.htm"><img src="{{ site.baseurl }}/assets/img/PoetoPopolo.jpg" alt="" width="173" height="288" /></a></p>
 <p>Cepo estas prujno<br />
 fermata kaj malriĉa.<br />
 Prujno de viaj tagoj<br />

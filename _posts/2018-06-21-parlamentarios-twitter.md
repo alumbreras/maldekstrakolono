@@ -31,7 +31,7 @@ del grupo, Cristina Agüera, no se siguen entre ellos?**
 ¿Competencia entre los posibles relevos generacionales? ¿No se tragan? ¿O por nada en especial? 
 
 <figure>
-   <img src="{{ site.baseurl }}/assets/fig24_matriz_adj_BDN.png" width="100%">
+   <img src="{{ site.baseurl }}/assets/img/fig24_matriz_adj_BDN.png" width="100%">
     <figcaption>Fig.1 - Matriz de adyacencia en Badalona.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Cuando dos grupos no se tragan, lo que hacen a menudo es seguir al menos a su l�
 **El resto de miembros de Ciudadanos obtiene sus seguidores casi exclusivamente del PSC.**
 
 <figure>
-   <img src="{{ site.baseurl }}/assets/fig25_matriz_adj_CAT.png" width="100%">
+   <img src="{{ site.baseurl }}/assets/img/fig25_matriz_adj_CAT.png" width="100%">
   <figcaption>Fig.2 - Matriz de adyacencia en Catalunya.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Cuando dos grupos no se tragan, lo que hacen a menudo es seguir al menos a su l�
 La vida en Madrid es más dura. Los partidos viven en sus burbujas, con la excepción de
 Unidos Podemos (IU, Podemos, mareas...) y ERC.
 <figure>
-   <img src="{{ site.baseurl }}/assets/fig26_matriz_adj_ES.png" width="100%">
+   <img src="{{ site.baseurl }}/assets/img/fig26_matriz_adj_ES.png" width="100%">
    <figcaption>Fig.3 -Matriz de adyacencia en España.</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ su mismo eurogrupo. Hay, parece, un tercer nivel donde a veces parlamentarios de
 de su mismo país aunque sean de otros partidos.
  
 <figure>
-   <img src="{{ site.baseurl }}/assets/fig27_matriz_adj_UE.png" width="100%">
+   <img src="{{ site.baseurl }}/assets/img/fig27_matriz_adj_UE.png" width="100%">
    <figcaption>Fig.3 -Matriz de adyacencia en Europa. Entre paréntisis, algunos de los partidos miembros de cada eurogrupo.</figcaption>
 </figure>
 

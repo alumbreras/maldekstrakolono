@@ -32,7 +32,7 @@ del PNV, que hasta entonces se había mantenido en una posición de abstenciones
 de abstenciones también la seguía CiU más moderadamente.
 
 <figure>
-   <img src="{{ site.baseurl }}/assets/fig20_matriz_votos_legislaturas_wsj.png" width="100%">
+   <img src="{{ site.baseurl }}/assets/img/fig20_matriz_votos_legislaturas_wsj.png" width="100%">
     <figcaption>Fig.1 - Votaciones entre 2011 y 2018. Se muestran los nombres de uno de cada cinco diputados.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ La siguiente figura muestra los mayores absentistas de la etapa Rajoy.
 
 
 <figure>
-   <img src="{{ site.baseurl }}/assets/fig23_absentismo_parlamentario100.png" width="100%">
+   <img src="{{ site.baseurl }}/assets/img/fig23_absentismo_parlamentario100.png" width="100%">
   <figcaption>Fig.2 - Los 75 diputados con mayor tasa de absentismo.</figcaption>
 </figure>
 
@@ -58,14 +58,14 @@ cuando la mayoría de sus diputados votan *sí* (igualmente para no y abstenció
 de votos similar a la que hicimos para los diputados:
 
 <figure>
-   <img src="{{ site.baseurl }}/assets/fig21_matriz_votos_partidos_legislaturas.png" width="100%">
+   <img src="{{ site.baseurl }}/assets/img/fig21_matriz_votos_partidos_legislaturas.png" width="100%">
    <figcaption>Fig.3 - Votaciones entre 2011 y 2018 por partidos.</figcaption>
 </figure>
 
 Finalmente, la prueba del algodón. Veamos, para cada legislatura, 
 cuál ha sido la correlación entre los partidos en cuanto a su comportamiento de voto:
 <figure>
-   <img src="{{ site.baseurl }}/assets/fig22_matriz_votos_partidos_correlacion.png" width="100%">
+   <img src="{{ site.baseurl }}/assets/img/fig22_matriz_votos_partidos_correlacion.png" width="100%">
   <figcaption>Fig.4 - Similitud de voto entre los diferentes partidos.</figcaption>
 </figure>
 

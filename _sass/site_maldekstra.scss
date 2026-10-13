@@ -116,14 +116,21 @@ table {
 
 ul.posts {
   list-style-type: none;
+  padding-left: 0;
   font-size: 80%;
 }
 
+  /* Date, », title: long titles wrap under themselves, not under the date */
   ul.posts li {
+    display: flex;
+    gap: 0.35em;
+    align-items: baseline;
     line-height: 1.45em;
+    margin-bottom: 0.15em;
   }
 
   ul.posts span {
+    flex-shrink: 0;
     color: #999;
     font-family: Monaco, "Courier New", monospace;
     font-size: 80%;
@@ -531,4 +538,22 @@ blockquote {
 
 .post-temas a {
   color: #666;
+}
+
+/* On phones the topic chips scroll sideways in one row instead of filling the screen */
+@media (max-width: 576px) {
+  .temas {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    margin-left: -1.25rem;
+    margin-right: -1.25rem;
+    padding: 0 1.25rem;
+  }
+  .temas::-webkit-scrollbar {
+    display: none;
+  }
+  .temas a {
+    flex-shrink: 0;
+  }
 }

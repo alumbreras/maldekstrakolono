@@ -43,4 +43,4 @@ armas y tecnología militar. Para fabricar armas... hay que fabricar<br />
 enemigos.</p></blockquote>
 <p>El artículo entero puede leerse <a href="http://www.elpais.com/articulo/opinion/Crisis/gasto/militar/desarme/elpepuopi/20100802elpepiopi_4/Tes">aquí</a>.</p>
 <p>Ahora que está mal visto matar toros, veremos cuándo nos decidimos por dejar de matar personas.</p>
-<p><img class="aligncenter" src="{{ site.baseurl }}/assets/3955721411_12bd5e79c0.jpg" alt="" width="330" height="383" /></p>
+<p><img class="aligncenter" src="{{ site.baseurl }}/assets/img/3955721411_12bd5e79c0.jpg" alt="" width="330" height="383" /></p>

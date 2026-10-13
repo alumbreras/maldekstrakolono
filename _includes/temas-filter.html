@@ -21,6 +21,8 @@
     });
     function apply(t) {
       chips.forEach(function (c) { c.classList.toggle('active', c.dataset.tema === t); });
+      var on = nav.querySelector('a.active');
+      if (on) nav.scrollLeft = on.offsetLeft - nav.offsetLeft - 20;
       items.forEach(function (li) { li.hidden = t && !(' ' + li.dataset.temas + ' ').includes(' ' + t + ' '); });
     }
     apply(new URLSearchParams(location.search).get('tema') || '');
