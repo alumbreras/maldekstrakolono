@@ -36,4 +36,4 @@ temas: [internacional]
 <blockquote><p>El foco mediático de atención se centró en las inversiones en petróleo y gas, turismo e infraestructuras. Sin embargo, el sector armamentístico fue uno de los lobbies empresariales más favorecidos por las alianzas comerciales entre Libia y España, según uno de los cables filtrados por Wikileaks a los que20minutos.es ha tenido acceso a través del periódico noruegoAftenposten. El Gobierno cerró entonces acuerdos en material de defensa valorados en 1. 500 millones de euros, según un telegrama diplomático fechado el 14 de enero de 2008.</p></blockquote>
 <p>Entonces, ¿quién no condena <span style="font-style: italic;">de boquilla</span> pero colabora <span style="font-style: italic;">de facto</span> con el régimen genocida de Muammar al-Gadaffi?</p>
 <p>La gráfica muestra el por qué.</p>
-<div style="text-align: center;"><img style="max-width: 800px;" src="{{ site.baseurl }}/assets/Captura-de-pantalla-2011-02-27-a-las-20.03.14.png" alt="" /></div>
+<div style="text-align: center;"><span class="lost-image">[imagen perdida]</span></div>

@@ -28,6 +28,6 @@ temas: [badalona, movimientos]
 <blockquote><p>"No se ha dicho nada sobre el endeudamiento privado (mucho mayor que el público y generador de burbujas), por lo que se deja la puerta abierta a nuevas burbujas"</p></blockquote>
 <div class="mceTemp mceIEcenter">
 <dl id="attachment_1364" class="wp-caption aligncenter" style="width: 625px;">
-<dt class="wp-caption-dt"><a href="http://albertolumbreras.com/wp-content/uploads/2011/10/jornades1515O1.png"><img class="size-full wp-image-1364  " style="margin-top: 10px; margin-bottom: 10px;" title="jornades1515O" src="{{ site.baseurl }}/assets/jornades1515O1.png" alt="" width="615" height="867" /></a></dt>
+<dt class="wp-caption-dt"><span class="lost-image">[imagen perdida]</span></dt>
 </dl>
 </div>

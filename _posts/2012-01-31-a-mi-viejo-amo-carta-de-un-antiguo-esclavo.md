@@ -19,4 +19,4 @@ temas: [cultura]
 <p>From your old servant,</p>
 <p>Jourdon Anderson.</p></blockquote>
 <p>El fin de la esclavitud vino, en parte, porque al capitalismo le salía más barato un obrero que un esclavo (la película <a href="http://www.imdb.es/title/tt0064866/">Queimada</a>, de Gillo Pontecorvo, muestra un buen caso práctico). Al esclavo hay que mantenerlo, mientras que al obrero, convertido en flexible mercancia, se le puede tener en condiciones paupérrimas con salarios irrisorios a cambio de su libertad. La libertad de morirse de hambre. La cuestión es entonces hasta qué punto somos hoy libres.</p>
-<p style="text-align: center;"><a href="http://albertolumbreras.com/wp-content/uploads/2012/01/familia.jpg"><img class="aligncenter size-full wp-image-1535" style="margin-top: 20px; margin-bottom: 20px; margin-left: 60px; margin-right: 60px;" src="{{ site.baseurl }}/assets/familia.jpg" alt="" width="520" height="274" /></a></p>
+<p style="text-align: center;"><span class="lost-image">[imagen perdida]</span></p>

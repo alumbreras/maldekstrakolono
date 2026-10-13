@@ -19,5 +19,5 @@ temas: [internacional, movimientos]
 <p><strong>Concentració immediata de suport a Palau Reial!</strong></p>
 <p><strong>Mentre UpM parla nosaltres, la Flotilla, actuem! VINE I PASSA-HO!!!</strong></p></blockquote>
 <p style="text-align: center;">
-<a href="http://albertolumbreras.com/wp-content/uploads/2011/07/fotoencadenados.jpg"><img class="aligncenter size-full wp-image-886" title="fotoencadenados" src="{{ site.baseurl }}/assets/fotoencadenados.jpg" alt="" width="644" height="329" /></a></p>
+<span class="lost-image">[imagen perdida]</span></p>
 <p style="text-align: center;">(foto: Àlex Hinno)</p>

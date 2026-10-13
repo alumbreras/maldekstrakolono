@@ -37,4 +37,4 @@ ni siquiera la económica.»</p>
 <p>(vía Toni vía Los Chicos del Maíz vía Rebelión. 
 Podéis leer el artículo original <a href="http://www.kaosenlared.net/noticia/rajoy-en-1983">aquí</a>)</p>
 <p>Mariano no es <em>idéntico</em> a Fraga. <em>Igual</em>, sí.</p>
-<p style="text-align: center;"><a href="http://albertolumbreras.com/blog/wp-content/uploads/2011/11/rajoyfraga.jpg"><img class="aligncenter size-full wp-image-1424" style="margin-left: 60px; margin-right: 60px;" title="rajoyfraga" src="{{ site.baseurl }}/assets/rajoyfraga.jpg" alt="" width="489" height="700" /></a></p>
+<p style="text-align: center;"><span class="lost-image">[imagen perdida]</span></p>

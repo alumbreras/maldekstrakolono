@@ -557,3 +557,13 @@ blockquote {
     flex-shrink: 0;
   }
 }
+
+/* Placeholder for images lost when the blog left WordPress */
+.lost-image {
+  display: block;
+  margin: 1em 0;
+  text-align: center;
+  font-family: arial, sans-serif;
+  font-size: 0.75rem;
+  color: #aaa;
+}

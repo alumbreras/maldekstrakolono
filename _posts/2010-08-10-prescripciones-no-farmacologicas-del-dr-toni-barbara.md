@@ -29,7 +29,7 @@ superfluo evidente, aquí van algunas  `PRESCRIPCIONES NO FARMACOLÓGICAS.</p></
 <a href="http://bloclaratera.blogspot.com/2010/07/2-prescripciones-en-de-salud-la-vida.html">2. De salud: la vida cotidiana</a><span style="font-style: italic;"> </span><br />
 <a href="http://bloclaratera.blogspot.com/2010/07/y-3-prescripciones-politicas-acciones.html">3. Políticas: acciones de gobierno</a></p>
 <div style="border: 3px solid #000000; padding: 20px;">
-<ul /><span style="font-style: italic;"><img class="alignleft" style="max-width: 800px;" src="{{ site.baseurl }}/assets/183_dempeus_f_quart.jpg" alt="" width="187" height="87" /></span></p>
+<ul /><span style="font-style: italic;"><span class="lost-image">[imagen perdida]</span></span></p>
 <ul>
 <li><span style="font-style: italic;">Este anuncio <strong>no</strong> es de un medicamento. </span></li>
 <li><span style="font-style: italic;">Lea detenidamente las instrucciones de uso.</span></li>
