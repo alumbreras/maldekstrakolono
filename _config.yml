@@ -20,7 +20,8 @@ exclude: [
   'vendor',
   'TODO.md',
   'tips',
-  '.sass-cache']
+  '.sass-cache',
+  'archivo']
 
 
 plugins:
