@@ -14,6 +14,7 @@ tags:
 - Lillo
 - Reforma Laboral
 - sindicatos
+temas: [trabajo, movimientos]
 ---
 <p>Nos envía la companya Àngels <a href="http://angelsmcastells.nireblog.com/post/2010/09/03/29-s-vaga-general-de-la-ciutadania">este manifiesto</a> para el 29-S promovido por las entidades sociales de Catalunya para que se adhieran las personas o entidades que lo deseen. Añado este vídeo de mi sindicato vecino que explica muy bien algunos de los puntos principales de la Reforma Laboral:</p>
 <div class="youtube-video" style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/zO2c7IZJDIg" frameborder="0" allowfullscreen></iframe></div>

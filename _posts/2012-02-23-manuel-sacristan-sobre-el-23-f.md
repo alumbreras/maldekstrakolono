@@ -8,6 +8,7 @@ categories:
 tags:
 - 23F
 - Manuel Sacristán
+temas: [estado-espanol, izquierda]
 ---
 <p>30 años después del 23F, más allá del relato oficial, no está nada claro cuál fue el papel de Juan Carlos I de España en en el desarrollo (antes, durante y <a href="http://www.publico.es/espana/420463/el-rey-mostro-comprension-y-simpatia-hacia-los-golpistas">después</a>) de los hechos. Algunos círculos incluso dudan del supuesto fracaso absoluto del golpe. El tiempo empieza a dar la perspectiva para analizar el 23-F con la suficiente distancia como para ver el cuadro entero. Pero ya unas semanas después del 23F, se convocó en el <a href="http://www.cetede.org/">CTD</a> (Centre de Treball i Documentació) de Barcelona un debate sobre la situación política post-golpe en el que participó, entre otros, <a href="http://es.wikipedia.org/wiki/Manuel_Sacrist%C3%A1n">Manuel Sacristán</a>. Desde luego, se trata de un análisis en caliente, pero la cercanía temporal y la lucidez del testimonio a lo mejor pueden servir para rescatar algunos elementos que el tiempo ha hecho olvidar. Especialmente el papel (en el sentido puro de obra de teatro) de la izquierda en todo este asunto que ya iniciaba el camino hacia lo que (no) es hoy.</p>
 <p>&nbsp;</p>

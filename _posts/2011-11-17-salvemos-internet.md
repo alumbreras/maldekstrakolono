@@ -9,6 +9,7 @@ tags:
 - censura
 - EEUU
 - internet
+temas: [internacional]
 ---
 <p>El congreso de EEUU está debatiendo una ley para censurar Internet a nivel mundial a base de listas negras. En el punto de mirar ya deben tener a Wikileaks, pero se me ocurren otros casos que se podrían ir dando con el tiempo y con la extensión de esta práctica: <a href="http://www.rebelion.org/">Rebelión</a>, <a href="http://www.voltairenet.org/es">Red Voltaire</a>, <a href="http://www.setmanaridirecta.info/">La Directa</a>, <a href="http://sirius.cat">Sirius</a>, <a href="http://www.diagonalperiodico.net/">Diagonal</a> o incluso cualquier blog que ellos consideren molesto. A medida que, a través de internet, se democratiza el acceso y la generación de contenidos hay quien está viendo en peligro su monopolio (des)informativo. Después de las campañas de Wikileaks, la Primavera Árabe o el 15M la amenaza ciudadana empieza a verse clara y el <em>establishment</em> está moviendo ficha.</p>
 <p>Por eso <a href="http://www.avaaz.org/es/">Avaaz</a> ha lanzado una campaña con esta carta para leer, firmar y difundir:</p>

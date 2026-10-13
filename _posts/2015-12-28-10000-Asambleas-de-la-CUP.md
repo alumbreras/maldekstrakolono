@@ -2,6 +2,7 @@
 layout: post
 title: 100000 asambleas de la CUP
 type: articulo
+temas: [catalunya, datos]
 ---
 
 <p align="center">

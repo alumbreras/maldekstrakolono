@@ -11,6 +11,7 @@ tags:
 - 15M
 - Ateneu Roig
 - Gerardo Pisarello
+temas: [badalona, movimientos]
 ---
 <p>El <a href="http://www.roigcultura.cat/">Ateneu Roig</a> de Badalona inaguró ayer las <a href="http://ateneu.roigcultura.cat/2011/10/jornades-de-formacio-15m-15o-de-la.html">#jornadas15M15O, "De la indignació a l'acció"</a>, una serie de charlas-debate sobre algunos de los temas más recurrentes en las asambleas de indignad@s y que intentarán introducir elementos de análisis y debate que nos ayuden a <em>afinar el tiro</em>. Intentaré recopilar algunas de las ideas o elementos surgidos en las charlas o en los debates posteriores y a medida que se vayan subiendo a la web las iré colocando aquí.</p>
 <p>La jornada de ayer se tituló "<strong>La reforma neoliberal de la constitución</strong>" y el ponente fue <a href="http://www.rebelion.org/mostrar.php?tipo=5&amp;id=Gerardo%20Pisarello&amp;inicio=0">Gerardo Pisarello</a>, profesor de Derecho Constitucional en la UB y miembro del <a href="http://observatoridesc.org/">Observatori de Drets Econòmics, Socials i Culturals</a> (DESC).</p>

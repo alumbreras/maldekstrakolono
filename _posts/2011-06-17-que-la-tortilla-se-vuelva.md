@@ -8,6 +8,7 @@ categories:
 - política
 tags:
 - Chile
+temas: [cultura]
 ---
 <p style="text-align: center;">La hierba de los caminos<br />
 la pisan los caminantes<br />

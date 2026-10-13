@@ -10,6 +10,7 @@ type: articulo
 categories:
 - política
 redirect_from: /política/2013/05/31/sindicatos-atrapados-en-los-sindicatos.html
+temas: [trabajo]
 ---
 
 **CCOO y UGT son sindicatos** [CT](http://www.kubidetik.com/ct-cultura-transicion/), 

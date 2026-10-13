@@ -7,6 +7,7 @@ categories:
 tags:
 - clases
 - salarios
+temas: [estado-espanol, marxismo]
 ---
 <div>Llevaba tiempo buscando datos sobre la distribución de la renta en España pero el asunto se me resistía. Al fin he encontrado esta gráfica, que me voy a tatuar para la próxima vez que oíga en la Cope, en el PP, o en boca de un currela engañado, que todos somos clase media:</p>
 <p style="text-align: center;"><a href="http://maldekstrakolono.net/wp-content/uploads/2010/01/salarios_espana.jpg"><img class="aligncenter" style="max-width: 800px;" src="{{ site.baseurl }}/assets/salarios_espana.jpg" alt="" width="645" height="467" /></a></p>

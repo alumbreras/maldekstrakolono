@@ -13,6 +13,7 @@ tags:
 - Sanidad Pública
 - Seguridad Social
 - Toni Barbarà
+temas: [estado-espanol]
 ---
 <p style="text-align: justify;"><strong>Título</strong>: En defensa y desarrollo del Sistema Nacional de Salud<br />
 <strong>Autor</strong>: <a href="http://persones.pcc.cat/2011/04/toni-barbara.html">Toni Barbarà</a> (médico y secretario de DEMPEUS per la Salut Pública)<br />

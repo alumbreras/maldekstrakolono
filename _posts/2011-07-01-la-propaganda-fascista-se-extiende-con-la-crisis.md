@@ -6,6 +6,7 @@ type: articulo
 redirect_from: /2011/07/01/la-propaganda-fascista-se-extiende-con-la-crisis/
 categories:
 - política
+temas: [extrema-derecha]
 ---
 <p>En tiempos de crisis hay ciertos discursos que se propagan como el cólera. Mirad el siguiente vídeo de un ciudadano cabreado:</p>
 <p style="text-align: center;">[youtube]http://www.youtube.com/watch?v=NxC9gP87y-o[/youtube]</p>

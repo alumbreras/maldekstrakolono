@@ -14,6 +14,7 @@ tags:
 - traductores
 - transporte
 - Zygmunt Bauman
+temas: [ecologismo]
 ---
 <p>(Perdón por el título pretencioso)</p>
 <p>El 50% de la energía primaria que se consume en España es para transporte. De ese 50%, el 95% es <span style="font-weight: bold;">petróleo</span>. Los países con más deuda externa, Grecia, Italia, Irlanda, Portugal y España, son los más dependientes del petróleo.</p>

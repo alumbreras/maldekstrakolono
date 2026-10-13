@@ -6,6 +6,7 @@ type: articulo
 categories:
 - filosofía
 redirect_from: /2009/05/05/tales-de-mileto-y-el-principio-de-todas-las-cosas/
+temas: [cultura]
 ---
 
 Durante los casi 10.000 años de estados y civilizaciones anteriores a los griegos, las respuestas al funcionamiento del mundo se habían dado por la vía fácil, la invención, que principalmente tomaba la forma de religión.

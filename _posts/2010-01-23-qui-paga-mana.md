@@ -7,6 +7,7 @@ categories:
 - política
 tags:
 - trabajo cgt
+temas: [trabajo]
 ---
 <p>Reproduzco un artículo que acabo de leer en el <a href="http://www.revistacatalunya.cat/cat112.pdf">número de Diciembre de 2009</a> de la revista <em>Catalunya</em> de la CGT porque creo que lo clava:</p>
 <p>Artículo original:<em> Qui paga mana: La solidaritat obrera i la professionalitat</em> (Vicent Martínez)</p>

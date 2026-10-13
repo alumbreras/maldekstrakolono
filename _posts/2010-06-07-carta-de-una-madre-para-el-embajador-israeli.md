@@ -9,6 +9,7 @@ categories:
 - política
 tags:
 - Israel Palestina flotilla
+temas: [internacional]
 ---
 <p>La madre de <strong>David Segarra</strong> le ha dedicado estas líneas al cada vez más querido embajador de Israel en España, <strong>Raphael Schutz</strong>:</p>
 <blockquote><p>Señor Raphael Schutz, embajador de Israel en España: soy la madre de David Segarra Soler (fotógrafo que iba en el convoy atacado por el Ejército israelí en aguas del Mediterráneo). Son las cinco de la mañana del 2 de junio, amanece en Valencia y acabo de enterarme de la liberación de todos los secuestrados en territorio israelí, entre ellos, mi hijo. Debo confesarle que en estos momentos no siento ningún odio ni hacia usted ni hacia el Estado que representa, pero no por un motivo altruista, ni noble, ni religioso, sino por puro egoísmo: el odio destruye. Y un buen ejemplo de ello lo está dando su país al mundo, un país nacido del sentimiento de culpabilidad colectiva de una Europa cobarde que no supo defender a sus ciudadanos judíos de otro odio monstruoso y autodestructivo, el odio nazi. Parece, sin embargo, que la historia no le ha enseñado nada.</p>

@@ -9,6 +9,7 @@ tags:
 - fascismo
 - Grecia
 - nazismo
+temas: [extrema-derecha, internacional]
 ---
 <p>Amanecer Dorado ha logrado 21 diputados en las últimas elecciones generales griegas. Un partido neonazi con un discurso no muy diferente del que se extiende en el resto de Europa:</p>
 <blockquote><p>"Nos han invadido y nos quitan los trabajos. Si conseguimos el poder, deportaremos a todos inmediatamente y sellaremos de nuevo las fronteras con minas, vallas eléctricas y más guardias".</p></blockquote>

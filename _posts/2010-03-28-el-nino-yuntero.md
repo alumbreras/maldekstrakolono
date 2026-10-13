@@ -9,6 +9,7 @@ tags:
 - Miguel Hernández
 - poesía
 - política
+temas: [cultura]
 ---
 <p>Carne de yugo, ha nacido<br />
 más humillado que bello,<br />

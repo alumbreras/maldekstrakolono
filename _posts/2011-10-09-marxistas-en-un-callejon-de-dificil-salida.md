@@ -10,6 +10,7 @@ categories:
 tags:
 - Althusser
 - marxismo
+temas: [marxismo]
 ---
 <p><em>Un artículo interesante de<a href="http://apuigsole.blogspot.com/2011/10/marxistas-en-un-callejon-de-dificil.html"> Antoni Puig Solé</a>. </em></p>
 <hr size="1" noshade="noshade" />

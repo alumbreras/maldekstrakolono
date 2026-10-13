@@ -8,6 +8,7 @@ tags:
 - catalunya
 - españa
 - política
+temas: [estado-espanol, catalunya]
 ---
 
 Un, dos, tres, por 25 pesetas, dígame alguna falacia del mismo tipo que:

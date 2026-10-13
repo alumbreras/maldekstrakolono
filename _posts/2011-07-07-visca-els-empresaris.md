@@ -11,6 +11,7 @@ tags:
 - empresarios
 - La Trinca
 - Rajoy
+temas: [cultura, trabajo]
 ---
 <p style="text-align: center;">Venim a produïr-vos la plusvàlua<br />
 cofois de tenir una amo tan senyor<br />

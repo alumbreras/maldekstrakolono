@@ -10,6 +10,7 @@ categories:
 tags:
 - Espartaco
 - IU
+temas: [izquierda]
 ---
 <p>...pues a quién a a ser, a los suyos:</p>
 <p style="text-align: center;">[youtube]http://www.youtube.com/watch?v=aS9ua-C5V-M[/youtube]</p>

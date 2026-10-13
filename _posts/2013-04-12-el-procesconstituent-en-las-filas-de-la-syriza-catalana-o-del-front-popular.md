@@ -4,6 +4,7 @@ title: 'El #procesconstituent en las filas de la "Syriza catalana" (o del Front 
 type: articulo
 categories:
 - política
+temas: [catalunya, izquierda]
 ---
 <p>Este miércoles, en el programa  <a href="http://www.tv3.cat/videos/4530197/Teresa-Forcades-i-Arcadi-Oliveres-entren-en-politica">Singulars</a>, <a href="http://ca.wikipedia.org/wiki/Arcadi_Oliveres_i_Boadella">Arcadi Oliveres</a> y <a href="http://ca.wikipedia.org/wiki/Teresa_Forcades_i_Vila">Teresa Forcades</a> presentaron su iniciativa <a href="http://www.procesconstituent.cat/">procesconstituent.cat</a> con la intención de iniciar un proceso unitario que desemboque, proceso constituyente mediante, en una República Catalana independiente -de España y de Alemania- creada sobre unas bases fuertemente sociales y populares.</p>
 <p>En twitter los comentarios y opiniones se vertían (y todavía se vierten) sobre el hashtag #procesconstituent. Este es el grafo de los usuarios que utilizaron el hashtag durante y en las horas siguientes al programa.</p>

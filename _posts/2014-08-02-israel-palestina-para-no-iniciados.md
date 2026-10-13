@@ -9,6 +9,7 @@ type: articulo
 categories:
 - política
 redirect_from: /2014/08/02/israel-palestina-para-no-iniciados/
+temas: [internacional]
 ---
 
 Dado que aún quedan reductos de gente algo confundida con el tema de Palestina 

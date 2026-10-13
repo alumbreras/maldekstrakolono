@@ -9,6 +9,7 @@ tags:
 - Albert Rivera
 - CUP
 - MDT
+temas: [catalunya, datos]
 ---
 <p><strong>Uno:</strong></p>
 <p><strong> </strong>Toda encuesta bien hecha tiene dos patas bien diferenciadas. La primera, <strong>científica</strong>, incluye la parte de estadística necesaria para que sea significativa y sin sesgos. Esto incluye preguntar más en zonas más pobladas y hacerlo a un número de personas suficientes como para garantizar una probabilidad de error mínima. Es importante que toda encuesta incluya su ficha técnica, es decir, la explicación de cómo se ha llevado a cabo esta parte. La segunda, más <strong>subjetiva</strong>, está en decidir qué preguntas se hacen y qué posibles respuestas se incluyen. Cuando se hacen trampas suelen ser en esta parte.</p>

@@ -5,6 +5,7 @@ type: manifiesto
 categories:
 - política
 redirect_from: /maldekstrakolono/política/2012/06/21/por-un-referendum-sobre-el-plan-de-ajuste.html
+temas: [estado-espanol, izquierda]
 ---
 <p><strong>Título: </strong><em>¡Referéndum sobre el plan de ajuste YA! ¡No a un gobierno de unidad nacional!<br />
 </em><strong>Autor:</strong><em> <em><em>Partido Obrero Revolucionario (Cuarta Internacional).<a href="http://es.wikipedia.org/wiki/Josep_Fontana"></a></em><a href="http://es.wikipedia.org/wiki/Josep_Fontana"><br />

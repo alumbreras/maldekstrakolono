@@ -11,6 +11,7 @@ tags:
 - pp
 - ppsoe
 - psoe
+temas: [estado-espanol, trabajo]
 ---
 <p>¿Y si en algun momento el PPSOE firmó unos acuerdos como el 
 <a href="http://es.wikipedia.org/wiki/Consenso_de_Washington">Consenso de Washington</a> 

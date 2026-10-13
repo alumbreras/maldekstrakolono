@@ -9,6 +9,7 @@ tags:
 - armas
 - Marruecos
 - Sahara
+temas: [internacional]
 ---
 <blockquote>Una semana después de que el campamento de protesta saharaui quedara arrasado tras la intervención de las fuerzas de seguridad marroquíes, la crisis continúa.</p>
 <p>Ante la seriedad y la violencia de los sucesos en el Sáhara Occidental, le hemos pedido al Gobierno español que suspenda preventivamente las ventas autorizadas de armas a Marruecos. Y lo hemos hecho porque nos preocupa que el ejército marroquí pueda estar utilizando armas de procedencia española para cometer violaciones de los derechos humanos.</p>

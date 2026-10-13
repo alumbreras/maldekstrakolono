@@ -9,6 +9,7 @@ categories:
 - política
 tags:
 - Salud
+temas: [estado-espanol]
 ---
 <blockquote>¿Cuantas veces he tenido que callar ante un enfermo que padecía una enfermedad<br />
 tan seria como el paro, y cuya solución cierta y etiológica hubiera sido un contrato<br />

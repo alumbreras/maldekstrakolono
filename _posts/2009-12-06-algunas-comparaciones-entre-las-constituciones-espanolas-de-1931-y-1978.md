@@ -10,6 +10,7 @@ categories:
 tags:
 - política
 - república
+temas: [estado-espanol]
 ---
 Algunas diferencias entre la Constitución de la II República, y la constitución del <strike>tardo</strike> post-franquismo:
 

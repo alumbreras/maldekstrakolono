@@ -10,6 +10,7 @@ tags:
 - irak
 - pacifismo
 - política
+temas: [internacional]
 ---
 <p>" El racismo es un arma vital empleada por este gobierno. Es un arma más importante que un rifle, que un tanque, que un bombardero o que un barco acorazado. Es más destructiva que el proyectil de artillería o un rompe bunker o un misil Tomahawk. Pero estas armas fabricadas y en posesión de este gobierno son inofensivas mientras haya personas que se nieguen a usarlas.</p>
 <p>Ellos entienen que su riqueza depende de la habilidad en convencer a la clase obrera a que mueran para controlar el mercado de otro país, y de convencernos a que matemos o muramos se basa en su habilidad de hacernos pensar de que, de alguna forma, somos superiores. Genre trabajadora y pobre de ese país es enviada a matar a gente trabajadora y pobre de otro país, para hacer a los ricos más ricos. Sin en racismo, los soldados se darían cuenta de que tienen más en común con el pueblo iraquí de lo que tienen en común con los billonarios que nos envían a la guerra.</p>

@@ -9,5 +9,6 @@ categories:
 tags:
 - comunismo
 - Giorgio Gaber
+temas: [cultura, marxismo]
 ---
 <p style="text-align: center;">[youtube]http://www.youtube.com/watch?v=REfik0g6LLw[/youtube]</p>

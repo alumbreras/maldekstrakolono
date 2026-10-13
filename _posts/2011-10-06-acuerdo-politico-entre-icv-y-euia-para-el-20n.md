@@ -10,6 +10,7 @@ tags:
 - euia
 - icv
 - IU
+temas: [izquierda, catalunya]
 ---
 <p>Se supone que si ICV se fuera del grupo parlamentario de "IU-CHA-EUiA-Batzarre-Federación Los Verdes-etc", los votos (y todo lo que ello implica) se quedarían en el grupo original. Sin embargo parece que aún hay huecos y desgraciadamente algunos líderes de ICV tienen experiencia en la práctica de "<em>romevazos</em>".</p>
 <p>Independientemente de eso, y aunque en algún momento determinado desee cortarle la cabeza a alguno de estos elementos, me reitero en lo de siempre: necesitamos una coalición (no sólo de ICV y EUiA) con unidad y diálogo <strong>entre las bases</strong> y con determinación para tumbar a todo aquel <strong>dirigente de cualquiera de las organizaciones</strong> que se aparte del camino marcado por éstas por incompetencia, avaricia, cegación, estupidez o amor por su poltrona. Ejem. Y para evitar esto último empecemos a hablar de<strong> cargos rotativos</strong>.</p>

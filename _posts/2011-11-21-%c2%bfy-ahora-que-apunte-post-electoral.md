@@ -15,6 +15,7 @@ tags:
 - IU
 - izquierdas
 - RG
+temas: [izquierda]
 ---
 <p>Pasado el periodo quincenal de morderse la lengua (más o menos) disciplinadamente, es momento de empezar a hablar de asambleas, congresos, refundaciones y de izquierda en general. IU ha salido, por fin, de las posiciones de descenso, el aterrizaje de Equo ha resultado un fracaso espectacular, la coalición ICV-EUiA respira, y por el norte Amaiur nos alimenta la esperanza de que las izquierdas aún tienen mucho que decir en esta guerra. De fondo, alcanza el poder el que posiblemente es el presidente de gobierno más burro desde los tiempos de aquellos reyes que eran víctimas genéticas de su propia endogamia familiar.</p>
 <p>Pero en cualquier caso por la izquierda tenemos trabajo pendiente. Comparto aquí algunos de los aspectos que me preocupan:</p>

@@ -6,6 +6,7 @@ type: minor
 categories:
 - música
 - política
+temas: [cultura]
 ---
 <p>Con las plazas de los pueblos calientes y la temperatura en aumento, servidor inaugura para sí mismo este curso político con una canción popular y su versión <em>Reincidente</em>.</p>
 <p style="text-align: center;">En la plaza de mi pueblo<br />

@@ -7,6 +7,7 @@ categories:
 - política
 tags:
 - plenos, badalona
+temas: [badalona]
 ---
 <div style="text-align: justify;" xmlns="http://www.w3.org/1999/xhtml">Pues sí amigos, tras 27 años sin pisar el ayuntamiento, y el Martes por fín me desvirgo. En la calle, mediana manifestación de la plataforma 'La crisi que la paguin ells'. Dentro, los grupos parlamentarios discutiendo en qué <strike>invertir</strike> gastar los 38 millones de euros que, de los 8.000 disponibles, ZP ha otorgado a Badalona. Las sillas para expectadores están casi todas ocupadas, pero por suerte hay alguna libre y me puedo sentar.</p>
 <p>Jordi Serra (PSC alcalde), Ferran Falcó (CiU), y un par de desconocidos más presiden la sala. A ambos lados, los grupos municipales. Qué emoción, pero si está Garcia-Albiol!!! Pensaba que ya no seguía por aquí, tras el ascenso que el PP le concedió por sus méritos <a href="http://es.youtube.com/watch?v=wplK0Dp2dGk">populistas</a> y <a href="http://es.youtube.com/watch?v=JkG3zWCDuko">racistas</a>.</p>

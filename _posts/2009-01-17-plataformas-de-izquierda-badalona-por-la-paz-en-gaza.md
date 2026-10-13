@@ -11,6 +11,7 @@ tags:
 - badalona
 - pacifismo
 - política
+temas: [badalona, internacional]
 ---
 <div style="text-align: justify;" xmlns="http://www.w3.org/1999/xhtml">CNT, EUiA, ICV, ERC, CUP, La Mussara, Rojas y Rojas, alguna asociacion de vecinos y alguna asociaciones y personas mas fueron los que ayer intentamos constituir, en Badalona, una <b>plataforma por la paz en Palestina</b>.</p>
 <p>La historia empieza cuando ICV-EUiA realiza una convocatoria por el fin del genocidio en Gaza en frente del Ayuntamiento de Badalona. Hara unas dos semanas. A la convocatoria se sumaron algunas asociaciones, y resulto en una concentracion de quizas unas 200 personas. Tras la concentracion, ser comenta si las organizaciones estarian dispuestas a formar, en Badalona, una plataforma por la paz en Gaza. Todos se apuntan, y se acuerda quedar el Jueves siguente para hablar de su constitucion y, si la cosa ve bien, constituirla.</p>

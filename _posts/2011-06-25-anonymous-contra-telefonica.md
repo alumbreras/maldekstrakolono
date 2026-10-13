@@ -9,6 +9,7 @@ tags:
 - César Alierta
 - Emilio Botín
 - Telefónica
+temas: [estado-espanol]
 ---
 <p>Para los no familiarizados con las caras del Ibex-35, el señor que habla en el vídeo que viene a continuación es César Alierta. Su padre: alcalde franquista y presidente del Real Zaragoza; su hermano: dirigente y senador del PP; su cuñado: ex-alcalde del PSOE. Con este <a href="http://www.agitacion.org/diario/aragon/1348-sabes-quienes-son-los-culpables-aragon-5-cesar-alierta.html">pedigrí</a> era de esperar que el niño acabase bien colocado en algún sitio como, por ejemplo, la presidencia de Telefónica. ¿Meritocracia? Claro, claro.</p>
 <p>Telefónica es una empresa especializada en EREs y con un negocio subsidiario de prestación de servicios de telecomunicaciones a través de una red pública que le regaló el Estado en un acto de bondad neoliberal. El último proyecto de esta multinacional incluye 6.500 despidos que pretendían que pagara el Estado. Como la propuesta no ha sido bien recibida no por mala sino por descarada, la empresa ha vuelto a las prácticas clásicas de <a href="http://www.publico.es/dinero/379447/telefonica-pagara-el-ere-que-vuelve-a-reducir-a-6-500">presionar a la baja las indemnizaciones</a>.</p>

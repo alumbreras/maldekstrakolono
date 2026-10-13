@@ -12,6 +12,7 @@ tags:
 - censura
 - huelga general
 - Joan Margarit
+temas: [cultura, trabajo]
 ---
 <p>En negro el poema original de Joan Margarit, <a href="http://vimeo.com/15251658">pregonero de las fiestas de la Mercè de este año</a>. En <span style="font-weight: bold;">negrita</span> los nuevos cambios introducidos a <span style="font-style: italic;">petición</span> -es de suponer- del Ayuntamiento de Barcelona, y que constan en el texto repartido por el consistorio. En <span style="font-weight: bold; text-decoration: line-through;">negrita tachada</span> los cambios que el Ayuntamiento puso pero el poeta no dijo, y en <span style="font-weight: bold; color: #cc0000;">rojo</span> lo que el poeta dijo, respetando el original y burlando al inquisidor.<span style="color: #cc0000;"> </span></p>
 <blockquote><p><span style="font-weight: bold;">LA LLIBERTAT</span><br />

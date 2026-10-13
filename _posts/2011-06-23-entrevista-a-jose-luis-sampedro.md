@@ -10,6 +10,7 @@ categories:
 tags:
 - 15M
 - Jose Luís Sampedro
+temas: [movimientos]
 ---
 <p>Iñaki Gabilondo entrevista a Jose Luís Sampedro para hablar sobre el 15M:</p>
 <p style="text-align: center;">[youtube]http://www.youtube.com/watch?v=eIZrcC3IYyU[/youtube]</p>

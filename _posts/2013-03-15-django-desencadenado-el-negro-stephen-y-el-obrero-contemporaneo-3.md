@@ -6,6 +6,7 @@ redirect_from: /2013/03/15/django-desencadenado-el-negro-stephen-y-el-obrero-con
 categories:
 - cine
 - política
+temas: [cultura, marxismo]
 ---
 <p><a href="http://albertolumbreras.com/blog/wp-content/uploads/2013/02/Django-Unchained-Poster-Jackson.jpeg"><img class="size-medium wp-image-1971 alignleft" style="margin-left: 0px; margin-right: 10px;" title="Django-Unchained-Poster-Jackson" src="{{ site.baseurl }}/assets/Django-Unchained-Poster-Jackson-184x300.jpeg" alt="" width="184" height="300" /></a>La última película de Quentin Tarantino, <em>Django desencadenado</em>, se desarrolla en el contexto previo a la Guerra de Secesión de los EE.UU. Narra las penas y hazañas de un esclavo liberado y su compañero, un blanco alemán que se gana la vida como cazarecompensas.</p>
 <p>Al final de sus peripecias, Django y su socio acaban en Candyland, una plantación de esclavos regida por un blanco (Leonardo Di Caprio) que tiene, como mayordomo, a un veterano negro: Stephen (Samuel L. Jackson). Celoso guardián de los intereses de su amo y asimilando su ideología de clase dominante, Stephen entra en escena gritando con los ojos desorbitados "¡un negro en un caballo!" ante la escandalosa visión de lo que parecía exactamente eso: un negro transgrediendo los roles establecidos no ya por los blancos, sino por el sentido común.</p>

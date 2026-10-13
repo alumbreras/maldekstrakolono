@@ -15,6 +15,7 @@ tags:
 - nazismo
 - pp
 - Rajoy
+temas: [estado-espanol, extrema-derecha]
 ---
 <p>Los sectores más recalcitrantes de la derecha aún no han entendido que, 
 cuando algunos defendemos <em>igualdad </em>entre seres humanos, 

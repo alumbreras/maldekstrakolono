@@ -9,6 +9,7 @@ tags:
 - Francia
 - Pentecostés
 - trabajo forzado
+temas: [francia, trabajo]
 ---
 
 En el nombre del Padre, del Hijo y del Espíritu Santo.

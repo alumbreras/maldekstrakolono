@@ -6,6 +6,7 @@ type: articulo
 categories:
 - badalona
 - política
+temas: [badalona, extrema-derecha]
 ---
 <p>Un poquito más de  [r|n]acismo señora,  [r|n]acismo y populismo señora, regalo la octavillas, vamos señora que me los quitan de las manos, me las quitan de las manos!</p>
 <p><img style="max-width: 800px;" src="{{ site.baseurl }}/assets/Captura-de-pantalla-2010-09-10-a-las-18.45.03.png" alt="" width="640" height="320" /></p>

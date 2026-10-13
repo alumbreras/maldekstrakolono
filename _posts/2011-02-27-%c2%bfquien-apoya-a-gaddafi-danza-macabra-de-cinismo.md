@@ -19,6 +19,7 @@ tags:
 - TV3
 - Wikileaks
 - Zapatero
+temas: [internacional]
 ---
 <p>Entre ayer y hoy me ha llegado de dos personas distintas que "<span style="font-weight: bold;">Fidel apoya a Gaddafi</span>". La noticia la han oído en la <span style="font-weight: bold;">Cadena Ser</span> y en <span style="font-weight: bold;">TV3</span> respectivamente.</p>
 <p>No suelo leerme los artículos de Fidel Castro, pero da la casualidad que sus dos artículos sobre Libia sí los había leído. Estos párrafos son del<a href="http://www.cubadebate.cu/reflexiones-fidel/2011/02/22/el-plan-de-la-otan-es-ocupar-libia/"> primer artículo</a> sobre Libia:</p>

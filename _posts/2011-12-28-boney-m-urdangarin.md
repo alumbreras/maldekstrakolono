@@ -10,6 +10,7 @@ categories:
 - política
 tags:
 - Urdangarín
+temas: [cultura, estado-espanol]
 ---
 <p style="text-align: center;">Era campeón de balonmano<br />
 aunque no pudo en las Olimpiadas de Seul<br />

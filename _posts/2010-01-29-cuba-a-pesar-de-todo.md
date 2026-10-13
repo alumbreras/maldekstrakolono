@@ -7,6 +7,7 @@ categories:
 - política
 tags:
 - cuba
+temas: [internacional]
 ---
 <p>15 de Marzo de 1952. Fulgencio Batista, ex-presidente cubano, da un golpe de estado contra el gobierno democrático del Partido Auténtico. Durante los años que siguen al golpe los niveles de saqueo y represión se acentúan. En los años cincuenta EEUU controla la mayor parte de los servicios públicos, minas, ranchos, refinación de petróleo, tabaco y azúcar. Cinco grandes compañías nortamericanas se reparten el 70% del azucar, que es cultivado por un proletariado cubano sin tierra. Cuba, dijo un historiador, no es más independiente que Long Island.</p>
 <p>De la mano de Marvin Lansky, capo de la mafia y amigo íntimo de Batista, La Habana se convierte en un importante centro de operaciones de la mafia estadounidense. El narcotráfico y el juego entran con fuerza, y la ciudad se plaga de casinos. En alguno de esos locales <a href="http://www.lossoprano.tv/historia-de-la-mafia-en-usa/la-mafia-en-cuba.html">Frank Sinatra ameniza las veladas</a> cantando "My Way", pagando así los favores recibidos. El cine retraria aquella época en la primera parte del El Padrino II.</p>

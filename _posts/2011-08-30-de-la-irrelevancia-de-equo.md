@@ -10,6 +10,7 @@ tags:
 - euia
 - icv
 - IU
+temas: [izquierda, ecologismo]
 ---
 <p>La aparición de Equo en el panorama político no ha aportado, por ahora, más que debates estériles y dolores de cabeza para resolver un nudo gordiano IU-Equo de difícil desenredo.</p>
 <p><strong>IU-Equo: ¿<strong>separados, </strong>juntos o revueltos?</strong></p>

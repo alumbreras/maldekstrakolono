@@ -9,6 +9,7 @@ tags:
 - prostitución
 - universidad
 - violencia
+temas: [movimientos, catalunya]
 ---
 
 Barcelona se  llenó ayer de 70.000 estudiantes, profesores y PAS en un clamor que no se veía desde las protestas contra la LOU. La gente salió a la calle porque los recortes en educación precarizan las condiciones, los contratos, los salarios, y nos empujan un paso atrás, más cerca de tiempos donde [la educación se reservaba para las clases altas](http://www.aporrea.org/educacion/a112586.html).

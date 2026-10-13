@@ -12,6 +12,7 @@ tags:
 - Inflexió
 - ocupaciones
 - Salut
+temas: [movimientos]
 ---
 <p>Receta para la ocupación de un CAP a la catalana:</p>
 <blockquote><p>* 1 CAP vacío construído en diciembre de 2010 y sin estrenar, nou de trinca.<br />

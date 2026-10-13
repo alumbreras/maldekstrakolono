@@ -9,6 +9,7 @@ tags:
 - derechas
 - ideologías
 - izquierdas
+temas: [izquierda]
 ---
 <p>&nbsp;</p>
 <p style="text-align: center;"><a href="http://albertolumbreras.com/wp-content/uploads/2011/06/2011-05-18-ni-izquierdas-ni-derechas.gif"><img class="aligncenter size-large wp-image-833" title="2011-05-18-ni-izquierdas-ni-derechas" src="{{ site.baseurl }}/assets/2011-05-18-ni-izquierdas-ni-derechas-739x1024.gif" alt="" width="600" height="831" /></a></p>

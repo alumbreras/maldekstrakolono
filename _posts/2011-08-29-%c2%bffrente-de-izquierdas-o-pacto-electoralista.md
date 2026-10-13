@@ -11,6 +11,7 @@ tags:
 - Frente de Izquierdas
 - IU
 - reflexiones
+temas: [izquierda]
 ---
 <h2><strong><span style="font-size: 13px;">Escrito por Alberto Arregui, miembro de la Presidencia Federal Ejecutiva de IU.<br />
 </span></strong><span style="font-size: 13px; font-weight: normal;">Martes, 23 de Agosto de 2011</span></h2>

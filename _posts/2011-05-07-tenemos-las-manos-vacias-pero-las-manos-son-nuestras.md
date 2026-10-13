@@ -9,6 +9,7 @@ tags:
 - campañas
 - Eduardo Galeano
 - IU
+temas: [izquierda]
 ---
 <p>Dejando aparte a todo el santoral teórico-práctico del marxismo, si 
 hay un escritor que toda persona con el corazón a la izquierda 

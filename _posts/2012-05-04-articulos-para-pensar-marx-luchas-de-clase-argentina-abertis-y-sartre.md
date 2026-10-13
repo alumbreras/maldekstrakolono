@@ -6,6 +6,7 @@ categories:
 - política
 tags:
 - recortes
+temas: [marxismo]
 ---
 <p>Una nota a pie de página en el primer libro de <em>El Capital</em>:</p>
 <blockquote><p>“Los economistas tienen un modo curioso de proceder. Para ellos, no hay más que dos clases de instituciones: las artificiales y las naturales. Las instituciones del feudalismo son instituciones artificiales; las de la burguesía, naturales. En esto se parecen a los teólogos, que clasifican también las religiones en dos categorías. <strong>Toda religión que no sea la suya propia, es invención humana: la suya, en cambio, revelación divina</strong>. Así, habrá podido existir una historia, pero ésta termina al llegar a nuestros días.” <em>(Carlos Marx, Misére de la Philosophie. Reponse á la philosophie de la Misére par M. Proudhon, 1847, p. 113).</em></p></blockquote>

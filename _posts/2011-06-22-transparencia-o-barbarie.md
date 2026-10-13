@@ -13,6 +13,7 @@ tags:
 - badalona
 - Ernest Benach
 - transparencia
+temas: [badalona, movimientos]
 ---
 <p>Hace ya ocho años que el gobierno se comprometió a elaborar una Ley de la Transparencia y Acceso a la Información Pública. El año pasado, seis años más tarde, <a href="http://www.publico.es/espana/356578/el-gobierno-entierra-la-ley-de-transparencia">el mismo gobierno decidió enterrar el borrador</a> que estaba en marcha por considerarlo una cuestión no prioritaria.</p>
 <p>En mi pueblo, sin ir más lejos, nadie tiene claro lo que cobran los concejales, no podemos ver los contratos de las adjudicaciones por concurso público y ni siquiera tenemos un acceso sencillo a los presupuestos municipales. Y digo "sencillo" porque la gesta incluye redactar una instancia y acudir físicamente a las dependencias del ayuntamiento en un periodo de quince días anterior a su aprobación definitiva. O al menos así fue hasta el año pasado, cuando la recién creada plataforma <a href="http://badalonatransparent.org/">Badalona Transparent</a>, la CUP y EUiA pusieron en evidencia al ayuntamiento: horas más tarde de que el gobierno municipal negara a los dos primeros la posibilidad técnica de colgar un archivo pdf que cabía en un lápiz USB, EUiA, que días antes y por primera vez había conseguido los presupuestos en digital, colgó el anhelado documento en su propia web.</p>

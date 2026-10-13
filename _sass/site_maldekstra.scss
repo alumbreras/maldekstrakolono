@@ -489,3 +489,46 @@ blockquote {
 .recorte-label a {
   color: gray;
 }
+
+/* Topic selector above the post lists, and topics under each post */
+.temas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1.5rem;
+  font-family: arial, sans-serif;
+  font-size: 0.7rem;
+}
+
+.temas a {
+  padding: 0.15rem 0.6rem;
+  border: 1px solid #ddd;
+  border-radius: 1rem;
+  color: #666;
+  text-decoration: none;
+}
+
+.temas a:hover {
+  border-color: #999;
+  color: #000;
+}
+
+.temas a.active {
+  border-color: #b10000;
+  color: #b10000;
+}
+
+.temas a[hidden], ul.posts li[hidden] {
+  display: none;
+}
+
+.post-temas {
+  margin-top: 2rem;
+  font-family: arial, sans-serif;
+  font-size: 0.8rem;
+  color: gray;
+}
+
+.post-temas a {
+  color: #666;
+}

@@ -9,6 +9,7 @@ categories:
 tags:
 - Manuel Delgado
 - violencia
+temas: [internacional, marxismo]
 ---
 <p>Hay tres tipos de capitalistas (o de personas pro-capitalismo): los que intentan que el sistema no genere contradicciones (capitalista con corazón o con remordimientos), los que no lo intentan pero lo simulan (capitalista clásico o cerdo-capitalista) y los que se lo creen (trabajador común entre crisis). Crean lo que crean e intenten lo que intenten, la contradicción en el sistema viene de fábrica, y mientras haya contradicción habrá conflicto.</p>
 <p>Las reciente explosión de violencia en Inglaterra no es más que una repetición de la secuencia que se acentua en tiempos de crisis. Lo sorprendente es la ceguera o el cinismo de aquellos que, siendo verdugos, se hacen pasar por víctimas acusando a esos jóvenes ingleses de criminales descerebrados. Y es que hay que tapar las vergüenzas, la pobreza y la desesperación de los que se han quedado fuera del sistema. De nuevo ninguno de estos personajes plantea si la solución no será mejorar las condiciones de vida de los habitantes de esos barrios.</p>

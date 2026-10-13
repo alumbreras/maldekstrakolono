@@ -7,6 +7,7 @@ categories:
 tags:
 - I+D
 - investigación
+temas: [trabajo]
 ---
 <div>Como investigador recortado y en breves semanas exiliado, apoyo esta convocatoria.</div>
 <blockquote>

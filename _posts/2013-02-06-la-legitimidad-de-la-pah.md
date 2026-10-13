@@ -4,6 +4,7 @@ title: La legitimidad de la PAH
 type: articulo
 tags:
 - PAH
+temas: [movimientos]
 ---
 
 <p>Hace un año la Plataforma de Afectados por la Hipoteca (<strong>PAH)</strong> inició una campaña de recogida de firmas para pedir la dación en pago mediante uno de los pocos mecanismos de participación ciudadana que se permiten en este país: la <strong>Iniciativa Legislativa Popular</strong> (ILP). La campaña se extendió como la pólvora por todo el territoro del Reino de España, también conocido como Estado Español. Además de los propios activistas de la(s) PAH, no había apenas Asociación de Vecinos, ONG, plataforma o partido de izquierdas (de izquierdas) que no pusiera un chiringuito en la calle para recoger las firmas. Las firmas se recogieron meses antes de la fecha límite impuesta por la ley, y por fin, ayer, la propuesta se pudo llevar al Congreso con el aval de un millón de firmas. El doble de las necesarias.</p>

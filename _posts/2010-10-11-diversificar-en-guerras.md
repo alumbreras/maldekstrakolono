@@ -7,6 +7,7 @@ category: política
 tags:
 - guerras
 - Le Monde Diplomatique
+temas: [internacional]
 ---
 <p style="text-align: justify;">Diversificar es importante.</p>
 <p style="text-align: justify;">Lo saben muy bien el presidente de la CEOE, ese titán de los negocios <a href="http://www.publico.es/dinero/301579/diaz-ferran-arruina-tambien-su-aseguradora">capaz de hundir dos empresas en dos sectores</a>.  Y lo saben también en la bolsa, donde los inversores se cubren las  espaldas especulando en mercados lo más incorrelados posible. Y como los  unos son amigos de los otros, -a veces incluso son los mismos- lo saben  también los <em>brokers</em> de la guerra que aprovechan los mercados -<em>nichos</em> de mercado, que dirían ellos- que la era post-colonial ha creado  después de la Segunda Guerra Mundial, vendiendo armas a los países  pobres que se matan con las armas fabricadas en los países ricos.</p>

@@ -10,6 +10,7 @@ tags:
 - comunismo
 - euia
 - Partido
+temas: [marxismo, izquierda]
 ---
 <p><strong>Título</strong>: Dilemas del comunismo a caballo entre dos épocas<br />
 <strong><strong>Autores</strong>: </strong>Joaquin Miras, Joan Tafalla<strong><br />

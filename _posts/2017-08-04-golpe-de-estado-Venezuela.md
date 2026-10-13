@@ -5,6 +5,7 @@ summary: No hace falta ser fan de Maduro para ver la jugada que están tejiendo 
 thumbnail: thumbnail-venezuela-mascara-gas_squared.jpg
 image: thumbnail-venezuela-mascara-gas_squared.jpg
 type: articulo
+temas: [internacional]
 ---
 
 El periodo de Hugo Chávez expulsó del centro del poder político a las oligarquías que habían controlado el país durante décadas. Incluso Aznar y REPSOL intentaron un golpe de estado en 2002, y nunca pararon de asediarlo.

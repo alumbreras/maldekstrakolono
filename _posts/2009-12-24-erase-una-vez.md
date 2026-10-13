@@ -9,6 +9,7 @@ categories:
 - política
 tags:
 - política
+temas: [badalona]
 ---
 <div>
 <div style="text-align: center;">Érase una vez</div>

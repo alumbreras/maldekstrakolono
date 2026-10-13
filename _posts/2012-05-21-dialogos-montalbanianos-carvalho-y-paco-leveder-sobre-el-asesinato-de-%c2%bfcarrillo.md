@@ -5,6 +5,7 @@ title: 'Diálogos montalbanianos: Carvalho y Paco Leveder sobre el asesinato de.
 type: recorte
 category: política
 redirect_from: /2012/05/21/dialogos-montalbanianos-carvalho-y-paco-leveder-sobre-el-asesinato-de-¿carrillo/
+temas: [izquierda, cultura]
 ---
 <p>En 1981 el PSUC hacía un repaso sobre su papel -y el del PCE- en la Transición. Las diferencias en el análisis, la virulencia con la que el debate fue desarrollándose, y la intromisión de<strong> Santiago Carrillo</strong> desde el PCE, que no quiso aceptar un PSUC que le llevara la contraria, acabaron desembocando en la expulsión de algunos de sus miembros destacados y la traumática ruptura del partido en dos. [Ruptura con varios intentos de costura y que hoy en día explica la existencia de la, para algunos impronunciable, coalición ICV-EUiA]</p>
 <p>La publicación de “<strong>Asesinato en el Comité Central</strong>” (Manuel Vazquez Montalbán, 1981) en plena crisis no fue bien recibida por algunos sectores del PCE, especialmente por el propio Santiago Carrillo, que entendieron -posiblemente bien- que la rima de <strong>Garrido</strong>, nombre del ficticio secretario general asesinado, con <strong>Carrillo</strong>, no era para nada casual. Más tarde <a href="http://www.vespito.net/mvm/prolasescarr.html">Carrillo escribiría un épilogo</a> para una posterior edición.</p>

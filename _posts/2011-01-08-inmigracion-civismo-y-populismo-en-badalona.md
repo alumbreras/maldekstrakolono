@@ -17,6 +17,7 @@ tags:
 - inmigración
 - Josep Pera
 - PSC
+temas: [badalona]
 ---
 <p>Vayamos por partes. Los <em>nouvinguts</em> (para algunos siempre serán, <em>seremos</em>, inmigrantes) tienen los mismos derechos y deberes que un autóctono. El que diga lo contrario es ignorante o miente. En realidad el inmigrante  tiene los mismos deberes pero menos derechos, pues para que se le  reconozca el derecho de arraigo, o de ciudadanía, el inmigarnte debe  demostrar unos méritos (contrato de trabajo, buen comportamiento...) que al local no se le exigen. Curiosa manera de aplicar la <strong>Carta de los Derechos Humanos</strong>.</p>
 <p>Más curioso es todavía que esto no les parezca suficiente a muchos y que se quiera ir aún más allá en la humillación, utilizando la ordenanza de civismo para impedir el derecho al reagrupamiento familiar (ver la  importancia -y los problemas- de esta figura legal aquí [<a href="http://albertolumbreras.com/2010/02/jornadas-de-inmigracion-tipos-de-inmigracion-2/">1</a>]). Mociones para formalizar este racismo institucional se han presentado en <strong>Salt</strong> (PSC), <strong>Hospitalet</strong> (PSC) y por último <strong>Badalona</strong> (PSC) [<a href="http://www.badanotis.com/noticia.php?n=1644">2</a>].</p>

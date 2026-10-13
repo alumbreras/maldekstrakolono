@@ -6,6 +6,7 @@ categories:
 - política
 tags:
 - Risto Mejide
+temas: [trabajo]
 ---
 
 Dado que el [escrito de Risto Mejide](http://agenciaeternity.wordpress.com/2013/05/19/no-busques-trabajo-4/) "No busques trabajo" se está convirtiendo en meme, copio, a modo de vacuna, un comentario del periodista [Luis Benvenuty](http://www.lavanguardia.com/20101203/54080290402/benvenuty-luis.html):

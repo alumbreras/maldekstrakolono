@@ -10,6 +10,7 @@ tags:
 - euia
 - IU
 - Manuel Delgado
+temas: [izquierda, movimientos]
 ---
 <p><em>Extracto del artículo "<a href="http://manueldelgadoruiz.blogspot.com/2011/08/el-15m-y-la-posibilidad-de-un-tea-party.html">El 15M y la posibilidad de un Tea Party de la izquierda radical en el Estado español</a>" de Manuel Delgado. Sirva esta reproducción del artículo como apoyo y subscripción (las negritas son mías):</em></p>
 <p><a title="PDF" rel="nofollow" href="http://www.nuevoclaridad.es/revista/index.php/izquierda-unida/362-ifrente-de-izquierdas-o-pacto-electoralista?format=pdf"></a><a title="Imprimir" rel="nofollow" href="http://www.nuevoclaridad.es/revista/index.php/izquierda-unida/362-ifrente-de-izquierdas-o-pacto-electoralista?tmpl=component&amp;print=1&amp;layout=default&amp;page="></a><a title="E-mail" href="http://www.nuevoclaridad.es/revista/index.php/component/mailto/?tmpl=component&amp;link=aHR0cDovL3d3dy5udWV2b2NsYXJpZGFkLmVzL3JldmlzdGEvaW5kZXgucGhwL2l6cXVpZXJkYS11bmlkYS8zNjItaWZyZW50ZS1kZS1penF1aWVyZGFzLW8tcGFjdG8tZWxlY3RvcmFsaXN0YQ%3D%3D"></a></p>

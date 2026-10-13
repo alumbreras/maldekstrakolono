@@ -6,6 +6,7 @@ published: true
 status: publish
 categories:
 - cine
+temas: [cultura]
 ---
 <p>Una pequeña y entrañable historia. Un poco <em>off-topic, </em>pero se pueden buscar muchos paralelismos. Que cada uno busque los suyos. Si no se os escapa una lagrimilla es que no tenéis alma. Visca el Margatania F.C!</p>
 <p style="text-align: center;">[vimeo]http://vimeo.com/25397042[/vimeo]</p>

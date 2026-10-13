@@ -6,6 +6,7 @@ categories:
 - política
 tags:
 - "#quesejodan PP"
+temas: [estado-espanol]
 ---
 <p style="text-align: center;">[youtube]http://www.youtube.com/watch?v=ddjQ12-zHF8[/youtube]</p>
 <p style="text-align: left;"><span style="text-align: left;">Mi señor padre ya le ha mandado su opinión:</span></p>

@@ -1,0 +1,27 @@
+# Topics for the selector on the home and Recortes pages; posts list them in `temas:`
+- id: badalona
+  label: Badalona
+- id: catalunya
+  label: Catalunya
+- id: estado-espanol
+  label: Estado español
+- id: francia
+  label: Francia
+- id: internacional
+  label: Internacional
+- id: izquierda
+  label: Izquierda y partidos
+- id: trabajo
+  label: Trabajo y sindicalismo
+- id: marxismo
+  label: Marxismo y teoría
+- id: movimientos
+  label: Movimientos sociales
+- id: extrema-derecha
+  label: Extrema derecha
+- id: ecologismo
+  label: Ecologismo
+- id: datos
+  label: Datos y tecnología
+- id: cultura
+  label: Cultura

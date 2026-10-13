@@ -9,6 +9,7 @@ tags:
 - marxismo
 - psoe
 - socialdemocracia
+temas: [izquierda, marxismo]
 ---
 <blockquote>El post me ha encantado pero Ksan tiene razón, el PSOE renunció a la definición de marxista en 1979.</p>
 <p>Dos años antes el vendeburras de Felipe González salió elegido secretario general en el Congreso de Suresnes; en el siguiente Congreso propuso eliminar la definición de marxista del partido, los asistentes votaron en contra, él renunció a la secretaría y se nombró una gestora hasta el siguiente Congreso Extraordinario.</p>

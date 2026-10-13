@@ -11,6 +11,7 @@ tags:
 - filosofía
 - libros
 - política
+temas: [cultura]
 ---
 <p>Acabados los exámenes y gracias a una preciosa jornada reducida, tengo un mes de tardes libres y peligro de procrastinación. Para evitarlo he elaborado una lista de cosas que quiero hacer durante este oasis temporal. Comparto las literarias por el interés de la humanidad:</p>
 <p><a href="http://eumed.net/cursecon/textos/proudhon/index.html">¿Qué es la propiedad?</a>, de Proudhon, lo compré hace un año en una librería de la CNT y ya empezaba a acumular polvo. Recientemente tuve un debate con una amiga sobre la legitimidad de las okupaciones. Aunque -o debido a que- es abogada, la primera hora la dedicó a torpedear el colectivo okupa con los clásicos "son hijos de papá -y de eso viven-", "no todo son casas abandonadas", y alguna novedad: "si los demás tenemos que pagar una hipoteca de 40 años, que la paguen ellos también". La propiedad es para mucha gente lo que la resurrección de Cristo para los cristianos: el axioma. Creo que no hay que estudiar filosofía para entender que el concepto de propiedad es un concepto "social", "a posteriori", pero cuando nueve de cada diez personas piensa lo contrario, es momento de sacar el arsenal. Doscientas páginas de disección de uno de los conceptos más interiorizados por los hombres de todos los tiempos con una conclusión ya anticipada en la primera página: "la propiedad es un robo".</p>

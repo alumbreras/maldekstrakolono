@@ -7,6 +7,7 @@ categories:
 tags:
 - Grecia
 - Syriza
+temas: [internacional, izquierda]
 ---
 <p>Comunicado del lider de <strong>Syriza</strong>, Alexis Tsipras (vía <a href="http://bloclaratera.blogspot.com.es/2012/05/declaracion-del-presidente-del-grupo.html">Toni Barbarà</a>):</p>
 <blockquote><p>El veredicto popular del 6 de mayo no se puede interpretar de varias maneras. La amplia mayoría de los ciudadanos votó en contra de la política bárbara de los memorandos. 3.300.000 ciudadanos abandonaron los dos Partidos del Memorandum y ha puesto fin a los planes de elaboración de 79 nuevas medidas en junio, a los planes de <strong>150.000 despidos en el sector público</strong> y a las medidas adicionales de 11 mil millones de euros, lo que se suponía iban a ser elaborado, a partir de los próximos meses. A pesar de todo esto, algunos insisten en tratar de interpretar el resultado de acuerdo a su propio beneficio. Hablan de un voto sentimental, un voto de rabia. Se equivocan. Esta es una elección política madura. El Pueblo griego decidió: Ni los 151 escaños, ni el 51% de los partidos que apoyan los memorandos. Este fue uno de nuestros objetivos básicos electorales, que se cumplió. Los partidos del memorándum ya no tienen la mayoría en el Parlamento, para poder votar a favor de medidas de barbarie contra el pueblo griego. Este es un acontecimiento muy importante, una victoria muy importante para nuestra sociedad.</p>

@@ -10,6 +10,7 @@ categories:
 tags:
 - 99%
 - huelga general
+temas: [trabajo, movimientos]
 ---
 <p>Subscribo el manifiesto (y mucho más):</p>
 <blockquote><p>La reforma laboral, les retallades en la despesa pública i social, els rescats als bancs amb diner públic, la onada de desnonaments, anteposar la reducció del dèficit públic als drets de la ciutadania, son intolerables imposicions de l’1% de la societat al 99% restant.</p>

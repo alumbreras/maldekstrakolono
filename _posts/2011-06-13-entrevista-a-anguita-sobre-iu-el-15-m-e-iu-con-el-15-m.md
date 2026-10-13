@@ -9,6 +9,7 @@ tags:
 - 15-M
 - IU
 - Julio Anguita
+temas: [izquierda, movimientos]
 ---
 <p>Una selección de las respuestas (para mí) más interesantes y certeras en la <a href="http://www.publico.es/espana/381545/el-15-m-puede-ser-el-hervor-que-le-falta-a-la-izquierda">entrevista</a> a Julio Anguita aparecida hoy en Público.</p>
 <blockquote><p><strong>¿No hay rumbo [en IU]?</strong></p>

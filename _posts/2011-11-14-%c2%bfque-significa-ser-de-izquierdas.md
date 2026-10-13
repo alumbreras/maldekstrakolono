@@ -16,6 +16,7 @@ tags:
 - Le Monde Diplomatique
 - marxismo
 - Santiago Alba Rico
+temas: [marxismo, izquierda]
 ---
 <p><strong>Título: </strong><em>¿Qué significa ser de izquierdas?<br />
 </em><strong>Autor:</strong><em> Santiago Alba Rico.<br />

@@ -8,6 +8,7 @@ categories:
 tags:
 - Canarias
 - ONG
+temas: [estado-espanol]
 ---
 <p>Yo pensaba que los Plenos del Ayuntamiento de Badalona eran garrulos, 
 altivos, chulescos, indignantes, irrespetuosos, inútiles y teatrales. 

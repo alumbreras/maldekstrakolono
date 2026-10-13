@@ -1,0 +1,29 @@
+<nav class="temas" aria-label="Filtrar por tema">
+  <a href="?" data-tema="" class="active">Todos</a>
+  {% for t in site.data.temas %}<a href="?tema={{ t.id }}" data-tema="{{ t.id }}">{{ t.label }}</a>
+  {% endfor %}
+</nav>
+<script>
+  // Filter the post list below by topic; ?tema=x makes it linkable
+  (function () {
+    var nav = document.currentScript.previousElementSibling;
+    document.addEventListener('DOMContentLoaded', function () {
+    var items = document.querySelectorAll('ul.posts li');
+    var chips = nav.querySelectorAll('a');
+    chips.forEach(function (c) {
+      var t = c.dataset.tema;
+      if (t && !document.querySelector('ul.posts li[data-temas~="' + t + '"]')) c.hidden = true;
+      c.addEventListener('click', function (e) {
+        e.preventDefault();
+        apply(t);
+        history.replaceState(null, '', t ? '?tema=' + t : location.pathname);
+      });
+    });
+    function apply(t) {
+      chips.forEach(function (c) { c.classList.toggle('active', c.dataset.tema === t); });
+      items.forEach(function (li) { li.hidden = t && !(' ' + li.dataset.temas + ' ').includes(' ' + t + ' '); });
+    }
+    apply(new URLSearchParams(location.search).get('tema') || '');
+    });
+  })();
+</script>

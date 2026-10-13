@@ -14,6 +14,7 @@ tags:
 - José Coy
 - Murcia
 - PAH
+temas: [izquierda, movimientos]
 ---
 <p>Tuve la suerte de conocer a <strong>José Coy</strong> el verano pasado en el encuentro estatal de <strong>DRY</strong>, en Málaga, donde participa muy activamente. Volvimos a coincidir semanas más tarde en la <strong>Universidad de Verano de Izquierda Anticapitalista</strong> a la que vino como "alumno" y como "ponente". Parado, desalojado y con una huelga de hambre a sus espaldas, aún le quedan fuerzas para crear iniciativas de economía social, estar en los movimientos sociales y, sobre todo, para impulsar la <strong>Plataforma de Afectados por la Hipoteca</strong> en Murcia. Como lo describió recientemente un camarada: "<em>Bala de plata, corazón de oro</em>".</p>
 <p>Hace unas semanas llegó la noticia de que <em>Coy</em> irá el tercero para el senado por Murcia, en la coalición local de la que <strong>IU</strong> participa. En el fondo espero que no salga, porque durante cuatro años perderíamos un militante de oro en la calle.</p>

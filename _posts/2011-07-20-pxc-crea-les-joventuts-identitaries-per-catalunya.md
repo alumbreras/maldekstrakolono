@@ -8,6 +8,7 @@ categories:
 tags:
 - fascismo
 - PxC
+temas: [extrema-derecha, catalunya]
 ---
 <p>Ens queda molta feina per davant:</p>
 <blockquote><p>El consell executiu de Plataforma per Catalunya (PxC) es va reunir a Vic amb diversos punts en l'ordre del dia, entre els que destacaven un nou canvi en l'Organigrama, ja que es va decidir que Joan Montero passarà a ser el nou vicesecretari del Barcelonès, passant Joan Garriga a ser el delegat de Barcelona ciutat que compaginarà amb el càrrec de secretari Jurídic de PxC que ve exercint amb èxit des del passat congrés.</p>

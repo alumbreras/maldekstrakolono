@@ -8,6 +8,7 @@ categories:
 - política
 tags:
 - apostasía
+temas: [estado-espanol]
 ---
 <p>Aprovechando este día tan bochornoso del que no voy a comentar aquí nada por evidente y por no escribir una sarta de descalificaciones infinita a la secta católica, a la televisión pública catalana, y a los políticos que -dicen- me representan -excepto los de mi formación, los únicos coherentes que, llamándose de izquierdas, no han ido-  hago pública mi carta de apostasía, redactada y enviada en septiembre del año 2005 d.C. En mi caso utilicé una plantilla encontrada en la <a href="http://www.pepe-rodriguez.com/Cristianismo/Apostasia/Apostatar_formulario.htm">web de Pepe Rodríguez</a>, autor del libro <a href="http://www.pepe-rodriguez.com/Mentiras_Iglesia/Mentiras_Iglesia_ficha.htm">Mentiras Fundamentales de la Iglesia Catlólica</a>. Amplié la plantilla porque quería exponer mis propios motivos. Una vez terminada la mandé por fax al número del arzobisbado de Barcelona, y poco después ya tenía mi plaza reservada en el infierno. Aunque algunos motivos no serán extrapolables a otras personas, y aunque la satisfacción de personalizar la apostasía es impagable, la carta es, como no podría ser de otra manera, <span style="font-style: italic;">copyleft</span>. Si a alguien le ponen trabas en el proceso puede tramitarla a través de webs que organizan apostasías colectivas como <a rel="nofollow" href="http://www.apostasiaesalegria.tk/" target="_blank">www.apostasiaesalegria.tk</a>.</p>
 <blockquote><p>Estimado Sr. Obispo,</p>

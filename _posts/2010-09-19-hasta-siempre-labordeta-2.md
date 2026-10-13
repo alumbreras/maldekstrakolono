@@ -9,6 +9,7 @@ categories:
 - política
 tags:
 - Labordeta
+temas: [cultura]
 ---
 <div style="text-align: center;">
 <div style="text-align: left;">

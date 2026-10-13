@@ -9,6 +9,7 @@ categories:
 tags:
 - esperanto
 - Miguel Hernández
+temas: [cultura]
 ---
 <p><a href="http://satenhispanio.eresmas.com/Libroservo/PoetoPopolo.htm"><img src="{{ site.baseurl }}/assets/PoetoPopolo.jpg" alt="" width="173" height="288" /></a></p>
 <p>Cepo estas prujno<br />

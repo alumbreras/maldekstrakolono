@@ -12,6 +12,7 @@ tags:
 - ONU
 - OTAN
 - Vázquez Montalbán
+temas: [internacional]
 ---
 <blockquote>Coincidiendo con el anuncio de que el Gobierno pasaba a la ofensiva informativa para explicar su posición en el conflicto del golfo Pérsico han comenzado a salir de su cáscara algunos intelectuales orgánicos del poder, provenientes algunos de ellos de la izquierda en el pasado más implacable y dotados de un excelente bagaje cultural y analítico. El intelectual orgánico ¿nace o se hace? Creo que se hace, y se puede comprobar siguiendo la trayectoria de algunos apologetas del Gobierno que tan orgánicos fueron en el pasado defendiendo posiciones jruchovianas en los cincuenta, criptoguevaristas en los sesenta, eurocomunistas en los setenta, como social-solchaguistas en los ochenta. No obstante, sorprende la transustanciación del bloque histórico gramsciano en el bloque histórico onusiano a la sombra de la force de frappe del capitalismo internacional. Porque hasta hace muy poco, incluso hasta después del referéndum de la OTAN, algunos de estos intelectuales orgánicos se mantuvieron fieles a un sustrato común de la izquierda, capaz de aprehender que hay una dialéctica entre dos sentidos convencionales de la historia.</p>
 <p><img class="alignleft" style="max-width: 800px;" src="{{ site.baseurl }}/assets/car5.gif" alt="" /></p>

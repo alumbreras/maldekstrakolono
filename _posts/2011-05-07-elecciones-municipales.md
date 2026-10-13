@@ -11,6 +11,7 @@ tags:
 - campaña
 - elecciones
 - municipales
+temas: [izquierda]
 ---
 <p>Una vez más, la bestia de la democracia (burguesa) ha despertado y pide su periódico tributo. 
 Miles de militantes anónimos corren para arriba y para abajo colgando 

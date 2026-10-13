@@ -6,6 +6,7 @@ type: articulo
 mathjax: true
 categories:
 - política
+temas: [datos]
 ---
 <p>La minería de datos (<em>data mining</em> para los ingleses y para los <em>guays</em>) es una rama de la ciencia que utiliza la estadística y la computación para extraer información relevante, a veces no apreciable a simple vista, de grandes cantidades de datos. Como toda ciencia o tecnología tiene sus aplicaciones buenas y sus no tan buenas. Entre las buenas se encuentran el estudio del ADN -se puede saber si eres más o menos propenso a padecer cierta enfermedad- o las recomendaciones de libros. Entre las no tan buenas están las aplicaciones que les dan seguros y bancos para no darte un crédito o cobrarte más de la cuenta.</p>
 <p>El tema es que es una herramienta muy potente que la humanidad utiliza más con fines puramente capitalistas de maximización de beneficio que para fines más bien sociales. Si bien es cierto que la maduración de las técnicas en uno de los frentes puede beneficiar a todos, es ciertamente triste ver como ingenierios, científicos, y otros enseres capacitados se autoaplican el guía burros para no ver -o prospeccionar- qué <em>más</em> se puede hacer.</p>

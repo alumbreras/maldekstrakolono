@@ -8,6 +8,7 @@ tags:
 - 25S
 - PAH
 - vivienda
+temas: [movimientos]
 ---
 <p>La gallarda señora del "<strong>¡a ver si cuando vienen los mossos te encadenas a 
 la puta puerta y te quedas ahí! </strong><strong>¡a ver si es verdad! 

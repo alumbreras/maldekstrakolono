@@ -7,6 +7,7 @@ categories:
 tags:
 - huelga general
 - La Tuerka
+temas: [trabajo]
 ---
 Mañana, otra batalla. Que pase lo que pase no será la última.
 

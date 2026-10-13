@@ -13,6 +13,7 @@ tags:
 - capitalismo
 - imperialismo
 - Lenin
+temas: [marxismo]
 ---
 <p><strong><em>"No somos mercancia en manos de políticos y banqueros"</em></strong>. Aunque parece un buen eslogan es, sin embargo, falso. 
 Especialmente en cuanto a los banqueros ya que los políticos (los gobiernos, entiéndase) 

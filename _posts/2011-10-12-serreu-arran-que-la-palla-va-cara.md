@@ -10,6 +10,7 @@ tags:
 - icv
 - PCC
 - PSUCviu
+temas: [catalunya, izquierda]
 ---
 <p>El <em>Himne dels Segadors </em>es oficialmente el himno nacional de Catalunya desde 1993. 
 Es también, junto con <em>La Internacional</em>, el himno de los partidos

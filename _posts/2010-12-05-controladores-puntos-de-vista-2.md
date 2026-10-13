@@ -9,6 +9,7 @@ categories:
 - política
 tags:
 - controladores
+temas: [trabajo]
 ---
 <p>Cuentan los viejos del lugar que no hace muchos años, cuando en una fábrica se echaba a un obrero (compañero, dicen ellos) aparecía una marabunta de gente venida de los alrededores para apoyarlo e impedir el despido. En aquellos tiempos aún se recordaba la consigna "Obrero despedido, patrón colgado". Ha llovido mucho desde entonces. La sociedad ha ido evolucionando e involucionando simultáneamente, como siempre lo ha hecho, hasta llegar a donde estamos ahora, un punto donde lo que antes eran <span style="font-style: italic;">personas</span> ahora son <span style="font-style: italic;">recursos</span>, lo que antes era <span style="font-style: italic;">trabajo</span> ahora es <span style="font-style: italic;">consumo</span>, donde lo que antes eran <span style="font-style: italic;">derechos</span> ahora son -empiezan a ser- a ser <span style="font-style: italic;">privilegios</span>, y lo que antes era <span style="font-style: italic;">solidaridad -</span>obrera- ahora es <span style="font-style: italic;">competitividad</span> y sálvese quien pueda.</p>
 <p>Como parte -causa o consecuencia- de este cambio, la clase trabajadora ha adquirido un virus de inmunodeficiencia que la hace atacar sus propias defensas. Fruto de este virus la sociedad queda expuesta a simples gripes estacionarias, y la gripe de este año la ha inyectado con nocturnidad, prevaricación y alevosía, un experto virólogo: José Blanco.</p>

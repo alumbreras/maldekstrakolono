@@ -15,6 +15,7 @@ tags:
 - EHM
 - Russell
 - USAID
+temas: [internacional]
 ---
 <p>Decía Bertrand Russell en sus <a href="http://www.lsf.com.ar/libros/13/ENSAYOS-IMPOPULARES/">Ensayos Impopulares</a> -libro no especialmente recomendado- que solo si estás muy muy muy seguro de que tu tesis es cierta, entonces cualquier acto que cometas bajo su amparo estará moralmente justificado. Y cito al conde:</p>
 <blockquote><p>Si la <a href="http://es.wikipedia.org/wiki/Escatolog%C3%ADa_%28religi%C3%B3n%29">escatología</a> de Marx es cierta y en cuanto el capitalismo privado haya sido abolido seremos felices por siempre jamás, entonces está bien perseguir ese fin por medio de dictaduras, campos de concentración y guerras mundiales; pero si el fin es dudoso o no es seguro que se alcance con esos medios, entonces la desdicha actual se convierte en un irresistible argumento contra tan drásticos métodos. Si tuviésemos la seguridad de que sin los judíos el mundo sería un paraíso, no podría presentarse una objeción válida contra Auschwitz; pero si es mucho más probable que el mundo que surgiese de tales métodos fuese un infierno, entonces podemos dar vía libre a nuestra natural repugnancia humanitaria contra la crueldad.</p>

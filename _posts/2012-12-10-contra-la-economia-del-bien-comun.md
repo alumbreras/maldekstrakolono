@@ -11,6 +11,7 @@ tags:
 - reformismo
 
 redirect_from: /2012/12/10/contra-la-economia-del-bien-comun/
+temas: [marxismo]
 ---
 <blockquote><strong>idealismo:<br />
 </strong><br />

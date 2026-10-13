@@ -13,6 +13,7 @@ tags:
 - ppsoe
 - psoe
 - Renta Básica
+temas: [estado-espanol]
 ---
 <p>Las cuentas son sencillas. Más allá del maquillaje que los respectivos gobiernos han aplicado siempre al gasto militar, las organizaciones pacifistas calculan que el presupuesto total dedicado a gastos militares es el doble de lo que se predica. Así, según el observatorio DELÀS, del que participa Justicia i Pau, <a href="http://www.centredelas.org/index.php?option=com_content&amp;view=article&amp;id=688:la-verdad-del-gasto-militar-del-ano-2011-&amp;catid=42:economia-de-defensa&amp;Itemid=63&amp;lang=es">el gasto militar en 2011 fue de 17.217 millones de euros</a>. Esto supone aproximadamente el 1,2% del PIB, que se situa en <a href="http://www.google.es/publicdata/explore?ds=d5bncppjof8f9_&amp;met_y=ny_gdp_mktp_cd&amp;idim=country:ESP&amp;dl=es&amp;hl=es&amp;q=pib+espa%C3%B1a">algo más del billón de euros</a>.</p>
 <p>¿Esto es mucho o poco? Comparemos. <strong>Telefónica</strong> obtuvo en el último ejercicio unos beneficios netos de 10.000 millones de euros. El <strong>plan de austeridad</strong> del actual gobierno que incluye, entre otras medidas, la congelación de las pensiones, la bajada del sueldo a funcionarios o la subida del IVA, ha supuesto un "ahorro" de 20.000 millones de euros. Los dos <strong>planes E</strong> han supuesto 12.000 millones de euros. Y pagar las cuotas hipotecarias de todas las<strong> familias desahuciadas</strong> desde 2007 hubiera costado 3.500 millones de euros.</p>

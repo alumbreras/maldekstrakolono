@@ -9,6 +9,7 @@ summary: El asesinato de Clément Méric no es un hecho aislado.
    homosexuales o ataques a bares y locales "de ambiente".
 thumbnail: encuestaFN.png
 redirect_from: /maldekstrakolono/2013/06/06/fascistas.html
+temas: [francia, extrema-derecha]
 ---
 
 El asesinato de Clément Méric [no es un hecho aislado](http://www.humanite.fr/politique/lagression-de-clement-meric-nest-pas-un-acte-pas-i-543212). 

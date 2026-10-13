@@ -10,6 +10,7 @@ tags:
 - CGT
 - CNT
 - sindicalismo
+temas: [cultura, trabajo]
 ---
 <p style="text-align: left;">Encontrado en el periódico de la CNT (<a href="http://www.cnt-ait.tv/d/844-2/cnt_351+entero_opti.pdf?g2_GALLERYSID=6c276a0f3a4a1228f09bd82697d80af0">diciembre de 2008</a>):</p>
 <p style="text-align: center;"><a href="http://albertolumbreras.com/wp-content/uploads/2011/09/Captura-de-pantalla-2011-09-03-a-las-00.51.04.png"><img class="aligncenter size-full wp-image-1122" style="margin-left: 25px; margin-right: 25px;" title="Esperanto para cenetistas" src="{{ site.baseurl }}/assets/Captura-de-pantalla-2011-09-03-a-las-00.51.04.png" alt="" width="600" height="337" /></a></p>

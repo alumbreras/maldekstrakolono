@@ -6,6 +6,7 @@ summary: Descartando los improbables, nos quedan escenarios que nos llevan
   en situación de deshacer el nudo y garantizar que en Iberia haya, al menos, un proceso constituyente.
 type: articulo
 redirect_from: /maldekstrakolono/2014/10/15/el-9n-o-los-demonios.html
+temas: [catalunya]
 ---
 
 _(**Aviso**: lo que sigue es un intento de sistematizar riesgos y oportunidades de los escenarios que se presentan tras el 9N tras la autolesión a la consulta por parte de CiU. Muchos factores han quedado fuera de consideración, algunos por irrelevantes y otros por negligencia propia.)_

@@ -8,6 +8,7 @@ thumbnail: 2017_05_02-presidenciales-francesas-mapa1.jpeg
 image: 2017_05_02-presidenciales-francesas-mapa1.jpeg
 note: "Artículo escrito con Toni Esteban para [www.realitat.cat](http://www.realitat.cat)"
 type: articulo
+temas: [francia, extrema-derecha]
 ---
 
 

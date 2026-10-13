@@ -11,6 +11,7 @@ tags:
 - casales
 - icv
 - inmigración
+temas: [badalona]
 ---
 <p>Ayer los chicos de Iniciativa de Badalona se curraron unas <a href="http://www.iniciativa.cat/badalona/news/24132">jornadas</a> - en realidad la mañana del Sábado- sobre inmigración centrada en los jóvenes inmigrantes. La cosa se dividió a grosso modo en una ponencia muy buena de <a href="http://dafits.urv.es/doctorat/professorat/carles_feixa.htm">Carles Feixà</a>, doctor en Antropología Social, y un debate posterior con casales juveniles y algunas entidades (Espai Jove, La Mussara, Amics...) de donde salieron algunas ideas muy buenas. En su ponencia Carles Feixà habló de los tipos de inmigración, que los clasifica en:</p>
 <p><strong>Generación 1</strong>: Son inmigrantes adultos que vienen por trabajo y por voluntad propia. En ocasiones dejan los hijos en el país de origen, a la espera de establecerse para que puedan venir.</p>

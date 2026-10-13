@@ -5,6 +5,7 @@ summary: 'Declaraciones de Thomas Piketty '
 thumbnail: thumbnail-gilet.png
 category: política
 type: recorte
+temas: [francia]
 ---
 
 "Hay un gran sentimiento de injsticia social y fiscal. Macron ha cometido un error considerable dedicando tanto dinero a reducir los impuestos de los más ricos.

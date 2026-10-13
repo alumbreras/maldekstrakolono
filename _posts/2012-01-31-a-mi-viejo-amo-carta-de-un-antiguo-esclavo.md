@@ -5,6 +5,7 @@ date: 2012-01-31 13:54:00.000000000 +01:00
 type: minor
 categories:
 - política
+temas: [cultura]
 ---
 <p>En agosto de 1865, el Coronel PH Anderson de Big Spring, Tennessee, escribió a su antiguo esclavo, Jourdan Anderson, para pedirle que volviera a trabajar en su granja. Tras su <a href="http://es.wikipedia.org/wiki/Proclamaci%C3%B3n_de_Emancipaci%C3%B3n">emancipación</a>, Jourdan se había trasladado a Ohio, había encontrado un trabajo remunerado y estaba manteniendo a su familia. Esta es la carta con la Jourdan respondió al Coronel:</p>
 <blockquote><p>Dayton, Ohio,</p>

@@ -4,6 +4,7 @@ title: Fundaciones Borbónicas
 type: minor
 categories:
 - política
+temas: [estado-espanol]
 ---
 <p>Por si queda en la sala algún monárquico, juancarlista, felipista, o engañado en general.</p>
 <p>Atención especial al párrafo sexto del adjunto:</p>

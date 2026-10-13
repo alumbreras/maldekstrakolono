@@ -8,6 +8,7 @@ categories:
 tags:
 - DRY
 - FSCat
+temas: [movimientos, catalunya]
 ---
 <blockquote>L'any 2011 serà recordat com l'inici del canvi cap a un altre món que sabem que és possible.</p>
 <p>Un any en què persones de tot el planeta hem  sortit unides al carrer en un crit d'indignació contra la injustícia,  la corrupció i el saqueig. Un crit mut en boca de les víctimes de  dictadures i democràcies segrestades pels poders polítics i financers  que tenen com objectius acumular més i més riquesa i poder sense  importar-los la voluntat ni el benestar de les persones o la destrucció  del nostre planeta.</p>

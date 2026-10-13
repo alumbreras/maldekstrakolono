@@ -7,6 +7,7 @@ categories:
 tags:
 - crisis
 - especulación
+temas: [internacional]
 ---
 <p>Ayer por la mañana la la BBC entrevistaba a un <em>broker</em> con la lengua suelta:</p>
 <p style="text-align: center;">[youtube]http://www.youtube.com/watch?v=aC19fEqR5bA[/youtube]</p>

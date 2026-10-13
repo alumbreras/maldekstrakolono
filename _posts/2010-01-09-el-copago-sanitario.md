@@ -8,6 +8,7 @@ categories:
 tags:
 - copago
 - sanidad
+temas: [estado-espanol]
 ---
 Hace ya unos años que se viene oyendo aquello de "una visita, un euro". 
 La coartada oficial es que en españa tenemos mucho cuento y que, como es 

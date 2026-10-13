@@ -10,6 +10,7 @@ tags:
 - cine
 - ecologismo
 - petróleo
+temas: [ecologismo, cultura]
 ---
 <blockquote>Hay muchos datos de archivo relativos al comportamiento de los pasajeros de un barco cuando se está hundiendo. Hay un hecho común: que los pasajeros no se suben inmediatamente a los botes salvadidas, sino que suelen esperar por lo general hasta el último momento. Esto así porque cuando tienen que decidirse  entre lo conocido y lo desconocido la gente suele optar por lo conocido, aunque sea la peor opción.</p>
 <p>Esto suele ocurrir especialmente cuando el barco se hunde poco a poco y aún hay luz y calefacción en los camarotes. Nadie se precipitará hacia los botes salvavidas. La gente empezará a racionalizarlo: ¿tenemos verdadera certeza que se está hundiendo el barco? ¿realmente estaremos más seguros en los botes salvadidas? ¿seguro que la tripulación reparará la vía de agua? El capitán nos dirá lo que hay que hacer. Alguien vendrá a ayudarnos.</p>

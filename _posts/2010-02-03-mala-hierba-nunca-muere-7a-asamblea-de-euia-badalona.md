@@ -9,6 +9,7 @@ categories:
 tags:
 - badalona
 - euia
+temas: [badalona, izquierda]
 ---
 <p>Los rojillos y las rojillas de EUiA Badalona siguen dando por culo. Mala hierba nunca muere. El Sábado pasado se celebró la VII Asamblea Local en el centro cívico de Torre Mena, con mucha gente y pocas estufas. Se renovó la comisión local y se hablaron sobre algunas líneas de trabajo para los -duros- tiempos venideros. Este año es el año de la jodienda, nos jode ZP, nos jode la CEOE, nos jode el Banco de España, y nos jode el Garcia-Albiol. Con este plan de jodienda interplanetaria por poco no tenemos que hacer la asamblea por entregas.</p>
 <p>Es posible que la nota de prensa que enviamos a los medios locales se les haya colado en la carpeta de SPAM, así que la adjunto aquí y me llevo la exclusiva:</p>

@@ -7,6 +7,7 @@ categories:
 - política
 tags:
 - Ovidi Montllor
+temas: [cultura]
 ---
 <p style="text-align: left;">Es pressuposa que un aparell<br />
 molt gran i estrany<br />

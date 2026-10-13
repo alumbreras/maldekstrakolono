@@ -6,6 +6,7 @@ type: articulo
 categories:
 - ecologismo
 - política
+temas: [ecologismo]
 ---
 <p>La <strong>Agencia Internacional de la Energía</strong> (AIE), organismo que depende de la OCDE, publicó hace ya seis años en un estudio (<a href="http://www.iea.org/textbase/nppdf/free/2005/SavingOil.pdf">Saving oil in a hurry</a>) en el que propone algunas medidas para reducir nuestro consumo de petróleo. El profesor Mariano Marzo, catedrático de recursos energéticos de la Universidad de Barcelona y reconocido como el máximo exponente del país en la materia, no se cansa de nombrar este informe en cada entrevista en los medios, con la esperanza de que llegue pronto el día en que la subjetividad (y demasiadas veces el populismo) de la política se someta a la ciencia allí donde la ésta haya arrojado su luz.</p>
 <p>El informe propone una serie de medidas que clasifica según su impacto.</p>

@@ -12,6 +12,7 @@ tags:
 - Julio Anguita
 - Oriol Junqueras
 - república
+temas: [estado-espanol]
 ---
 <p>Aquí va un poco de material para el que quiera evitarse una mañana oyendo a Bono decir, a veinte metros del Rey, que esta constitución garantiza que ningún ciudadano tiene más derechos que otro (sic).</p>
 <p>Para empezar una conferencia a Julio Anguita. De esas de escucharlas con una cervecita al lado. Anguita está escribiendo un libro sobre su propuesta para la III República, y aquí hace algunos esbozos:</p>

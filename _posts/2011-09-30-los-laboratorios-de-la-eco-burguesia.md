@@ -11,6 +11,7 @@ tags:
 - Grünen
 - IU
 - PVE
+temas: [izquierda, ecologismo]
 ---
 <p>No me preocupa especialmente que aparezcan, aparte de Izquierda Unida, más partidos a la izquierda del PSOE. Por suerte para la izquierda la CUP crece lenta pero firmemente en los <em>Països Catalans</em> reclamando "independencia y socialismo" y en España es una lástima que Izquierda Anticapitalista no tenga más espacio. Sin embargo, aún habiendo opciones fuera de Izquierda Unida como la CUP o Izquierda Anticapitalista algunas personas bien intencionadas han decidido embarcarse en <strong>Equo</strong>, un partido que vende novedad y frescor verde. ¿Conocían estas personas a IU, a IA, o a al Confederación de los Verdes (que tras un primer acercamiento han huído de Equo para irse con IU) más allá de las siglas? La sensación en muchos casos es que no.</p>
 <p>Pero lo que realmente me aterroriza y me caga de miedo, a parte de algunas declaraciones de <strong>Uralde</strong>, es el caracter cada vez más liberal de su padre, el <strong>Partido Verde Europeo</strong> y especialmente de los que lo controlan: los <strong>Grünen</strong> (Verdes) alemanes. Lo que me preocupa es que Equo nace preñada de liberalismo.</p>

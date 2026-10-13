@@ -12,6 +12,7 @@ tags:
 - Benedetti
 - esquirol
 - huelga
+temas: [trabajo, cultura]
 ---
 <blockquote>No te quedes inmóvil al borde del camino<br />
 no congeles el júbilo<br />

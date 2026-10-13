@@ -11,6 +11,7 @@ tags:
 - Grecia
 - Palestina
 - Rumbo a Gaza
+temas: [internacional, movimientos]
 ---
 <blockquote>Vergonya de ser europeus!</p>
 <p>Parlem de dret i acceptem la impunitat!</p>

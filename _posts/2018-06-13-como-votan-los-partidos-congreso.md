@@ -8,6 +8,7 @@ image: thumbnail-correlacion.png
 showimage: false
 category: datos
 type: articulo
+temas: [estado-espanol, datos]
 ---
 
 El Marianato ha sido una etapa que ha pasado por una primera legislatura de mayoría absoluta,

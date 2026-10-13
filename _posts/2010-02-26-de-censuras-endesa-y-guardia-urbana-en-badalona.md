@@ -12,6 +12,7 @@ tags:
 - endesa
 - guardia urbana
 - lloreda
+temas: [badalona]
 ---
 <p><strong>Beneficio de FECSA-Endesa en 2009:</strong> 7.000.000.000 €<br />
 <strong>Subida de precios de la luz para 2010:</strong> 4%<br />

@@ -12,6 +12,7 @@ redirect_from: /maldekstrakolono/política/2013/10/31/la-tia-catalana-ni-tanto-n
 categories:
 - política
 type: articulo
+temas: [catalunya, datos]
 ---
 
 La entrada de Anonymous en los servidores de del [Cesicat](https://www.cesicat.cat/) 

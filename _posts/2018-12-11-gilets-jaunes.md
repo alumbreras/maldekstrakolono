@@ -5,6 +5,7 @@ type: articulo
 thumbnail: thumbnail-chalecosamarillos.jpg
 image: thumbnail-chalecosamarillos.jpg
 note: "Artículo escrito con Elisa Vilches para [Cierzo Digital](http://cierzodigital.com/chalecos-amarillos-del-diesel-a-la-bastilla/)"
+temas: [francia]
 ---
 
 En 1832 Victor Hugo presentaba *El Rey se divierte*, un drama en cinco actos que narraba el odio y la rabia de la vida que le había tocado vivir a Triboulet, el bufón del Rey que no duda en denunciar descaradamente los privilegios de la nobleza y de su monarca. Cinco son precisamente los "actos" —así los llaman— que, por ahora, componen este drama. Uno por semana.

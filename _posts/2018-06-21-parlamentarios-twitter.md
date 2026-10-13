@@ -7,6 +7,7 @@ image: thumbnail-twitterUE.png
 showimage: false
 category: datos
 type: articulo
+temas: [estado-espanol, datos]
 ---
 
 Los parlamentos son, en principio, lugares donde los representantes de la ciudadanía debaten

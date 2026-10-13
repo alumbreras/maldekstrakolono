@@ -9,6 +9,7 @@ categories:
 - política
 tags:
 - 15M
+temas: [movimientos]
 ---
 <blockquote><strong>filo-</strong> o <strong>‒́filo</strong><strong>, la</strong><strong>.</strong></p>
 <p>(<a>Del</a> <a title="griego o griega">gr.</a> φίλος).<br />

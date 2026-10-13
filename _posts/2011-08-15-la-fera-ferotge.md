@@ -8,6 +8,7 @@ categories:
 - política
 tags:
 - Ovidi Montllor
+temas: [cultura]
 ---
 <p>A cuento de las fieras que despiertan y que despertarán. Dedicada a Felip Puig y a todos los "alcaldes" que sueñan con ciudades eternamente dormidas.</p>
 <p style="text-align: center;">Per ordre de l'Alcalde<br />

@@ -12,6 +12,7 @@ tags:
 - obama
 - sanidad
 - Seguridad Social
+temas: [internacional]
 ---
 <p><em>"La seguridad social es uno de los puntales de la política estadounidense. Tócala y estás muerto". </em><img style="max-width: 800px; float: right; margin-top: 10px; margin-bottom: 10px; margin-left: 10px;" src="{{ site.baseurl }}/assets/barack%20obama%20meets%20the%20west%20wing%27s%20president%20bartlett.JPG" alt="" width="185" height="130" /></p>
 <p>Esto es lo que le decía el presidente Bartlet a Tobby, el hombre que le escribe los discursos, en el <a href="http://www.series21.com/el-ala-oeste-de-la-casa-blanca/">Ala Oeste de la Casa Blanca</a>. Y es que a Tobby le da por intentar lo que Obama ha conseguido siete años más tarde.</p>

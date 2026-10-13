@@ -3,10 +3,12 @@ layout: default
 title: La Maldekstra Kolono
 ---
 
+{% include temas-filter.html %}
+
   <ul class="posts">
     {% for post in site.posts %}
     {% if post.type == "articulo" or post.type == "minor" %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+      <li data-temas="{{ post.temas | join: ' ' }}"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
     {% endfor %}
   </ul>

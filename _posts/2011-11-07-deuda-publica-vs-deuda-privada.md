@@ -10,6 +10,7 @@ tags:
 - Eric Toussaint
 - mentiras
 - Rajoy
+temas: [estado-espanol]
 ---
 <p>Un apunte rápido. Rajoy dijo ayer, en Salvados,  <em>"la deuda pública es mayor que la privada</em>". Lo dijo en la linea ir preparando la vaselina ante las brutales políticas neoliberales de destrucción del estado del bienestar que piensan ejecutar si ganan las elecciones.</p>
 <p>Me quedé petrificado. La realidad <strong>indiscutible</strong> es justo la contraria: al igual que en Grecia o Portugal <strong>la deuda privada es mucho mayor que la pública.</strong></p>

@@ -10,6 +10,7 @@ tags:
 - especulación
 - Manuel Delgado
 - urbanismo
+temas: [catalunya, cultura]
 ---
 <p>Enganchadísimo a <a href="http://www.icarialibreria.com/product_info.php/products_id/1934">este libro</a>, muy instructivo para los que nacimos (casi) con "las rondas puestas":</p>
 <blockquote><p>Barcelona es hoy, como tantas veces antes, una ciudad asediada. Quienes quisieran verla sometida no son ya ejércitos enemigos, ni regímenes políticos que detestan su amor por la vida o su capacidad para generar y albergar mundos, y mucho menos sus cíclicos estallidos de insolencia colectiva. Quien ansía ocupar Barcelona y avasallarla es, hoy, un capitalismo financiero internacional que ha descubierto en el territorio una fuente de enriquecimiento y que aspira a convertir la capital catalana en un artículo de consumo con una sociedad humana dentro. Por supuesto, ése es un fenómeno que afecta a otras muchas ciudades del mundo, todas ellas objeto de recalificaciones masivas al servicio de los intereses de las grandes multinacionales multinacionales; todas ellas víctimas de la codicia de un sistema de mundo al que no le importa deformarlas hasta convertirlas en su propia caricatura o parodia; todas ellas convertidas en grandes máquinas de excluir y expulsar a cualquier habitante o forastero considerado insolvente...</p>

@@ -6,6 +6,7 @@ type: recorte
 categories:
 - política
 redirect_from: /maldekstrakolono/política/2011/05/25/del-movimiento-a-la-organizacion.html
+temas: [movimientos]
 ---
 <p>Con el permiso del autor, copio el texto de <strong><a href="http://es.wikipedia.org/wiki/Manuel_Delgado_Ruiz">Manuel Delgado</a></strong> sobre el movimiento 15 M que podéis encontrar en su blog <a href="http://manueldelgadoruiz.blogspot.com/2011/05/el-peligro-ciudadanista-intervencion-en.html">aquí</a>:</p>
 <blockquote><p><a href="http://albertolumbreras.com/wp-content/uploads/2011/05/delgado_manuel_01_emaldonado_b.jpg"><img class="alignleft size-full wp-image-760" style="margin-left: 10px; margin-right: 10px;" title="Manuel Delgado" src="{{ site.baseurl }}/assets/delgado_manuel_01_emaldonado_b.jpg" alt="" width="325" height="210" /></a></p>

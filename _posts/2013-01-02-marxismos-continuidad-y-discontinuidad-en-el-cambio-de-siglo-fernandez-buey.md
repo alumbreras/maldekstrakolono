@@ -7,6 +7,7 @@ categories:
 tags:
 - Francisco Fernández Buey
 - marxismo
+temas: [marxismo]
 ---
 <p><strong>Título</strong>: Marxismos: continuidad y discontinuidad en el cambio de siglo<br />
 <strong>Autor</strong>: <a href="http://es.wikipedia.org/wiki/Francisco_Fern%C3%A1ndez_Buey">Francisco Fernández Buey</a><br />

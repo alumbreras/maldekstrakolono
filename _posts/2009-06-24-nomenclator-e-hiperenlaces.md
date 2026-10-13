@@ -7,6 +7,7 @@ categories:
 - política
 tags:
 - nomenclator
+temas: [catalunya]
 ---
 En eso que te levantas y repasas la noche de San Juan, la conciencia 
 tiene esas cosas, en busca de posibles actos de los que te puedas arrepentir. 
