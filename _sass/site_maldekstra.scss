@@ -313,8 +313,9 @@ blockquote {
 
 
 /* Media and long content must never overflow the screen */
-.post img, .post iframe, .post video, .post embed, .post object, .post table {
-  max-width: 100%;
+.post .content * {
+  /* !important: old WordPress markup carries inline widths like max-width: 800px */
+  max-width: 100% !important;
 }
 
 .post img {
