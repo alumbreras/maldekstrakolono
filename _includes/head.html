@@ -1,42 +1,33 @@
 <head>
-	{% if site.google_analytics and jekyll.environment == "production" %}{% include analytics.html %}{% endif %}
-	
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta charset="{{ site.encoding }}">
-	
-	<!-- Automatically adapt the view to size of the device -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-  
-	<title>{{ page.title }}</title>
-	<meta name="author" content="Alberto Lumbreras" />
-	{% feed_meta %}
-	<meta name="readability-verification" content="QCzSs992GxmRYRKVpPeZ6LE2tS8aYKxsSSQKV8YM"/>
-	
-	{% if page.image %}
-		<meta property="og:image" content="https://www.maldekstrakolono.net/assets/{{ page.image }}" />
-		<meta name="twitter:image" content="{{ page.image }}" />
-	{% else %}
-		<meta property="og:image" content="https://www.maldekstrakolono.net/images/maldekstra_thumbnail_pen.jpg" />
-	{% endif %}
-	
-	{% if page.title %}
-	  <!-- Article specific OG data -->
-	  <!-- The OG:Type dictates a number of other tags on posts. -->
-	  <meta property="og:type" content="article" />
-	  <meta property="article:published_time" content="{{page.date}}" />
-	  <meta property="og:type" content="article" />
-	{% else %}
-	  <meta property="og:type" content="website" />
-	{% endif %}	
-	
+	{% if site.google_analytics and jekyll.environment == "production" %}{% include analytics.html %}{% endif %}
 
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+	<title>{% if page.title and page.title != site.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<meta name="author" content="Alberto Lumbreras" />
+	<link rel="canonical" href="{{ page.url | absolute_url }}">
+	{% feed_meta %}
+
+	{% if page.image %}{% assign og_image = page.image | prepend: "/assets/img/" | absolute_url %}{% else %}{% assign og_image = "/images/maldekstra_thumbnail_pen.jpg" | absolute_url %}{% endif %}
+	<meta property="og:site_name" content="{{ site.title }}" />
+	<meta property="og:title" content="{{ page.title | default: site.title }}" />
+	<meta property="og:url" content="{{ page.url | absolute_url }}" />
+	<meta property="og:image" content="{{ og_image }}" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="{{ og_image }}" />
+	{% if page.layout == "post" %}
+	<meta property="og:type" content="article" />
+	<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+	{% else %}
+	<meta property="og:type" content="website" />
+	{% endif %}
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+	<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
 	<link rel="stylesheet" href="/assets/css/styles.css?v={{ site.time | date: '%s' }}">
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-	
-	
+	{% if page.mathjax %}
+	<script defer src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	{% endif %}
 </head>

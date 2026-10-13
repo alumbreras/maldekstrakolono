@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
-gem 'github-pages'
-gem 'html-proofer'
-gem "nokogiri", ">= 1.10.8"
 
-
+# Mirrors the GitHub Pages build; only needed to preview locally (bundle exec jekyll serve)
+gem 'github-pages', group: :jekyll_plugins
+gem 'webrick'

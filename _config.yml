@@ -1,3 +1,4 @@
+title: "La Maldekstra Kolono"
 encoding: utf-8
 
 # Build settings
@@ -16,7 +17,10 @@ exclude: [
   'Gemfile.lock',
   'package.json',
   'README.md',
-  'vendor']
+  'vendor',
+  'TODO.md',
+  'tips',
+  '.sass-cache']
 
 
 plugins:

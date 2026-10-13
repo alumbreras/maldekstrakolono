@@ -3,6 +3,7 @@ layout: post
 title: Estadística para tecnócratas
 date: 2010-08-16 17:21:06.000000000 +02:00
 type: articulo
+mathjax: true
 categories:
 - política
 ---

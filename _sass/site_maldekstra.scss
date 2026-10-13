@@ -331,6 +331,22 @@ blockquote {
   overflow-wrap: break-word;
 }
 
+/* Old WordPress classes; inline margins/widths would push them off narrow screens */
+.post .aligncenter {
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.post .content ul[style], .post .content ol[style] {
+  width: auto !important;
+  float: none !important;
+}
+
+.post .content a {
+  overflow-wrap: anywhere;
+}
+
 .post pre {
   overflow-x: auto;
 }
