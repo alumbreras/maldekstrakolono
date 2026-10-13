@@ -81,21 +81,21 @@ sesiones dedicadas al "terrorismo" donde investigadores, a menudo financiados
 por agencias o gobiernos, presentan algunos de sus avances. Si a alguien le 
 interesa esa madriguera puede empezar por [aquí](http://dblp.org/search/#query=terrorism&qp=H1.205:W1.4:F1.4:F2.4:F3.4:F4.4).
 
-![CIA data mining]({{ site.baseurl }}/assets/CIA-data-mining.png)
+![CIA data mining]({{ site.baseurl }}/assets/img/CIA-data-mining.png)
 La minería de datos para los servicios de inteligencia es un poco como 
 la máquina de la verdad: no te da pruebas pero te indica por donde seguir buscando. 
 Por ejemplo, si somos un gobierno interesado por todos los medios en tumbar a los 
 grupos fascistas, cogería esta red de seguidores de PxC y monitorizaría -online y offline- 
 a los usuarios mejor conectados (en este caso, algunos son concejales):
 
-![PxCgrafo]({{ site.baseurl }}/assets/PxCgrafo.png)
+![PxCgrafo]({{ site.baseurl }}/assets/img/PxCgrafo.png)
 
 Otras redes como Facebook son un buen sitio para empezar a trabajar, 
 pues son un retrato bastante fidedigno de tus espacios vitales (trabajo, activismo, familia...) 
 y de quien está en cada espacio. Muy útil para reclutar informadores o 
 para saber dónde hacer daño:
 
-![alberto fb grafo]({{ site.baseurl }}/assets/alberto-fb-grafo.png)
+![alberto fb grafo]({{ site.baseurl }}/assets/img/alberto-fb-grafo.png)
 
 Una última consideración sobre el **anonimato** en la red. Si no se 
 quieren sorpresas, lo más sensato es considerar que internet es una plaza pública. 
