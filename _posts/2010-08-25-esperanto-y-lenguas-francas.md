@@ -11,7 +11,7 @@ tags:
 - esperanto
 temas: [cultura]
 ---
-<blockquote><em>Forte staras muroj de miljaroj inter la popoloj dividitaj, sed dissaltos la obstinaj baroj per la sankta amo disbatitaj. Sur neŭtrala lingva fundamento, komprenante unu la alian, la popoloj faros en konsento unu grandan rondon familian.</em></p>
+<blockquote><p><em>Forte staras muroj de miljaroj inter la popoloj dividitaj, sed dissaltos la obstinaj baroj per la sankta amo disbatitaj. Sur neŭtrala lingva fundamento, komprenante unu la alian, la popoloj faros en konsento unu grandan rondon familian.</em></p>
 <p>Fuertes se levantan los muros milenarios entre los pueblos divididos, pero saltarán en pedazos las obstinadas barreras que con sagrado amor serán derrumbadas. Sobre un fundamento lingüístico neutral, comprendiéndose los unos a los otros, los pueblos harán de común acuerdo, una sola gran familia.</p>
 <p style="text-align: right;">(<a href="http://www.youtube.com/watch?v=6AMmfZ4PF3U"><span style="font-style: italic;">La Espero</span></a>)</p>
 </blockquote>

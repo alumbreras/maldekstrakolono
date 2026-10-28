@@ -466,6 +466,11 @@ blockquote {
   height: auto;
 }
 
+.post iframe.audio-embed {
+  aspect-ratio: auto;
+  height: 200px;
+}
+
 .post .content {
   overflow-wrap: break-word;
 }

@@ -13,7 +13,7 @@ tags:
 - Rumbo a Gaza
 temas: [internacional, movimientos]
 ---
-<blockquote>Vergonya de ser europeus!</p>
+<blockquote><p>Vergonya de ser europeus!</p>
 <p>Parlem de dret i acceptem la impunitat!</p>
 <p>Davant de Palau Reial membres de Rumbo a Gaza s'han encadenat davant a les banderes dels 42 estats e la Unió per la Mediterrànea demanant una entrevista urgent Trinidad Jiménez - present a l'acte de possesió del nou secretari general- per aliberar Flotilla Llibertat Rumb a Gaza segrestada a Grècia i aconseguir trencar el bloqueig a Gaza.</p>
 <p><strong>Concentració immediata de suport a Palau Reial!</strong></p>

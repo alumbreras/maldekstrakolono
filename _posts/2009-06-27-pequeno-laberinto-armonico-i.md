@@ -8,7 +8,7 @@ categories:
 - filosofía
 temas: [cultura]
 ---
-<div><em>(Y así, Aquiles frota suavemente la gran letra "L" grabada sobre la cubierta de cobre de la lámpara... Repentinamente aparece una inmensa bocanada de humo, entre cuyas nubes los cinco amigos pueden distinguir una extraña figura fantasmagórica elevándose sobre ellos.)</em></p>
+<div><p><em>(Y así, Aquiles frota suavemente la gran letra "L" grabada sobre la cubierta de cobre de la lámpara... Repentinamente aparece una inmensa bocanada de humo, entre cuyas nubes los cinco amigos pueden distinguir una extraña figura fantasmagórica elevándose sobre ellos.)</em></p>
 <p><em style="font-weight: bold;">Genio</em>: Hola, mis amigos, les agradezco infinitamente el rescatar mi Lámpara del endemoniado<br />
 <a href="http://www.lghs.net/teachers/math/canderson/escher_inverse.jpg">Dúo de Lagartos</a>.<br />
 <em><br />

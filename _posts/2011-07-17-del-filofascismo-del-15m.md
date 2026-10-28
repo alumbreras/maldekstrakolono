@@ -11,7 +11,7 @@ tags:
 - 15M
 temas: [movimientos]
 ---
-<blockquote><strong>filo-</strong> o <strong>‒́filo</strong><strong>, la</strong><strong>.</strong></p>
+<blockquote><p><strong>filo-</strong> o <strong>‒́filo</strong><strong>, la</strong><strong>.</strong></p>
 <p>(<a>Del</a> <a title="griego o griega">gr.</a> φίλος).<br />
 <strong>1. </strong>elem. compos. Significa 'amigo', 'amante de'. <em>Filosoviético.</em> <em>Anglófilo.</em></p></blockquote>
 <p>Se ha afirmado recientemente por parte de algunas personas de la izquierda que el 15M es un movimiento de caracter <em>filofascista. </em>Cuando uno escucha eso no puede más que primero, espantarse y segundo, apenarse por el hecho de que también en nuestras filas haya compañeros presos de su propia inercia de partido que ven con hostilidad un movimiento que nos haya pasado por delante, ¡a nosotros, la <em>vanguardia </em>de la clase obrera! Y es que la historia es caprichosa y siempre nos pilla con el culo al aire.</p>

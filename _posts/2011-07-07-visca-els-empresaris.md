@@ -67,5 +67,5 @@ vet aquí un gos<br />
 vet aquí un gat<br />
 i aquest conte s'ha acabat.</p>
 <p>&nbsp;</p>
-<div style="text-align: center;"><embed type="application/x-shockwave-flash" width="480" height="300" src="http://blip.tv/play/AYLByHUC" allowfullscreen="true" allowscriptaccess="always" wmode="transparent"></embed></div>
+<p style="text-align: center;"><span class="lost-image">[vídeo perdido: «Visca els empresaris», de La Trinca]</span></p>
 <p><strong>Nota:</strong> Rajoy quiere <a href="http://www.elperiodico.com/es/noticias/politica/rajoy-pretende-inculcar-por-ley-los-ninos-respeto-empresario-1064386">inculcar por ley en los niños el respeto a los empresarios</a>. No se menciona (nunca se menciona) la forma de empresa que sí hay que fomentar por democrática y sostenible: la cooperativa (<a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.roigcultura.cat%2F2011%2F02%2Fpresentacio-del-llibre-cooperativisme.html&amp;h=zAQA6o6bP">lectura recomendada</a>). La noticia no dice nada de las niñas, se sospecha que el líder conservador impulsará la correspondiente ley de sumisión al marido "<a href="http://www.rosario.org.mx/servicios/lmatrim3.htm">como la Iglesia se somete a Cristo</a>" según han declarado fuentes cercanas.</p>

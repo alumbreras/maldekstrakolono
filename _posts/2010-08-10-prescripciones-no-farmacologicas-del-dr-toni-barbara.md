@@ -11,7 +11,7 @@ tags:
 - Salud
 temas: [estado-espanol]
 ---
-<blockquote>¿Cuantas veces he tenido que callar ante un enfermo que padecía una enfermedad<br />
+<blockquote><p>¿Cuantas veces he tenido que callar ante un enfermo que padecía una enfermedad<br />
 tan seria como el paro, y cuya solución cierta y etiológica hubiera sido un contrato<br />
 de un trabajo digno y estable. ¿Cuantas veces he tenido que disimular mi sentimiento<br />
 de solidaridad y de empatía con la anciana que me cuenta de su doliente soledad,<br />
@@ -29,7 +29,7 @@ superfluo evidente, aquí van algunas  `PRESCRIPCIONES NO FARMACOLÓGICAS.</p></
 <a href="http://bloclaratera.blogspot.com/2010/07/2-prescripciones-en-de-salud-la-vida.html">2. De salud: la vida cotidiana</a><span style="font-style: italic;"> </span><br />
 <a href="http://bloclaratera.blogspot.com/2010/07/y-3-prescripciones-politicas-acciones.html">3. Políticas: acciones de gobierno</a></p>
 <div style="border: 3px solid #000000; padding: 20px;">
-<ul /><span style="font-style: italic;"><span class="lost-image">[imagen perdida]</span></span></p>
+<span class="lost-image">[imagen perdida]</span>
 <ul>
 <li><span style="font-style: italic;">Este anuncio <strong>no</strong> es de un medicamento. </span></li>
 <li><span style="font-style: italic;">Lea detenidamente las instrucciones de uso.</span></li>

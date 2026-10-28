@@ -13,7 +13,7 @@ tags:
 redirect_from: /2012/12/10/contra-la-economia-del-bien-comun/
 temas: [marxismo]
 ---
-<blockquote><strong>idealismo:<br />
+<blockquote><p><strong>idealismo:<br />
 </strong><br />
 Antigua corriente filosófica. El idealismo afirma que el fundamento último de la realidad es "la Idea", "Dios" o "El Espíritu". En última instancia, implica una visión contemplativa del universo.</p></blockquote>
 <blockquote><p><strong>reformismo</strong>:</p>

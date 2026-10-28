@@ -14,7 +14,7 @@ tags:
 - huelga
 temas: [trabajo, cultura]
 ---
-<blockquote>No te quedes inmóvil al borde del camino<br />
+<blockquote><p>No te quedes inmóvil al borde del camino<br />
 no congeles el júbilo<br />
 no quieras con desgana<br />
 no te salves ahora<br />
