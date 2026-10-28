@@ -6,7 +6,7 @@ bio_version: "2018"
 
 Comunista mientras haya hambre, robespierista mientras haya monarquía.
 
-Afiliado a la CGT, porque un día llegó a mi casa -no se cómo- un ejemplar 
+Afiliado a la CGT, porque un día llegó a mi casa -no sé cómo- un ejemplar 
 de su periódico donde explicaban con mucha claridad la reforma laboral 
 que se estaba cociendo con el consentimiento de CCOO y UGT. 
 Con el tiempo aprendí lo que son los intereses creados, 
@@ -29,17 +29,17 @@ nunca he tomado homeopatía.
 
 Este blog, como su nombre indica, pretende ser de política, nacional, internacional, 
 y baetulense. "La maldekstra kolono" en esperanto significa "La columna izquierda". 
-Está claro que kolono es columna y, por eliminación, maldektra es izquierda 
+Está claro que kolono es columna y, por eliminación, maldekstra es izquierda 
 (dekstra es derecha, y en esperanto los antónimos se forman con el prefijo mal-, malsana, malgranda…). 
 
-Decía que esto se llama "La columna izquierda", no "La columna derecha", así que si sacrilizas 
+Decía que esto se llama "La columna izquierda", no "La columna derecha", así que si sacralizas 
 la propiedad privada, si defiendes los crucifijos en la escuela, si dices "perroflauta" con la boca torcida, 
 si crees en las fronteras, en la militarización, y en todas esas mindongas 
-que te han metido en la cabeza entonces, amigo, este blog no te va gustar.
+que te han metido en la cabeza entonces, amigo, este blog no te va a gustar.
 
 El título del blog es en esperanto porque si un día, por lo que sea, 
 tengo que utilizar una lengua internacional para un artículo que quiero que 
-lean mis lectores en Pekín o en Pokón, útilizaré el esperanto 
+lean mis lectores en Pekín o en Pokón, utilizaré el esperanto 
 (que puedes aprender, gratis y en un periquete, en webs como http://es.lernu.net). 
 Y porque aceptar el status quo es morirse de asco.
 

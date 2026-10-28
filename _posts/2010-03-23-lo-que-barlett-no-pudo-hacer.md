@@ -19,4 +19,3 @@ temas: [internacional]
 <p>Sigáis o no la serie, el capítulo es totalmente recomendable para estos días. Vodeís verlo online <a href="http://www.series21.com/el-ala-oeste-de-la-casa-blanca/5x12-un-dia-sin-noticias-one-day-without-news/">aquí</a>.</p>
 <p>Y <a href="http://ccfarre.blogspot.com/2010/03/yes-we-did.html">aquí</a> podéis leer una explicación de lo que se ha conseguido.</p>
 <p>Menos da una piedra.</p>
-<div class="zemanta-pixie"><img class="zemanta-pixie-img" src="{{ site.baseurl }}/assets/pixy.gif?x-id=3db98a02-8707-8fed-a123-6eaec40a3c21" alt="" /></div>

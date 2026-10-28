@@ -31,4 +31,3 @@ del asesinato de Octavio Roblero y de los dirigentes populares asesinados recien
 <p>• Que se ponga fin a todo tipo de <strong>hostigamiento, amenazas e intimidaciones contra todos los defensores de derechos humanos en Guatemala</strong> y miembros de las organizaciones populares y civiles guatemaltecas, y que se garantice el respeto por los derechos humanos y las libertades fundamentales en todo el país de conformidad con las normas internacionales de derechos humanos ratificadas por Guatemala y lo establecido en los Acuerdos de Paz de 1996.</p>
 <p><em>Associació d’Amistat amb el Poble de Guatemala</em></p>
 <p>También se hacen eco <a href="http://www.ecologistasenaccion.org/spip.php?article16700&amp;utm_source=twitterfeed&amp;utm_medium=twitter">Ecologistas en Acción</a>.</p>
-<div class="zemanta-pixie"><img class="zemanta-pixie-img" src="{{ site.baseurl }}/assets/pixy.gif?x-id=d26651f1-b9d0-8e4d-ac66-831558c3e08a" alt="" /></div>

@@ -40,5 +40,4 @@ temas: [cultura]
 <em><br />
 (En ese momento, tiene lugar un evento -¿es "evento" la palabra para ello?- el cual no puede ser descrito, de modo que no se hará ningún intento por describirlo)</em></p>
 <p>Extracto de | <span style="font-style: italic;">Gödel, Escher, Bach: un Eterno y Grácil Bucle</span> de Douglas R. Hofstadter</p>
-<div class="zemanta-pixie"><img class="zemanta-pixie-img" src="{{ site.baseurl }}/assets/pixy.gif?x-id=38044cf4-44e4-8ed9-84d6-4da166684373" alt="" /></div>
 </div>

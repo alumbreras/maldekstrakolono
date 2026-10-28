@@ -16,4 +16,3 @@ temas: [catalunya]
 <div style="text-align: center;"><span class="lost-image">[imagen perdida]</span></div>
 <div style="text-align: center;"><span class="lost-image">[imagen perdida]</span></div>
 <p>Y a este animal, <span style="text-decoration: line-through;">para desgracia de sus propios compañeros, está en CiU</span> lo <a href="http://www.catalunyapress.cat/es/notices/2010/03/convergencia_retira_temporalmente_el_carne_de_militante_a_ruben_novoa_por_incomodo_23624.php">acaban de finiquitar</a>. Que ningún partido lo acoja en su seno, amén.</p>
-<div class="zemanta-pixie"><img class="zemanta-pixie-img" src="{{ site.baseurl }}/assets/pixy.gif?x-id=5669f8cf-4f91-85eb-ae07-48e74c267770" alt="" /></div>
